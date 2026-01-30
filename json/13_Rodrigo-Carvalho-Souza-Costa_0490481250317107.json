@@ -1,0 +1,858 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "0490481250317107",
+    "nome_completo": "Rodrigo Carvalho Souza Costa",
+    "nome_citacoes": "Costa, R. C. S.;COSTA, RODRIGO CARVALHO SOUSA;Costa, Rodrigo Carvalho Souza",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal do Ceará - Campus Canindé. Rodovia BR 020, km 303 Jubaia 62700000 - Canindé, CE - Brasil Telefone: (88) 33430572 URL da Homepage: http://caninde.ifce.edu.br",
+    "atualizacao_cv": "04/04/2025",
+    "url": "http://lattes.cnpq.br/0490481250317107",
+    "texto_resumo": "Graduado pela UFC em Engenharia Elétrica com ênfase em Informática Industrial (2005) e pelo IFCE em Tecnologia Mecatrônica.Concluiu o mestrado de Engenharia de Teleinformática na área de Eletromagnetismo Aplicado pela UFC e o doutorado em Engenharia de Teleinformática na área de Sinais e Sistemas desenvolvendo um novo algoritmo de visão artificial para interação humano-dispositivo portátil. No período de 2010 à 2013 foi professor da Faculdade Lourenço Filho na área de infra-estrutura e redes locais, realizando a coordenação de atividades de pesquisa e orientação científica nas áreas de Visão Computacional e Administração de Rede através da coordeção o Pilar de Infra-estrutura da Fábrica de Software no período de 2010 à 2013, sendo responsável pela coordenação da equipe de infra-estrutura da Fábrica, realizando configuração de servidores virtualizados através Cytrix Server e Hyper-V server, bem como foi coordenador curso de Redes de Computadores até o processo de reconhecimento do curso.Tem experiência na área de programação multiplataforma, atuando principalmente nos seguintes temas: processamento de imagens, detecção de movimentos, interfaces de interação e sistemas embarcados, bem como nas áreas de administração de servidores linux e windows virtualizados, segurança da informação e redes de computadores.Desde 2013 é professor efetivo do Instituto Federal do Ceará responsável pela sub-área de Sistemas e Redes de Telecomunicações, responsável pelas disciplinas na área de redes de computadores e segurança da informação. Atualmente está lotado no campus de Paracuru é coordenador do curso técnico em Redes de computadores do IFCE Campus Paracuru, instrutor das academias Cisco e Huawei. Com vasta experiência em pesquisa e desenvolvimento nas áreas de processamento de imagens, sinais, desenvolvimento web e mobile, segurança da informação e desenvolvimento de tecnologias assistivas.Em 2016, foi o campeão do Cryptorace, e em 2017 fui o lider do Time campeao do Hackaflag 2017 e em 2018 fui o campeão da etapa de Fortaleza do HACKAFLAG (6o na final nacional).Grande entusiasta no desenvolvimento de novos talentos, sou extensionista e ministro treinamentos de capacitação profissional nas áreas de redes, inteligência artificial, computação em nuvem e segurança da informação. Criador da plataforma conhecida como Maratona Hacker que disponibiliza desafios de segurança ofensiva para iniciantes da área de segurança da informação. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Engenharia de Teleinformática",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2012",
+      "descricao": "Título: Um Novo Algoritmo para Interação Humano-Dispositivo Portátil Multiplataforma Utilizando Fluxo Óptico, Ano de obtenção: 2012. Orientador: Paulo César Cortez. Bolsista do(a): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico, FUNCAP, Brasil. Palavras-chave: detecção de movimento; Processamento de Vídeo; Fluxo Óptico; Dispositivos Portáteis; Interação com Dispositivos. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Sistemas Embarcados. Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Processamento Digital de Imagens. Setores de atividade: Fabricação de Aparelhos e Equipamentos de Telecomunicação; Desenvolvimento de Programas (Software)."
+    },
+    {
+      "tipo": "Mestrado em Engenharia de Teleinformática",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2007",
+      "descricao": "Título: Estudo Experimental e Numérico de Uma Antena Dielétrica baseada em CaTi1-x(Nb2/3Li1/3)xO3 (CNLTO) e CaTi1-x(Nb1/2Ln1/2)xO3 (Ln = Fe (CNFTO) e Bi (CNBTO)) para Aplicações de Bluetooth, Ano de Obtenção: 2007. Orientador: Antonio Sérgio Bezerra Sombra. Bolsista do(a): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico, FUNCAP, Brasil. Palavras-chave: Bluetooth; Comunicação Sem fio; Micro-ondas; Antenas Dielétricas; Materiais Cerâmicos Dielétricos; Ressoadores Dielétricos. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Telecomunicações / Especialidade: Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas. Grande Área: Engenharias / Área: Engenharia de Materiais e Metalúrgica / Subárea: Materiais Não-Metálicos / Especialidade: Cerâmicos."
+    },
+    {
+      "tipo": "Graduação em Tecnologia Mecatrônica",
+      "nome_instituicao": "Centro Federal de Educação Tecnológica do Ceará, CEFET-CE, Brasil",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2009",
+      "descricao": "Título: Inspeção Automática de Laranjas Destinadas à Produção de Suco, Utilizando Técnicas de Processamento Digital de Imagens. Orientador: Auzuir Ripardo de Alexandria."
+    },
+    {
+      "tipo": "Graduação em Curso de Graduação em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2005",
+      "descricao": "Título: Técnicas de Processamento Digital de Imagens Aplicado à Avaliação de Corrosão no Aço AISI 304L. Orientador: Fátima Nelsizeuma Sombra de Medeiros. Bolsista do(a): Agencia Nacional do Petróleo, ANP, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal do Ceará - Campus Canindé, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará - Campus Canindé",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2017",
+      "ano_inicio": "2014",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": "Professor de Ensino Básico Técnico e Tecnológ",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Básico Técnico e Tecnológ, Carga horária: 40, Regime: Dedicação exclusiva."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará - Campus Canindé, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará - Campus Canindé",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE, Campus, IFCE CRATO, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará - IFCE",
+      "instituicao_pais": "Campus",
+      "periodo": "2013 - 2014",
+      "ano_inicio": "2013",
+      "ano_fim": "2014",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor de Ensino Básico Técnico e Tecnológ",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Básico Técnico e Tecnológ, Carga horária: 40, Regime: Dedicação exclusiva."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE, Campus, IFCE CRATO, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará - IFCE",
+      "instituicao_pais": "Campus",
+      "periodo": "05/2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE, Campus, IFCE CRATO, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará - IFCE",
+      "instituicao_pais": "Campus",
+      "periodo": "12/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil.",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professor Universitário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil.",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2011 - 12/2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Curso de Redes de Computadores."
+      ]
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2011 - 12/2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fabrica de Software."
+      ]
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2010 - 12/2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2010 - 12/2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fabrica de Software, Laboratório de Visão Embarcada."
+      ]
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2010 - 03/2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": "Contrato Temporário",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2016",
+      "ano_inicio": "2012",
+      "ano_fim": "2016",
+      "vinculo": "Colaborador",
+      "enquadramento": "Colaborador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2012",
+      "ano_inicio": "2009",
+      "ano_fim": "2012",
+      "vinculo": "Doutorando",
+      "enquadramento": "Estudante de Doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": "Bolsista de Doutorado Funcap",
+      "enquadramento": "Bolsista de Doutorado",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2007",
+      "ano_inicio": "2005",
+      "ano_fim": "2007",
+      "vinculo": "Bolsista da FUNCAP",
+      "enquadramento": "Bolsista de Mestrado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": "Bolsista do PRH-31 da ANP",
+      "enquadramento": "Bolsista de Graduação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "Bolsista CNPQ",
+      "enquadramento": "Bolsista de Graduação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2003",
+      "ano_inicio": "2001",
+      "ano_fim": "2003",
+      "vinculo": "Bolsista voluntário",
+      "enquadramento": "Bolsista de Graduação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2005 - 09/2009",
+      "ano_inicio": "2005",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Tecnologia, Departamento de Engenharia de Teleinformática."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2005 - 12/2007",
+      "ano_inicio": "2005",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Tecnologia, Locem Laboratório de Teleinformática e Ciência dos Materiais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Tecnologia, Laboratório de Visão Imagens e Sinais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Tecnologia, Laboratório de Visão Imagens e Sinais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Tecnologia, Laboratório de Visão Imagens e Sinais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Tecnologia, Laboratório de Visão Imagens e Sinais."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará - Campus Paracuru, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará - Campus Paracuru",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor EBTT",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Visão Computacional",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Visão Computacional."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "REDES DE COMPUTADORES",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: REDES DE COMPUTADORES."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas Embarcados",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Embarcados."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas Operacionais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Operacionais."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Pouco",
+      "fala": "",
+      "le": "Bem",
+      "escreve": "",
+      "proficiencia_completa": "Compreende Pouco, Lê Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Uso Da Transformada De Hough Na Detecção De Segmentos De Retas Em Imagens Ruidosas",
+      "objetivo": "Aprofundar os conhecimentos sobre a transformada de hough, realizando pesquisa e desenvolvimentos de métodos de detecção de pontos relevantes do espaço de hough e metodologia de detecção / reconstrução de retas em imagens binárias corrompidas por ruído.. Grande área: Engenharias Palavras-chave: Hough Transform; line detection."
+    },
+    {
+      "nome": "Detecção De Detalhes Lineares Em Imagens SAR Aplicada À Análise Urbana De Redes De Rodovias",
+      "objetivo": "Desenvolver metodologias para detecção de detalhes em imagens corrompidas por ruído speckle, desenvolvendo algoritmos de filtragem e segmentação para imagens de Radar de Abertura Sintética, com o objetivo de segmentar ruas e rodovias neste tipo de imagem. Grande área: Ciências Exatas e da Terra Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Processamento Digital de Imagens. Palavras-chave: Imagem SAR; line detection."
+    },
+    {
+      "nome": "Métodos De Segmentação Multiescala Aplicados À Detecção De Alvos Em Imagens SAR",
+      "objetivo": "Pesquisa e desenvolvimento de Algoritmos) com o objetivo de localizar e reconhecer a existência de manchas de óleo no mar em imagens de Radar de Abertura SIntétia (SAR) através de técnicas de filtragem, segmentação e reconhecimento de padrões. Palavras-chave: Imagem SAR."
+    },
+    {
+      "nome": "Desenvolvimento de Antenas Ressoadoras Dielétricas",
+      "objetivo": "Estudo e desenvolvimeto de antenas ressoadoras dielétricas a partir de materiais cerâmicos para aplicações em micro-ondas e ondas milimétricas, relaizando simulações numéricas utilizando métodos de elementos finitos através do software HFSS e comprovação prática utilizando o analisador de rede HP8217ET, analizando perda de retorno,carta de smith e diagramas de radiação. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Telecomunicações. Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Telecomunicações / Especialidade: Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas. Setores de atividade: Fabricação de Material Eletrônico e de Aparelhos e Equipamentos de Comunicação. Palavras-chave: Bluetooth; Antenas Dielétricas; Materiais Cerâmicos Dielétricos; Micro-ondas; Ressoadores Dielétricos."
+    },
+    {
+      "nome": "Desenvolvimento de Materiais Dielétricos para aplicação em Micro-Ondas",
+      "objetivo": "Desenvolver novos materiais apartir do método cerâmico tradicional, realizando a caracterização estrutural e dielétrica para fins de verificação de características como constante dielétrica, perdas dielétricas e estabilidade térmica. Esta linha de pesquisa tem como objetivo desenvolver materiais com constante dielétrica na faixa de 30 à 50 com perdas na ordem de 0.001 para aplicações em antenas para dispositivos embarcados. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação / Especialidade: Medidas Elétricas. Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Telecomunicações / Especialidade: Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas. Setores de atividade: Fabricação de Material Eletrônico e de Aparelhos e Equipamentos de Comunicação. Palavras-chave: Materiais Cerâmicos Dielétricos; Micro-ondas; Ressoadores Dielétricos."
+    },
+    {
+      "nome": "Processamento Digital de Imagens e Vídeo",
+      "objetivo": "Conceber, desenvolver e implementar algoritmos de processamento digital de imagens e vídeo para aplicações em dispositivos móveis. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Processamento Digital de Imagens / Especialidade: Processamento de Vídeo. Setores de atividade: Desenvolvimento de Programas (Software) e Prestação de Serviços em Informática. Palavras-chave: detecção de movimento; camera de baixa resolução."
+    },
+    {
+      "nome": "Sistemas de Visão, Processamento Digital de Sinais, Imagens e Reconhecimento de Padrões",
+      "objetivo": "Conceber, projetar e implementar algoritmos e sistemas de identificação e reconhecimento de padrões em sianis e imagens digitais para aplicações industriais."
+    },
+    {
+      "nome": "Analise e Caracterização de Materiais por Processamento de Imagens Digitais",
+      "objetivo": "Pesquisa e Desenvolvimento de Técnicas de Processamento de Imagens para avaliação automática do grau de sensitização do aço inoxidável AISI 304L utilizados na Indústria de Petróleo. Grande área: Engenharias Grande Área: Engenharias / Área: Engenharia Elétrica / Subárea: Processamento Digital de Imagens. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação. Setores de atividade: Fabricação de Material Eletrônico e de Aparelhos e Equipamentos de Comunicação; Desenvolvimento de Programas (Software) e Prestação de Serviços em Informática; Produtos e Serviços Voltados Para A Defesa e Proteção do Meio Ambiente, Incluindo O Desenvolvimento Sustentado. Palavras-chave: PDI; Sensitização."
+    },
+    {
+      "nome": "Processsamento de Vídeo",
+      "objetivo": ""
+    },
+    {
+      "nome": "Programação para Dispositivos Portáteis",
+      "objetivo": ""
+    },
+    {
+      "nome": "Rastreamento de Objetos",
+      "objetivo": ""
+    },
+    {
+      "nome": "Redes de Computadores",
+      "objetivo": ""
+    },
+    {
+      "nome": "Servidores Linux",
+      "objetivo": ""
+    },
+    {
+      "nome": "Desenvolvimento distribuído",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Implicações da Educação Profissional e Tecnológica (EPT) na ¿reintegração¿, ¿recuperação¿, ¿readaptação¿, ¿reinserção¿, ¿reeducação¿ e ¿reabilitação¿ dos ¿sentenciados¿",
+        "ano": 2024,
+        "autores": "ALBUQUERQUE JUNIOR, AILTON BATISTA DE ; ARAÚJO, ANA CLÁUDIA UCHOA ; ROCHA, SINARA SOCORRO DUARTE ; Costa, Rodrigo Carvalho Souza ; AZEVEDO, LUIZ FELIPE ARAÚJO ; LIMA, MARCOS ANTONIO ROCHA DE ; ARAÚJO, NAFTALI TEIXEIRA DE ; CARVALHO, MICHELE LEMOS DE OLIVEIRA SOUSA ; BARROSO, MARIA DALIANE FERREIRA ; FREITAS, SILVANA RAMOS DE ASSIS ; BARROS, GILSON DA SILVA ; COSTA, ALINE LIMA SOARES DA ; ROCHA, CHRYSTIANE VIEGAS ; BARROS, RENATA DE OLIVEIRA GOES ; GUERRA, LORENA DE FÁTIMA COELHO",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e11572",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n13-088",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "UNO QUÍMICO DIGITAL: UMA PROPOSTA PARA O ENSINO DE QUÍMICA EM DISPOSITIVOS MÓVEIS. CONEDU - Tecnologias e educação. 1ed",
+        "ano": 2024,
+        "autores": "Bruno Costa, A D S ; Costa, Rodrigo Carvalho Souza",
+        "titulo_livro": "",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "627-644"
+      },
+      {
+        "titulo": "AÇÃO INIBIDORA DO EXTRATO DE NONI (MORINDA CITROFILIA) EM PROCESSOS CORROSIVOS DE AÇOS CARBONO EM MEIO ÁCIDO",
+        "ano": 2021,
+        "autores": "Bruno Costa, A D S ; FARIAS, C. A. ; Costa, R. C. S. ; BATISTA, F. E. F.",
+        "titulo_livro": "",
+        "editora": "Editora Conhecimento Livre",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "62-63"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "bordagem de Aprendizado Incremental para Sistemas de Detecção de Intrusão: Combatendo o Esquecimento Catastrófico",
+        "ano": 2023,
+        "autores": "LEMOS, R. S. ; GOMES, F. J. ; Mattos, C. L. C. ; CARNEIRO NETO, J. D. ; SILVA FILHO, J. G. ; Costa, R. C. S. ; RODRIGUES, E. B.",
+        "evento": "XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)",
+        "cidade": "",
+        "paginas": "1-14",
+        "isbn": ""
+      },
+      {
+        "titulo": "Inibição do Processo Corrosivo em Aços Carbono em Meio Ácido com a Utilização de Extratos",
+        "ano": 2021,
+        "autores": "FARIAS, C. A. ; BATISTA, F. E. F. ; Costa, R. C. S. ; Bruno Costa, A. D. S.",
+        "evento": "XVI Encontro de Iniciação Científica da UNI7",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Efeitos da Adição de Refinador de Grão na Microestrutura e nas Propriedades Mecânicas de Ligas de Alumínio Fundidas",
+        "ano": 2021,
+        "autores": "PAIVA, F. C. S. ; SOARES, H. ; Bruno Costa, A. D. S. ; Costa, R. C. S.",
+        "evento": "XVI Encontro de Iniciação Científica da UNI7, 2021, Fortaleza. Anais do XVI Encontro de Iniciação Científica da Uni7",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Construção de Um Forno do Tipo Cadinho para Fundir Ligas Metálica",
+        "ano": 2021,
+        "autores": "PINHEIRO, J. S. ; Bruno Costa, A. D. S. ; Costa, R. C. S.",
+        "evento": "Congresso Online de Engenharia de Materias, 2021, Fortaleza. Anais do Congresso Online de Engenharia de Materias",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [
+        {
+          "titulo": "Abordagem de Aprendizado Incremental para Sistemas de Detecção de Intrusão: Combatendo o Esquecimento Catastrófico.",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Rafael S. Lemos, Francisco J. Gomes, Carlielson D. Souza",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal do Ceará",
+          "curso": ""
+        }
+      ],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "BRAGA, R. B.; Costa, R. C. S.. Participação em banca de Adão Samba Nambi e Francisco Ramon de Souza Lopes..Os Principais Tipos de Ataques de Engenharia Social e seus Impactos no Cotidiano. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações) - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Adão Samba Nambi e Francisco Ramon de Souza Lopes",
+        "membros_banca": [
+          "BRAGA, R. B.",
+          "Costa, R. C. S."
+        ],
+        "titulo_trabalho": "Os Principais Tipos de Ataques de Engenharia Social e seus Impactos no Cotidiano",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações)",
+        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
+      },
+      {
+        "descricao": "FEITOSA, R. G. F.; MELLO, H. M.; Costa, R. C. S.. Participação em banca de REGINALDO DOS SANTOS AQUINO.UTILIZANDO A FERRAMENTA POWER BI PARA ANÁLISE DE DADOS DE PACIENTES DIAGNOSTICADOS COM CÂNCER NO BRASIL. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "REGINALDO DOS SANTOS AQUINO",
+        "membros_banca": [
+          "FEITOSA, R. G. F.",
+          "MELLO, H. M.",
+          "Costa, R. C. S."
+        ],
+        "titulo_trabalho": "UTILIZANDO A FERRAMENTA POWER BI PARA ANÁLISE DE DADOS DE PACIENTES DIAGNOSTICADOS COM CÂNCER NO BRASIL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
+      },
+      {
+        "descricao": "Silva Junior, E. T.; ROCHA NETO, A. R.; Costa, R. C. S.. Participação em banca de Francisco Mateus Rocha Filho.Implementação de um Sistema de Reconhecimento Facial em um Dispositivo Embarcado. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto Federal do Ceará.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Francisco Mateus Rocha Filho",
+        "membros_banca": [
+          "Silva Junior, E. T.",
+          "ROCHA NETO, A. R.",
+          "Costa, R. C. S."
+        ],
+        "titulo_trabalho": "Implementação de um Sistema de Reconhecimento Facial em um Dispositivo Embarcado",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "OLIVEIRA, M. L.; Costa, R. C. S.. Participação em banca de FRANCISCA THAYS LOBATO SILVA, HELLEN MABEL VIANA MESQUITA.ESTUDO DO USO DE IOT NA ÁREA DA SAÚDE. 2021. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Instituto Federal do Ceará - Campus Canindé.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "FRANCISCA THAYS LOBATO SILVA, HELLEN MABEL VIANA MESQUITA",
+        "membros_banca": [
+          "OLIVEIRA, M. L.",
+          "Costa, R. C. S."
+        ],
+        "titulo_trabalho": "ESTUDO DO USO DE IOT NA ÁREA DA SAÚDE",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Redes de Computadores)",
+        "universidade": "Campus Canindé"
+      },
+      {
+        "descricao": "MOREIRA, M. R. S.; ALMEIDA, E. S.; Costa, R. C. S.. Participação em banca de JOSÉ BELO ARAGÃO.PREDIÇÃO DE SÉRIES TEMPORAIS USANDO REDES NEURAIS ARTIFICIAIS: UM ESTUDO DE CASO APLICADO À PREDIÇÃO DO ATRASO DE EXECUÇÃO EM APLICAÇÕES VOIP. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações) - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "JOSÉ BELO ARAGÃO",
+        "membros_banca": [
+          "MOREIRA, M. R. S.",
+          "ALMEIDA, E. S.",
+          "Costa, R. C. S."
+        ],
+        "titulo_trabalho": "PREDIÇÃO DE SÉRIES TEMPORAIS USANDO REDES NEURAIS ARTIFICIAIS: UM ESTUDO DE CASO APLICADO À PREDIÇÃO DO ATRASO DE EXECUÇÃO EM APLICAÇÕES VOIP",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações)",
+        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "Costa, R. C. S.; Mattos, C. L. C.; RODRIGUES, E. B.. Participação em banca de Rafael Souza Lemos. Abordagem de Aprendizado Incremental para Sistemas de Detecção de Intrusão: Combatendo o Esquecimento Catastrófico.. 2023. Monografia (Aperfeiçoamento/Especialização em Residência em Segurança da Informação) - Universidade Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "Rafael Souza Lemos",
+        "membros_banca": [
+          "Costa, R. C. S.",
+          "Mattos, C. L. C.",
+          "RODRIGUES, E. B."
+        ],
+        "titulo_trabalho": "Abordagem de Aprendizado Incremental para Sistemas de Detecção de Intrusão: Combatendo o Esquecimento Catastrófico",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Residência em Segurança da Informação)",
+        "universidade": "Universidade Federal do Ceará"
+      },
+      {
+        "descricao": "SILVA, P. R. X.; FRANCA, A. B.; Costa, R. C. S.. Participação em banca de Jorge Henrique Costa do Nascimento.DESAFIOS DA PERÍCIA DIGITAL FORENSE DIANTE DA ESTEGANOGRAFIA DE ARQUIVOS: UMA REVISÃO INTEGRATIVA. 2021 - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "Jorge Henrique Costa do Nascimento",
+        "membros_banca": [
+          "SILVA, P. R. X.",
+          "FRANCA, A. B.",
+          "Costa, R. C. S."
+        ],
+        "titulo_trabalho": "DESAFIOS DA PERÍCIA DIGITAL FORENSE DIANTE DA ESTEGANOGRAFIA DE ARQUIVOS: UMA REVISÃO INTEGRATIVA",
+        "curso": "",
+        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 1,
+    "total_livros": 0,
+    "total_capitulos": 2,
+    "total_trabalhos_congressos": 2,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

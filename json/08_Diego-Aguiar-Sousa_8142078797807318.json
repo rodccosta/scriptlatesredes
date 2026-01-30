@@ -1,0 +1,403 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8142078797807318",
+    "nome_completo": "Diego Aguiar Sousa",
+    "nome_citacoes": "SOUSA, D. A.;SOUSA, DIEGO AGUIAR;SOUSA, DIEGO;SOUSA, DIEGO A.;AGUIAR SOUSA, DIEGO",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru. CE-341, Km 2, S/N Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210",
+    "atualizacao_cv": "18/11/2025",
+    "url": "http://lattes.cnpq.br/8142078797807318",
+    "texto_resumo": "Possui graduação em Engenharia da Computação pela Universidade Federal do Ceará (UFC), Especialização em Engenharia Industrial pelo Instituto Executivo de Formação/Faculdade Darcy Ribeiro, Mestrado e Doutorado em Engenharia de Teleinformática pela UFC. Desde 2013 é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente lotado no campus da cidade de Paracuru. Possui interesse em pesquisas na área de sistemas de comunicações sem fio, com foco em otimização numérica, redes 5G, alocação de recursos de rádio e aprendizado de máquinas. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Engenharia de Teleinformática",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2018",
+      "descricao": "Título: Radio Resource Management for Rate Maximization with QoS/QoE Provisioning in Wireless Networks O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2018. Orientador: Tarcisio Ferreira Maciel. Coorientador: Francisco Rafael Marques Lima."
+    },
+    {
+      "tipo": "Mestrado em Engenharia de Teleinformática",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2013",
+      "descricao": "Título: Análise de Desempenho de Sistemas OFDM Cooperativos DF com Amplificadores de Potência Não Lineares O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2013. Orientador: Carlos Alexandre Rolim Fernandes. Coorientador: Carlos Estêvão Rolim Fernandes. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: ofdm; Comunicação Cooperativa; Amplificador de Potência não Linear; Probabilidade de Outage; Probabilidade de Erro de Símbolo. Grande área: Engenharias"
+    },
+    {
+      "tipo": "Especialização em Engenharia Industrial",
+      "nome_instituicao": "(Carga Horária: 380h)",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "descricao": "Centro de Educação Tecnológica Darcy Ribeiro, FTDR, Brasil. Título: Segurança da Informação em Redes Industriais. Orientador: Rita de Cássia Marques Costa."
+    },
+    {
+      "tipo": "Graduação em Engenharia da Computação",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2011",
+      "descricao": "Título: Análise da PAPR e das Distorções Não-Lineares em Sistemas VFDM para Rádio Cognitivo. Orientador: Carlos Alexandre Rolim Fernandes. Bolsista do(a): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico, FUNCAP, Brasil."
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "CENTRO DE EDUC",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2006",
+      "descricao": "BASICA E PROF. PROF. LUCIANO FEIJAO, CSCA_PPROV, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de Mestrado",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Acesso Celular Inicial e Integrado à Rede de Transporte para Sistemas Sem Fio de Próxima Geração",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto visa aprofundar pesquisas no tema \"Acesso Celular Inicial e Integrado à Rede de Transporte para Sistemas Sem Fio de Próxima Geração\", envolvendo atividades de pesquisa para propor e analisar arquiteturas de transceptores, algoritmos de processamento de sinais de rádio e topologias de rede de acesso capazes de estabelecer enlaces robustos de comunicação rádio móvel através de procedimentos eficazes de acesso inicial à redes de acesso sem fio de próxima geração, utilizando-se para isso também da integração direta da rede de acesso com a rede de transporte, viabilizando uma arquitetura de rede sem fio altamente distribuída e flexível, adaptável às mais diferentes necessidades práticas de implantação, valendo-se para a consecução de tal objetivo da transmissão por múltiplas antenas do tipo MIMO e das técnicas de inteligência de máquina, capazes de estimar e alocar dinamicamente os recursos da rede de acesso, tais como: largura de banda, potência, tempo de acesso e antenas, aplicando as técnicas propostas a um grande número de usuários com alta demanda de tráfego considerando restrições de latência e desempenho, permitindo assim explorar benefícios daí advindos tais como incrementos de capacidade e de qualidade de serviço.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (2) . Integrantes: Diego Aguiar Sousa - Integrante / Francisco Rodrigo Porto Cavalcanti - Coordenador / Francisco Rafael Marques Lima - Integrante / Victor Farias Monteiro - Integrante / Tarcisio Ferreira Maciel - Integrante / Charles Casimiro Cavalcante - Integrante / Igor Moaco Guerreiro - Integrante / Lászlon Rodrigues da Costa - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Diego Aguiar Sousa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francisco Rodrigo Porto Cavalcanti",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Francisco Rafael Marques Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Victor Farias Monteiro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tarcisio Ferreira Maciel",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Charles Casimiro Cavalcante",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Igor Moaco Guerreiro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lászlon Rodrigues da Costa",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Beam Squinting Compensation: An NCR-Assisted Scenario",
+        "ano": 2025,
+        "autores": "SOUSA, DIEGO A.; LIMA, FCO. RAFAEL M. ; MONTEIRO, VICTOR F. ; MACIEL, TARCISIO F. ; MAKKI, BEHROOZ",
+        "revista": "IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY",
+        "volume": "74",
+        "numero": "",
+        "paginas": "12376-12390",
+        "issn": "0018-9545",
+        "doi": "http://dx.doi.org/10.1109/tvt.2025.3552960",
+        "qualis": ""
+      },
+      {
+        "titulo": "Network-Controlled Repeater - An Introduction",
+        "ano": 2025,
+        "autores": "CARVALHO, FCO ITALO G. ; PAIVA, RAUL VICTOR DE O. ; MACIEL, TARCISIO F. ; MONTEIRO, VICTOR F. ; LIMA, FCO. RAFAEL M. ; MOREIRA, DARLAN C. ; SOUSA, DIEGO A. ; MAKKI, BEHROOZ ; ÅSTRÖM, MAGNUS ; BAO, LEI",
+        "revista": "IEEE Communications Standards Magazine",
+        "volume": "-",
+        "numero": "",
+        "paginas": "1-1",
+        "issn": "2471-2825",
+        "doi": "http://dx.doi.org/10.1109/mcomstd.2025.3595035",
+        "qualis": ""
+      },
+      {
+        "titulo": "Cellular Network Densification: A System-Level Analysis With IAB, NCR, and RIS",
+        "ano": 2025,
+        "autores": "DA SILVA, GABRIEL C. M. ; MONTEIRO, VICTOR F. ; SOUSA, D. A. ; MOREIRA, DARLAN C. ; MACIEL, T. F. ; LIMA, FCO. RAFAEL M. ; MAKKI, BEHROOZ",
+        "revista": "IEEE Access",
+        "volume": "13",
+        "numero": "",
+        "paginas": "129269-129283",
+        "issn": "2169-3536",
+        "doi": "http://dx.doi.org/10.1109/access.2025.3587493",
+        "qualis": ""
+      },
+      {
+        "titulo": "Load Balancing-based Topology Adaptation for Integrated Access and Backhaul Networks",
+        "ano": 2025,
+        "autores": "PAIVA, RAUL ; CARVALHO, FRANCISCO ; LIMA, FRANCISCO ; MONTEIRO, VICTOR ; SOUSA, D. A. ; MOREIRA, DARLAN ; MACIEL, T. F. ; MAKKI, BEHROOZ",
+        "revista": "Journal of Communication and Information Systems (JCIS),",
+        "volume": "40",
+        "numero": "",
+        "paginas": "36-41",
+        "issn": "1980-6604",
+        "doi": "http://dx.doi.org/10.14209/jcis.2025.5",
+        "qualis": ""
+      },
+      {
+        "titulo": "5G-RCOLAB: A system level simulator for 5G and beyond in rural areas",
+        "ano": 2023,
+        "autores": "FERREIRA, GABRIEL C. ; BARRETO, PRISCILA SOLÍS ; CAETANO, MARCOS F. ; ALCHIERI, EDUARDO ; ARAUJO, DANIEL COSTA ; CAVALCANTI, RODRIGO P. ; SOUSA, DIEGO AGUIAR",
+        "revista": "COMPUTER COMMUNICATIONS",
+        "volume": "212",
+        "numero": "",
+        "paginas": "161-181",
+        "issn": "0140-3664",
+        "doi": "http://dx.doi.org/10.1016/j.comcom.2023.09.026",
+        "qualis": ""
+      },
+      {
+        "titulo": "Paving the Way Toward Mobile IAB: Problems, Solutions and Challenges",
+        "ano": 2022,
+        "autores": "F. MONTEIRO, VICTOR ; LIMA, FRANCISCO RAFAEL M. ; MOREIRA, DARLAN C. ; SOUSA, DIEGO A. ; MACIEL, TARCISIO F. ; MAKKI, BEHROOZ ; HANNU, HANS",
+        "revista": "Ieee Open Journal Of The Communications Society",
+        "volume": "3",
+        "numero": "",
+        "paginas": "2347-2379",
+        "issn": "2644-125X",
+        "doi": "http://dx.doi.org/10.1109/ojcoms.2022.3224576",
+        "qualis": ""
+      },
+      {
+        "titulo": "User-assisted bearer split control for dual connectivity in multi-RAT 5G networks",
+        "ano": 2020,
+        "autores": "ANTONIOLI, ROBERTO P. ; GUERREIRO, IGOR M. ; SOUSA, DIEGO AGUIAR ; RODRIGUES, EMANUEL BEZERRA ; E SILVA, CARLOS F. M. ; MACIEL, TARCÍSIO FERREIRA ; CAVALCANTI, FRANCISCO RODRIGO PORTO",
+        "revista": "WIRELESS NETWORKS (ONLINE)",
+        "volume": "26",
+        "numero": "",
+        "paginas": "3675-3685",
+        "issn": "1572-8196",
+        "doi": "http://dx.doi.org/10.1007/s11276-020-02283-6",
+        "qualis": ""
+      },
+      {
+        "titulo": "Unified Scheduling Framework for Dual Connectivity in Multi-RAT NSA 5G Networks",
+        "ano": 2020,
+        "autores": "ANTONIOLI, ROBERTO ; SOUSA, DIEGO ; RODRIGUES, EMANUEL ; GUERREIRO, IGOR ; SILVA, CARLOS ; MACIEL, TARCISIO ; CAVALCANTI, FRANCISCO",
+        "revista": "Journal of Communication and Information Systems (JCIS),",
+        "volume": "35",
+        "numero": "",
+        "paginas": "203-207",
+        "issn": "1980-6604",
+        "doi": "http://dx.doi.org/10.14209/jcis.2020.22",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "A Bayesian Algorithm for GNSS Time-Delay Estimation Using an Uncalibrated Array",
+        "ano": 2024,
+        "autores": "ARAÚJO, DANIEL C. ; SOUSA, DIEGO A. ; ANTREICH, FELIX",
+        "evento": "2024 19th International Symposium on Wireless Communication Systems (ISWCS)",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      },
+      {
+        "titulo": "Impact of Network Deployment on the Performance of NCR-assisted Networks",
+        "ano": 2024,
+        "autores": "DA SILVA, GABRIEL C. M. ; SOUSA, DIEGO A. ; MONTEIRO, VICTOR F. ; MOREIRA, DARLAN C. ; MACIEL, TARCISIO F. ; LIMA, FCO. RAFAEL M. ; MAKKI, BEHROOZ",
+        "evento": "2024 19th International Symposium on Wireless Communication Systems (ISWCS)",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      },
+      {
+        "titulo": "TDD frame design for interference handling in mobile IAB networks",
+        "ano": 2022,
+        "autores": "MONTEIRO, VICTOR F. ; LIMA, FCO. RAFAEL M. ; MOREIRA, DARLAN C. ; SOUSA, DIEGO A. ; MACIEL, TARCISIO F. ; MAKKI, BEHROOZ ; SHREEVASTAV, RITESH ; HANNU, HANS",
+        "evento": "GLOBECOM 2022 2022 IEEE Global Communications Conference",
+        "cidade": "",
+        "paginas": "5153",
+        "isbn": ""
+      },
+      {
+        "titulo": "Impact of LOS/NLOS Transitions on Signal Quality Predictions",
+        "ano": 2021,
+        "autores": "BRAGA, CALEB G. ; MONTEIRO, VICTOR FARIAS ; SOUSA, DIEGO AGUIAR ; MACIEL, TARCISIO F. ; CAVALCANTI, FRANCISCO R. P.",
+        "evento": "XXXIX Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "QoS Predictability in V2X Communication with Machine Learning",
+        "ano": 2020,
+        "autores": "MOREIRA, DARLAN C. ; GUERREIRO, IGOR M. ; SUN, WANLU ; CAVALCANTE, CHARLES C. ; SOUSA, DIEGO A.",
+        "evento": "2020 IEEE 91st Vehicular Technology Conference (VTC2020Spring)",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "FERNANDES, C. A. R.; LIMA, F. R. M.; SOUSA, D. A.. Participação em banca de Syllas Rangel Carneiro Magalhães. Sistema Cooperativo OFDMA Uplink Multiusuário com Amplificadores de Potência Não Lineares: Caracterização Teórica e Alocação de Recursos. 2020. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal do Ceará.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Syllas Rangel Carneiro Magalhães",
+        "membros_banca": [
+          "FERNANDES, C. A. R.",
+          "LIMA, F. R. M.",
+          "SOUSA, D. A."
+        ],
+        "titulo_trabalho": "Sistema Cooperativo OFDMA Uplink Multiusuário com Amplificadores de Potência Não Lineares: Caracterização Teórica e Alocação de Recursos",
+        "curso": "Dissertação (Mestrado em Engenharia Elétrica e de Computação)",
+        "universidade": "Universidade Federal do Ceará"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "MACIEL, T. F.; SILVA, Y. C. B.; SOUSA, DIEGO; SANTOS FILHO, J. C. S.. Participação em banca de Yuri Victor Lima de Melo. Dynamic e-ICIC Strategies Based on Financial Techniques. 2020. Tese (Doutorado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Yuri Victor Lima de Melo",
+        "membros_banca": [
+          "MACIEL, T. F.",
+          "SILVA, Y. C. B.",
+          "SOUSA, DIEGO",
+          "SANTOS FILHO, J. C. S."
+        ],
+        "titulo_trabalho": "Dynamic e-ICIC Strategies Based on Financial Techniques",
+        "curso": "Tese (Doutorado em Engenharia de Teleinformática)",
+        "universidade": "Universidade Federal do Ceará"
+      },
+      {
+        "descricao": "SILVA, Y. C. B.; MACIEL, T. F.; LIMA, F. R. M.; SOUSA, DIEGO; MARTINS, W. A.; KLEIN, A.. Participação em banca de Laszlon Rodrigues da Costa. Spatial compatibility metrics applied in 5G C-RAN networks. 2020. Tese (Doutorado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Laszlon Rodrigues da Costa",
+        "membros_banca": [
+          "SILVA, Y. C. B.",
+          "MACIEL, T. F.",
+          "LIMA, F. R. M.",
+          "SOUSA, DIEGO",
+          "MARTINS, W. A.",
+          "KLEIN, A."
+        ],
+        "titulo_trabalho": "Spatial compatibility metrics applied in 5G C-RAN networks",
+        "curso": "Tese (Doutorado em Engenharia de Teleinformática)",
+        "universidade": "Universidade Federal do Ceará"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 8,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 5,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

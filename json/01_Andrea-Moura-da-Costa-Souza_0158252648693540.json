@@ -1,0 +1,3532 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "0158252648693540",
+    "nome_completo": "Andrea Moura da Costa Souza",
+    "nome_citacoes": "COSTA, A. M.;SOUZA, A. M.C;SOUZA, ANDRÉA M. DA C;SOUZA, ANDRÉA M. DA C.;SOUZA, ANDRÉA MOURA DA COSTA;SOUZA, ANDREA MOURA DA COSTA;MOURA DA COSTA SOUZA, ANDREA",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal de Educação Ciência e Tecnologia do Ceará. RUA ANTONIO SALES Benfica 62680000 - Paracuru, CE - Brasil Telefone: (85) 33073702",
+    "atualizacao_cv": "16/01/2026",
+    "url": "http://lattes.cnpq.br/0158252648693540",
+    "texto_resumo": "Pós- Doutoramento em Educação Profissional (IFCE); Doutora em Educação Brasileira pela Universidade Federal do Ceará (UFC)- Linha de pesquisa em Estudo Organizacionais, Empreendedorismo, Inovação e Ensino - Mestre em Administração, (Université de Nancy2- UFMG) ; Mestre em Educação pela Université de Nancy 2- Especialista em Gestão e Planejamento Estratégico-pela Universidade Federal do Ceará. Especialista em Docência em Educação Profissional; Bacharel em Administração de Empresas; Bacharelado em Filosofia e Pedagogia. Vice- Coordenadora da pós-graduação- Mestrado profissional em Ensino(IFCE/ UNILAB). Professora efetiva do Instituto Federal do Ceará, Colaboradora dos projetos UFC- virtual; Universidade Aberta do Brasil-UAB; Parfor. Coordenadora do Grupo de Pesquisa IFCE/CNPQ Estudo Organizacionais, Empreendedorismo, Inovação e Ensino. Avaliadora capacitada do SINAES/INEP-MEC. Coordenadora e orientadora de projetos de IC- iniciação cientifica e Extensão. Tem experiência em Empreendedorismo, Inovação, Gestão Pública; Teorias Organizacionais; e Educação. Tem experiência técnica em consultoria organizacional, docência do ensino superior e Docência do ensino básico , Técnico e Tecnológico. Avaliadora ad hoc da FUNCAP-Fundação Cearense de Apoio ao Desenvolvimento. Foi Coordenadora do curso de Licenciatura em Ciências Biológicas (20181-2019) e Coordenadora de Pesquisa e Extensão (2017-2019). cordenadora de projetos de pesquisa e extensao com fomento e sem fomento, Diretora Financeiro e Administrativo da FAIFCE. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Educação",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "descricao": "Título: AVALIAÇÃO DOCENTE EM ESTÁGIO PROBATÓRIO: ESTUDO DAS AÇÕES EDUCACIONAIS DO PROGRAMA CASa /UFC- COMUNIDADE DE COOPERAÇÃO E APRENDIZAGEM SIGNIFICATIVA O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2016. Orientador: Marcos Antonio Martins Lima. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: COMPETENCIA; DOCENTE; AVALIACAO. Grande área: Ciências Humanas Grande Área: Ciências Sociais Aplicadas / Área: Administração. Setores de atividade: Educação."
+    },
+    {
+      "tipo": "Mestrado em APPRENTISSAGE E MEDIATION",
+      "nome_instituicao": "UNIVERSITE DE NANCY 2, NANCY 2, França",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "descricao": "Título: COMPETÊNCIAS DOCENTES E USO DAS NTIC, Ano de Obtenção: 2011. Orientador: MARIE JOSE GREMMO. Palavras-chave: ENSINO A DISTANCIA; COMPETENCIA. Grande área: Ciências Humanas Grande Área: Ciências Sociais Aplicadas / Área: Administração. Grande Área: Ciências Sociais Aplicadas / Área: Administração / Subárea: COMPETENCIAS. Setores de atividade: Atividades dos serviços de tecnologia da informação; Pesquisa e desenvolvimento científico."
+    },
+    {
+      "tipo": "Mestrado em SCIENCES ET GESTION",
+      "nome_instituicao": "UNIVERSITE NANCY 2, IAE, França",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "descricao": "Título: L?ENSEIGNEMENT SUPERIEUR TRANSFRONTALIER- CAS DU BRESIL, Ano de Obtenção: 2006. Orientador: Mohamed BAYAD. Palavras-chave: ENSINO A DISTANCIA/ QUALIDADE; COMERCIO EDUCATIVO; politicas públicas. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Sociais Aplicadas / Área: Administração / Subárea: Administração de Empresas. Grande Área: Ciências Sociais Aplicadas / Área: Administração / Subárea: Administração de Empresas / Especialidade: Administração de Recursos Humanos. Setores de atividade: Educação; Administração Pública, Defesa e Seguridade Social."
+    },
+    {
+      "tipo": "Especialização em ESPECIALIZAÇÃO EM Docência na Educação Básica",
+      "nome_instituicao": "(Carga Horária: 400h)",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2020",
+      "descricao": "Instituto Federal do Ceará campus Canindé, IFCE Canindé, Brasil. Título: REFLEXÃO SOBRE TRABALHO, EDUCAÇÃO E NOVOS SABERES DOCENTES. Orientador: Antonio Marcos da Costa Silvano."
+    },
+    {
+      "tipo": "Especialização em Estratégia e Gestão Empresarial",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2005",
+      "descricao": "Título: GESTAO AMBIENTAL- ESTUDO DE CASO. Orientador: MONICA ABREU."
+    },
+    {
+      "tipo": "Graduação em Pedagogia",
+      "nome_instituicao": "Faculdade Estácio do Ceará, Estácio FIC, Brasil",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2022",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em ADMINISTRACAO",
+      "nome_instituicao": "Faculdade Evolutivo, FACE, Brasil",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2005",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Filosofia",
+      "nome_instituicao": "Universidade Estadual do Ceará, UECE, Brasil",
+      "ano_inicio": "1997",
+      "ano_conclusao": "2000",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará, IFCEParacuru, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+      "instituicao_sigla": "IFCEParacuru",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2022 - 2024",
+      "ano_inicio": "2022",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil.",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Colaborador",
+      "enquadramento": "professor em Associação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil.",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Universidade da Integração Internacional da Lusofonia Afro-Brasileira."
+      ]
+    },
+    {
+      "instituicao": "Centro Universitário Christus, UNICHRISTUS, Brasil.",
+      "instituicao_nome": "Centro Universitário Christus",
+      "instituicao_sigla": "UNICHRISTUS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": "Celetista",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - Atual",
+      "ano_inicio": "2020",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "vICE-COORDENADOR DO MESTRADO PROFISSIONAL",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino IFCE/ UNILAB Coordenadora do grupo de pesquisa vinculado ao CNPQ Coordenadora e orientadora de projeto de extensão com fomento Papex, Coordenadora e orientadora de pesquisa-PIBIC, Representante da comissão própria de Avaliação."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Docente disciplina empreendedorismo sustentável para Tecnólogo gestão ambiental Docente disciplina empreendedorismo sustentável para Curso Técnico ambiental Docente disciplina empreendedorismo Técnico em Redes de computadores Docente da disciplina de empreendedorismo e inovação mestrado em ensino Coordenador projeto Papex Coordenador projeto PIBIC Representante da comissão própria de Avaliação."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino IFCE-Unilab participante da comissão do PDI participante da comissão do CPA participante da comissão do APCN MESTRADO EM ADMINISTRAÇÃO PÚBLICA participante da comissão do COLEGIADO do curso técnico em REDES DE COMPUTADORES participante da comissão organizadora do evento II semana do Meio Ambiente Coordenadora do evento III Universo IFCE."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino IFCE-Unilab participante da comissão do PDI participante da comissão do CPA participante da comissão do APCN MESTRADO EM ADMINISTRAÇÃO PÚBLICA participante da comissão do COLEGIADO do curso técnico em REDES DE COMPUTADORES participante da comissão organizadora do evento II semana do Meio Ambiente Coordenadora do evento III Universo IFCE."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DOCENTE",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2016",
+      "ano_inicio": "2015",
+      "ano_fim": "2016",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2016",
+      "ano_inicio": "2015",
+      "ano_fim": "2016",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor formador Etec",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, INSTITUTO FEDERAL DO CEARA- CAMPUS PARACURU."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2019 - 03/2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, INSTITUTO FEDERAL DO CEARA- CAMPUS PARACURU."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 06/2019",
+      "ano_inicio": "2017",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, INSTITUTO FEDERAL DO CEARA- CAMPUS PARACURU."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - 05/2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, INSTITUTO FEDERAL DO CEARA- CAMPUS PARACURU."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Fametro, Unifametro, Brasil.",
+      "instituicao_nome": "Centro Universitário Fametro",
+      "instituicao_sigla": "Unifametro",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2017",
+      "ano_inicio": "2013",
+      "ano_fim": "2017",
+      "vinculo": "Celetista",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Fametro, Unifametro, Brasil",
+      "instituicao_nome": "Centro Universitário Fametro",
+      "instituicao_sigla": "Unifametro",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": "Bolsista",
+      "enquadramento": "TUTOR UAB",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": "Bolsista",
+      "enquadramento": "TUTOR UAB",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": "Bolsista",
+      "enquadramento": "FORMADORA PARFOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": "Bolsista",
+      "enquadramento": "TUTOR UAB",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2016",
+      "ano_inicio": "2013",
+      "ano_fim": "2016",
+      "vinculo": "Bolsista",
+      "enquadramento": "BOLSISTA CAPES DOUTORADO",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": "Colaborador",
+      "enquadramento": "TUTORA-FORMADORA DO PROGRAMA PROUCA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador",
+      "enquadramento": "PROFESSOR SUBSTITUTO",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": "Colaborador",
+      "enquadramento": "TUTOR UAB",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2012 - 10/2016",
+      "ano_inicio": "2012",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculdade de Educação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2011 - 03/2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CAPES, CAPES, Brasil.",
+      "instituicao_nome": "CAPES",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2016",
+      "ano_inicio": "2013",
+      "ano_fim": "2016",
+      "vinculo": "Bolsista",
+      "enquadramento": "PESQUISADOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CAPES, CAPES, Brasil.",
+      "instituicao_nome": "CAPES",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": "Colaborador",
+      "enquadramento": "BOLSISTA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "FUNDO NACIONAL DE DESEN",
+      "instituicao_nome": "FUNDO NACIONAL DE DESEN",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2014 - 2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": "PROFESSOR-TUTOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO, FNDE, Brasil",
+      "instituicao_nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+      "instituicao_sigla": "FNDE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Seviço de apoio brasileiro a empresas, SEBRAE, Brasil.",
+      "instituicao_nome": "Seviço de apoio brasileiro a empresas",
+      "instituicao_sigla": "SEBRAE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2013",
+      "ano_inicio": "2004",
+      "ano_fim": "2013",
+      "vinculo": "PRESTACAO DE SERVICOS",
+      "enquadramento": "FUNCIONAL",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Seviço de apoio brasileiro a empresas, SEBRAE, Brasil",
+      "instituicao_nome": "Seviço de apoio brasileiro a empresas",
+      "instituicao_sigla": "SEBRAE",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2011 - 09/2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade do Baixo Parnaíba, FAP, Brasil.",
+      "instituicao_nome": "Faculdade do Baixo Parnaíba",
+      "instituicao_sigla": "FAP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade do Baixo Parnaíba, FAP, Brasil",
+      "instituicao_nome": "Faculdade do Baixo Parnaíba",
+      "instituicao_sigla": "FAP",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2012 - 06/2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Potiguar, UnP, Brasil.",
+      "instituicao_nome": "Universidade Potiguar",
+      "instituicao_sigla": "UnP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Celetista formal",
+      "enquadramento": "professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Potiguar, UnP, Brasil",
+      "instituicao_nome": "Universidade Potiguar",
+      "instituicao_sigla": "UnP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Potiguar, UnP, Brasil.",
+      "instituicao_nome": "Universidade Potiguar",
+      "instituicao_sigla": "UnP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Potiguar, UnP, Brasil",
+      "instituicao_nome": "Universidade Potiguar",
+      "instituicao_sigla": "UnP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universite de Nancy Ii, U.N. II, França.",
+      "instituicao_nome": "Universite de Nancy Ii",
+      "instituicao_sigla": "U.N. II",
+      "instituicao_pais": "França",
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "Bolsista",
+      "enquadramento": "BOLSISTA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universite de Nancy Ii, U",
+      "instituicao_nome": "Universite de Nancy Ii",
+      "instituicao_sigla": "U",
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "MAIRIE DE MAXE",
+      "instituicao_nome": "MAIRIE DE MAXE",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "Bolsista",
+      "enquadramento": "BOLSISTA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "MAIRIE DE MAXEVILLE, MAIRIE, França",
+      "instituicao_nome": "MAIRIE DE MAXEVILLE",
+      "instituicao_sigla": "MAIRIE",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CROUS- NANCY, CROUS, França.",
+      "instituicao_nome": "CROUS- NANCY",
+      "instituicao_sigla": "CROUS",
+      "instituicao_pais": "França",
+      "periodo": "2005 - 2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": "Celetista",
+      "enquadramento": "temporário CDD",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual",
+      "instituicao_nome": "Universidade Estadual",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2004 - 2005",
+      "ano_inicio": "2004",
+      "ano_fim": "2005",
+      "vinculo": "Colaborador",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual Vale do Acaraú, UVA-CE, Brasil",
+      "instituicao_nome": "Universidade Estadual Vale do Acaraú",
+      "instituicao_sigla": "UVA-CE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual Vale do Acaraú, UVA-CE, Brasil",
+      "instituicao_nome": "Universidade Estadual Vale do Acaraú",
+      "instituicao_sigla": "UVA-CE",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2004 - 06/2005",
+      "ano_inicio": "2004",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "HOTELEIRA ARY, HOTELEIRA ARY, Brasil.",
+      "instituicao_nome": "HOTELEIRA ARY",
+      "instituicao_sigla": "HOTELEIRA ARY",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "Celetista",
+      "enquadramento": "EXECUTIVO DE CONTAS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "DFL Indústria e Comércio, DFL, Brasil.",
+      "instituicao_nome": "DFL Indústria e Comércio",
+      "instituicao_sigla": "DFL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2003",
+      "ano_inicio": "2002",
+      "ano_fim": "2003",
+      "vinculo": null,
+      "enquadramento": "VENDEDORA JUNIOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Dentsply Indústria e Comércio Limitada, DENTSPLY, Brasil.",
+      "instituicao_nome": "Dentsply Indústria e Comércio Limitada",
+      "instituicao_sigla": "DENTSPLY",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - 2001",
+      "ano_inicio": "2000",
+      "ano_fim": "2001",
+      "vinculo": null,
+      "enquadramento": "DIVULGADORA HERPO",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "ABASE-ASSESSORIA BASICA DE SER",
+      "instituicao_nome": "ABASE-ASSESSORIA BASICA DE SER",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "1996 - 1996",
+      "ano_inicio": "1996",
+      "ano_fim": "1996",
+      "vinculo": "Celetista",
+      "enquadramento": "TECNICO EM INFORMATICA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "COOPERATI",
+      "instituicao_nome": "COOPERATI",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2004 - 2005",
+      "ano_inicio": "2004",
+      "ano_fim": "2005",
+      "vinculo": "Celetista",
+      "enquadramento": "cooperado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "COOPERATIVA DE EDUCAÇÃO DE ENSINO SUPERIOR, COOPENSINO, Brasil",
+      "instituicao_nome": "COOPERATIVA DE EDUCAÇÃO DE ENSINO SUPERIOR",
+      "instituicao_sigla": "COOPENSINO",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "A."
+      ]
+    },
+    {
+      "instituicao": "COOPERATIVA DE EDUCAÇÃO DE ENSINO SUPERIOR, COOPENSINO, Brasil",
+      "instituicao_nome": "COOPERATIVA DE EDUCAÇÃO DE ENSINO SUPERIOR",
+      "instituicao_sigla": "COOPENSINO",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2004 - 06/2005",
+      "ano_inicio": "2004",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "MAISON DES JEUNES ET DE LA CULTURE, MJC MAXE",
+      "instituicao_nome": "MAISON DES JEUNES ET DE LA CULTURE",
+      "instituicao_sigla": "MJC MAXE",
+      "instituicao_pais": null,
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "Celetista",
+      "enquadramento": "HORISTA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "MAISON DES JEUNES ET DE LA CULTURE, MJC MAXEVILLE, França",
+      "instituicao_nome": "MAISON DES JEUNES ET DE LA CULTURE",
+      "instituicao_sigla": "MJC MAXEVILLE",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "INFOLAND SCHOOL, INFOLAND, Brasil.",
+      "instituicao_nome": "INFOLAND SCHOOL",
+      "instituicao_sigla": "INFOLAND",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "Colaborador",
+      "enquadramento": "COLABORADOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "INFOLAND SCHOOL, INFOLAND, Brasil",
+      "instituicao_nome": "INFOLAND SCHOOL",
+      "instituicao_sigla": "INFOLAND",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Serviço Nacional de Aprendizagem do Cooperativismo, SESCOOP, Brasil.",
+      "instituicao_nome": "Serviço Nacional de Aprendizagem do Cooperativismo",
+      "instituicao_sigla": "SESCOOP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": "Celetista",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Serviço Nacional de Aprendizagem do Cooperativismo, SESCOOP, Brasil",
+      "instituicao_nome": "Serviço Nacional de Aprendizagem do Cooperativismo",
+      "instituicao_sigla": "SESCOOP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP/MEC, Brasil.",
+      "instituicao_nome": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+      "instituicao_sigla": "INEP/MEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "AVALIADOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP/MEC, Brasil",
+      "instituicao_nome": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+      "instituicao_sigla": "INEP/MEC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "FUNDAÇÃO DE APOIO AO IFCE, FAIFCE, Brasil.",
+      "instituicao_nome": "FUNDAÇÃO DE APOIO AO IFCE",
+      "instituicao_sigla": "FAIFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - Atual",
+      "ano_inicio": "2020",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "DIRETORA FINACEIRA E ADMINISTRATIVA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "JOGOS DIGITAIS E INCLUSÃO ESCOLAR: POTENCIALIDADES E DESAFIOS NA PRÁTICA PEDAGÓGICA",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto de pesquisa busca compreender o uso de jogos digitais nocontexto da inclusão escolar, analisando como essas ferramentas tecnológicas podemcontribuir para a aprendizagem de estudantes com necessidades educacionais específicas.Diante do avanço da tecnologia na educação, pretende-se investigar os desafios epotencialidades do uso de jogos digitais como estratégias pedagógicas inclusivas.2. Problema de Pesquisa Como os jogos digitais podem contribuir para a inclusão escolar eo desenvolvimento de práticas pedagógicas mais acessíveis e eficazes?. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: / Mestrado profissional: (1) . Integrantes: Andrea Moura da Costa Souza - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "POSSIBILIDADE DA OBTENÇÃO DA INDICAÇÃO GEOFRÁFICA DOS PRODUTOS/SERVIÇOS DAS MULHERES PESCADORAS ARTESANAIS DE PARACURU",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: GeralEstudar a viabilidade de criação de uma Indicação Geográfica para produtos/serviços característicos de Paracuru que tenham forte vínculo com o território, identidade cultural e saberes tradicionais.EspecíficosMapear produtos e processos com potencial de IG;Identificar grupos de produtores interessados;Diagnosticar diferencial competitivo local;Estimar impactos socioeconômicos;. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Andrea Moura da Costa Souza - Coordenador / FRANCISCA JAYNNE VIEIRA MAGALHAES - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "FRANCISCA JAYNNE VIEIRA MAGALHAES",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "A PESQUISA CIENTÍFICA COMO ELEMENTO FORMATIVO E DE DESENVOLVIMENTO DO SISTEMA FIEC.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Presente plano de trabalho tem por objeto a cooperação técnica e científica entre as partícipes signatárias, visando à pesquisa científica, o ensino e à capacitação profissional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: / Mestrado profissional: (10) . Integrantes: Andrea Moura da Costa Souza - Integrante / Kaé Stoll Colvero - Integrante / Simone César da Silva - Integrante / Emanoel Rodrigues Almeida - Coordenador / Sinara Mota Neves de Almeida - Integrante / LOURENCO OCUNI CA - Integrante / PAIM, IGOR DE MORAES - Integrante / ELCIMAR SIMÃO MARTINS - Integrante / BARBOSA, FABIANO GERALDO - Integrante / Eugenio Eduardo Pimentel Moreira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Kaé Stoll Colvero",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Simone César da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Emanoel Rodrigues Almeida",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Sinara Mota Neves de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "LOURENCO OCUNI CA",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "PAIM, IGOR DE MORAES",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ELCIMAR SIMÃO MARTINS",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BARBOSA, FABIANO GERALDO",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eugenio Eduardo Pimentel Moreira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "IMPLICAÇÕES EMPREENDEDORAS DA IMPLANTAÇÃO DE UMA HORTA",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Desenvolvimento da capacidade de solução dos discentes e proativa na criação de uma horta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10) / Doutorado: (2) . Integrantes: Andrea Moura da Costa Souza - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "REDE MUNICIPAL DE EDUCAÇÃO: POLÍTICAS EM MOVIMENTO,",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: O projeto de pesquisa REDE MUNICIPAL DE EDUCAÇÃO: POLÍTICAS EMMOVIMENTO tem sido desenvolvido pelos programas de pós-graduação do Instituto Federalde Educação, Ciência e Tecnologia do Ceará: o PPGARTES Programa de Pós-Graduaçãoem Artes - Mestrado Profissional em Artes do IFCE e o PPGEF UNILAB-IFCE - Mestradoem Ensino e Formação Docente Modalidade Profissional, do Programa Associado de Pós-Graduação em Ensino e Formação Docente (PPGEF UNILAB-IFCE).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: / Mestrado profissional: (10) . Integrantes: Andrea Moura da Costa Souza - Integrante / Simone César da Silva - Integrante / Fabiano Geraldo Barbosa - Integrante / Emanoel Rodrigues Almeida - Coordenador / SILVA, SOLONILDO ALMEIDA DA - Integrante / PAIM, IGOR DE MORAES - Integrante / Eugenio Eduardo Pimentel Moreira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Simone César da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fabiano Geraldo Barbosa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Emanoel Rodrigues Almeida",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "SILVA, SOLONILDO ALMEIDA DA",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "PAIM, IGOR DE MORAES",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eugenio Eduardo Pimentel Moreira",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Capacitar para transformar: Fortalecendo comunidades vulneráveis do Estado do Ceará através da capacitação de pessoas inscritas no Cadastro Único.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Formação de pessoas em vulnerabilidade social visando a empregabilidade e o desenvolvimento de negócios.. Situação: Em andamento; Natureza: Extensão. Integrantes: Andrea Moura da Costa Souza - Coordenador / Cicero Antonio Maia Cavalcante - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Cicero Antonio Maia Cavalcante",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "mulheres mil",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC)/MULHERES MIL -Bolsa-Formação tem como principais diretrizes, conforme Portaria MEC no 725, de 13 de abril de2023:a) possibilitar o acesso à educação;b) contribuir para a redução de desigualdades sociais e econômicas de mulheres;c) promover a inclusão social;d) defender a igualdade de gênero;e) combater a violência contra a mulher;f) promover o acesso ao exercício da cidadania; eg) desenvolver estratégias para garantir o acesso das mulheres ao mundo do trabalho.. Situação: Em andamento; Natureza: Extensão. Integrantes: Andrea Moura da Costa Souza - Coordenador / Liliane Veras Leite Castro - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Liliane Veras Leite Castro",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Possibilidade da obtenção da indicação geográfica dos produtos/serviços das mulheres pescadoras artesanais de Paracuru",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este trabalho tem como objetivo analisar a indicação geográfica de um produto ou serviço no município de Paracuru a partir da descrição e dos requisitos necessários para o reconhecimento. Estudar esse objeto de pesquisa pode colaborar com a valorização das mulheres pescadoras e do seu saber fazer, desenvolvimento regional e do turismo, aumento da remuneração e colaborar com as políticas públicas. A metodologia será qualitativa, exploratória com coleta de dados bibliográficos e pesquisa de campo. Os dados serão analisados e apresentados usando as descrições e requisitos do manual do Instituto Nacional de Propriedade Industrial (INPI).. Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Técnico de nível médio: (4) Graduação: (1) / Doutorado: (1) . Integrantes: Andrea Moura da Costa Souza - Coordenador. Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "POSSIBILIDADE DA OBTENÇÃO DA INDICAÇÃO GEOFRÁFICA DOS PRODUTOS/SERVIÇOS DAS MULHERES PESCADORAS ARTESANAIS DE PARACURU",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Analisar a indicação geográfica de um produto ou serviço das mulheres pescadoras no município de Paracuru a partir da descrição e dos requisitos necessários para o reconhecimento.. Situação: Em andamento; Natureza: Desenvolvimento. Integrantes: Andrea Moura da Costa Souza - Coordenador."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Andrea Moura da Costa Souza",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Administração",
+      "subarea": "Administração de Empresas",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Administração / Subárea: Administração de Empresas."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Administração",
+      "subarea": "empreendedorismo e inovação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Administração / Subárea: empreendedorismo e inovação."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Administração",
+      "subarea": "EDUCAÇÃO E ENSINO",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Administração / Subárea: EDUCAÇÃO E ENSINO."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Administração",
+      "subarea": "PLANEJAMENTO, GESTÃO E AVALIAÇÃO EDUCACIONAL",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Administração / Subárea: PLANEJAMENTO, GESTÃO E AVALIAÇÃO EDUCACIONAL."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Administração",
+      "subarea": "ESTUDOS ORGANIZACIONAIS",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Administração / Subárea: ESTUDOS ORGANIZACIONAIS."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Pouco."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Alemão",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Premiada do Edital ANAS 2025 -Mulheres na Ciência, IFCE.",
+      "ano": 2025
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "NÚCLEO DE AVALIAÇÃO EDUCACIONAL- NAVE/ GPAGE",
+      "objetivo": "Formar recursos humanos na área da avaliação educacional no nível da pós-graduação stricto sensu (mestrado e doutorado); fortalecer e consolidar o grupo de investigadores em avaliação educacional no âmbito da UFC; incentivar investigações acerca da qualidade dos sistemas, dos programas e das instituições educacionais; formalizar convênios nacionais e internacionais; avaliar a eficácia das políticas públicas educacionais; publicar trabalhos em periódicos nacionais e internacionais.."
+    },
+    {
+      "nome": "Coordenadora do grupo de pesquisa/CNPQ- ESTUDOS ORGANIZACIONAIS, EMPREENDEDORISMO, INOVAÇÃO E ENSINO- CNPQ",
+      "objetivo": "APROFUNDAR NO ESTUDO DAS ORGANIZAÇOES, formas de produção, relações de trabalho, empreendedorismo e inovação , mudanças de processo, adaptações ao mercado, gestão e planejamento estratégico e indicadores de eficiência.. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Humanas / Área: Educação / Subárea: Ensino-Aprendizagem. Palavras-chave: AVALIACAO; COMPETENCIAS; DOCENTE; EMPREENDEDORISMO; INOVAÇÃO."
+    },
+    {
+      "nome": "membro representante do projeto Sistema de gestão e controle de micro-geração distribuída/ EMBRAPII",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Análise da utilização da Inteligência Artificial nas práticas avaliativas na Educação Básica",
+        "ano": 2025,
+        "autores": "MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES ; SOUSA, JANIELE SANTOS DE ; RIBEIRO, SAMIA MARIA SILVA ; LIRA, LAÍS MELO ; SOUZA, CERLÂNDIA DOS SANTOS SILVA ; POMPEU, DURICA THAUANA ALVES ; BORGES, CAMILA MOURÃO",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e20739-15",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n12-149",
+        "qualis": ""
+      },
+      {
+        "titulo": "Formação docente e Inteligência Artificial: implicações da personalização do ensino na Educação Especial Inclusiva",
+        "ano": 2025,
+        "autores": "LIMA, ANDRÉIA AMORIM DE ; BENÍCIO, FRANCISCO EMISON DA COSTA ; NASCIMENTO, IZABEL CRISTINA MARCELINO DO ; GUEDES, HELOÍSA BARRETO ; SIEBRA, CÁTIA MENEZES CARNEIRO ; MARTINS, QUEZIA MELO ; MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e20738-21",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n12-148",
+        "qualis": ""
+      },
+      {
+        "titulo": "A natureza interdisciplinar da aplicação da IA no ambiente escolar",
+        "ano": 2025,
+        "autores": "VASCONCELOS, TARCIANA ALMEIDA SARAIVA ; FREIRES, ANTONIA EDNA VIANA ; SANTIAGO, ANA PAULA FEITOZA FERREIRA ; CORDEIRO, ANTONIA CONCEIÇÃO DA COSTA ; GOMES, TEREZA CRISTINA OLIVEIRA ; MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES ; SOUSA, FRANCISCO JUCIVÂNIO FÉLIX DE",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e20737-19",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n12-147",
+        "qualis": ""
+      },
+      {
+        "titulo": "A análise da contribuição da Inteligência Artificial (IA) em Sistemas de Tutores Inteligentes (STI) nos processos educativos de crianças e jovens frente os problemas civilizatórios da sociedade contemporânea",
+        "ano": 2025,
+        "autores": "MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES ; BORGES, CAMILA MOURÃO ; SOUZA, CERLÂNDIA DOS SANTOS SILVA ; SOUSA, FRANCISCO JUCIVÂNIO FÉLIX DE ; SILVA, SIMONE CESAR DA ; SOUSA, LEANDRO ARAUJO DE ; BARBOSA, FABIANO GERALDO",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e20736-16",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n12-146",
+        "qualis": ""
+      },
+      {
+        "titulo": "O uso da Inteligência Artificial (IA) na Formação Docente: práticas pedagógicas para a Humanização",
+        "ano": 2025,
+        "autores": "AIRES, ALANA DIANA FERRO ; LIMA, ANA JÉSSYCA DA SILVA ; LIMA, ANTONIO JHONATA DE OLIVEIRA ; FERREIRA, ANTÔNIO MARCOS DE MIRANDA ; LIMA, KAROLINY MONTEIRO VIANA ; LIMA, MARIA VERÔNICA ALVES DE ; MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e20713",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n12-127",
+        "qualis": ""
+      },
+      {
+        "titulo": "Inteligência Artificial, discriminação algorítmica e emancipação humana: desafios e atravessamentos no campo educativo",
+        "ano": 2025,
+        "autores": "SILVESTRE, ALEX ALVES ; AGUIAR, ALINE LOPES DE ; GOMES, ANA KAROLINE GONÇALVES ; REINALDO, BRUNO ALVES ; SILVA, FERNANDA GOMES ; GUEDES, RAMON TORRES ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES ; MOREIRA, EUGENIO EDUARDO PIMENTEL",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e20712",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n12-126",
+        "qualis": ""
+      },
+      {
+        "titulo": "O uso dos resultados das avaliações em larga escala na prática docente da educação básica: Uma revisão da literatura",
+        "ano": 2025,
+        "autores": "RIBEIRO, SAMIA MARIA SILVA ; SOUZA, ANDREA MOURA DA COSTA",
+        "revista": "Revista de Instrumentos, Modelos e Políticas em Avaliação Educacional",
+        "volume": "6",
+        "numero": "",
+        "paginas": "e025026-16",
+        "issn": "2675-7427",
+        "doi": "http://dx.doi.org/10.51281/impa.e025026",
+        "qualis": ""
+      },
+      {
+        "titulo": "Um olhar sobre os impactos da formação docente e o uso das tecnologias educacionais, na avaliação de desempenho do estudante - ADE a partir de um estudo de caso em um curso de habilitação técnica",
+        "ano": 2024,
+        "autores": "SOUZA, ANDREA MOURA DA COSTA; MORAIS, JOSÉ CLÁUDIO ALBUQUERQUE DE ; BRANDÃO, MARIA ROSENDO ; PARENTE, SÔNIA MARIA GOMES ; ALMEIDA, EMANOEL RODRIGUES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e6784-20",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n8-149",
+        "qualis": ""
+      },
+      {
+        "titulo": "O componente curricular de educação tecnológica nos anos finais do ensino fundamental: potencialidades exploradas pelos professores da rede de ensino SESI Ceará",
+        "ano": 2024,
+        "autores": "SILVEIRA, MATEUS MARCOS SILVA DA ; FÉLIX, HANGLEY DA SILVA ; MELO, CARLOS EDUARDO COSTA ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES ; PEREIRA, DOUGLAS WASHINGTON CARIOCA ; SILVA, AMANDA FERREIRA DA ; CAVALCANTE, GERVÂNIA SAMPAIO",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e6783",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n8-148",
+        "qualis": ""
+      },
+      {
+        "titulo": "O crescimento exponencial do atendimento na educação inclusiva e o perfil dos professores regentes para um melhor atendimento dos alunos neuroatípicos: Renovando o olhar nas escolas do SESI Ceará",
+        "ano": 2024,
+        "autores": "PINHO, ANA PAULA HENRIQUE ; PEREIRA, DOUGLAS WASHINGTON CARIOCA ; SILVA, REJANE PEREIRA DA ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES ; SILVEIRA, MATEUS MARCOS SILVA DA ; MELO, CARLOS EDUARDO COSTA ; VIANA, LEVI MAGALHÃES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e6913",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n8-169",
+        "qualis": ""
+      },
+      {
+        "titulo": "Avaliação diagnóstica dos estudantes nos cursos de aprendizagem industrial em uma escola profissionalizante",
+        "ano": 2024,
+        "autores": "SILVA, ALISSON FELIX DA ; CORREIA, CLÁUDIA DE CASTRO ; FALCÃO, HENRIQUE PEREIRA DE SOUSA ; OLIVEIRA, RICHARD ANDERSON FONTELES DE ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e6998",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n8-198",
+        "qualis": ""
+      },
+      {
+        "titulo": "Perspectiva docente e discente acerca da aprendizagem na habilitação técnica na modalidade a distância: um estudo de caso numa instituição de ensino de Educação Profissional do Ceará",
+        "ano": 2024,
+        "autores": "SOUZA, ANDREA MOURA DA COSTA; SILVA, ANA PAULA MELO ; XAVIER, CARLA GERVANIA ALVES ; SOUSA, LEIDELANDIA BRAZ DE ; ARAÚJO, MARIA LUIZA MAIA ; ALMEIDA, EMANOEL RODRIGUES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e6956",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n8-180",
+        "qualis": ""
+      },
+      {
+        "titulo": "Um relato de experiência: a formação de professores para o ensino por habilidades na Escola SESI de Referência Roberto Proença de Macêdo",
+        "ano": 2024,
+        "autores": "SILVA, AMANDA FERREIRA DA ; CAVALCANTE, GERVÂNIA SAMPAIO ; VIANA, LEVI MAGALHÃES ; FÉLIX, HANGLEY DA SILVA ; PINHO, ANA PAULA HENRIQUE ; SILVA, REJANE PEREIRA DA ; SOUZA, ANDREA MOURA DA COSTA ; ALMEIDA, EMANOEL RODRIGUES",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "e6714",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv21n8-108",
+        "qualis": ""
+      },
+      {
+        "titulo": "O perfil do professor da rede municipal de Fortaleza a partir da sua prática leitora pautada na BNC formação",
+        "ano": 2023,
+        "autores": "FREIRE, ANGÉLICA DOS SANTOS ; ALVES, MARIA AURIGELINA COSTA ; ALVES, TATIANA SILVA ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "12",
+        "numero": "",
+        "paginas": "e5512139300",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v12i1.39300",
+        "qualis": ""
+      },
+      {
+        "titulo": "Trabalho e tensões sociais no conto ¿O Poderoso Dr. Matamorros¿ de Lima Barreto",
+        "ano": 2023,
+        "autores": "FREIRE, ANGELICA DOS SANTOS ; CARDOSO, EUGENIO ALVES ; ALMEIDA, EMANOEL RODRIGUES ; BARBOSA, FABIANO GERALDO ; ALVES, TATIANA SILVA ; MESSIAS, MARCIO DE MELO ; TAMIARANA, KELLY HENRIQUE ; BREVES FILHO, JOSÉ DE SOUZA ; SOUZA, ANDREA MOURA DA COSTA",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "20",
+        "numero": "",
+        "paginas": "3123-3137",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv20n8-007",
+        "qualis": ""
+      },
+      {
+        "titulo": "Tessituras da memória: leituras literárias e o ser negro pelo olhar de professores de uma escola de ensino médio no Cariri cearense",
+        "ano": 2022,
+        "autores": "LOPES, B. A. L. ; ALBUQUERQUE, E. T. ; SOUZA, A. M.C ; LIMA, A. E. F.",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "1-11",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i1.245413",
+        "qualis": ""
+      },
+      {
+        "titulo": "Acolhida na disciplina de Prática de Ensino como potencial para diálogos reflexivos para os licenciandos de um curso de Química",
+        "ano": 2022,
+        "autores": "FIRMINO, NAIRLEY CARDOSO SÁ ; MAIA, FÁBEL FRANKLIN DE SOUZA ; FIRMINO, DIEGO FARIAS ; SOUZA, ANDRÉA MOURA DA COSTA ; LIMA, ANNA ÉRIKA FERREIRA ; COSTA, ELISANGELA ANDRÉ DA SILVA ; MARTINS, ELCIMAR SIMÃO",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e10211124512-11",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i1.24512",
+        "qualis": ""
+      },
+      {
+        "titulo": "A crise sanitária causada pelo novo coronavírus e o sistema de avaliação da educação básica (SAEB): a conquista de resultados exitosos de uma escola num cenário desafiador",
+        "ano": 2022,
+        "autores": "BONFIM, GURHGEL PRESLEY GOMES ; SILVA, EDUARDO DINIZ SOUSA E ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e24111738083-13",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i17.38083",
+        "qualis": ""
+      },
+      {
+        "titulo": "As contribuições do Project Model Canvas no planejamento da formação continuada de professores",
+        "ano": 2022,
+        "autores": "FERREIRA, FRANCISCO JARDILSON BARROSO ; OLIVEIRA, LARISSA CAMILA MARTINS DE ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e53111738667",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i17.38667",
+        "qualis": ""
+      },
+      {
+        "titulo": "Práticas avaliativas de professores alfabetizadores: caminhos para uma reflexão",
+        "ano": 2022,
+        "autores": "KOKAY, RAQUEL DE ALMEIDA DE CARVALHO ; ASSUNÇÃO, SANDRA MARIA TAVARES ; LAVOR, THYARA ARAÚJO RODRIGUES ; SANTOS, VERÔNICA LOPES DOS ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e76111738813",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i17.38813",
+        "qualis": ""
+      },
+      {
+        "titulo": "A aplicação do Project Model Canvas no planejamento das formações continuadas de professores do Programa Mais Paic",
+        "ano": 2022,
+        "autores": "DAMASCENO, GERVIZ FERNANDES DE LIMA ; CHAVES, EDMILSON RODRIGUES ; DIAS, IDALINA MARIA SAMPAIO DA SILVA FEITOSA ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e202111638058",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i16.38058",
+        "qualis": ""
+      },
+      {
+        "titulo": "A abordagem do processo de avaliação da aprendizagem pelo coordenador pedagógico",
+        "ano": 2022,
+        "autores": "TAMIARANA, KELLY HENRIQUE ; CARDOSO, EUGÊNIO ALVES ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e576111638597",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i16.38597",
+        "qualis": ""
+      },
+      {
+        "titulo": "Análise do projeto pedagógico e currículos para a formação do professor de Ciências Biológicas",
+        "ano": 2022,
+        "autores": "MAGALHÃES, ANA HIRLEY RODRIGUES ; SOUZA, ANDRÉA MOURA DA COSTA ; LIMA, ANNA ÉRIKA FERREIRA ; ALMEIDA, SINARA MOTA NEVES DE",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e7511426069",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i4.26069",
+        "qualis": ""
+      },
+      {
+        "titulo": "Uma revisão integrativa de literatura sobre o MOOC no ensino de Ciências",
+        "ano": 2022,
+        "autores": "NASCIMENTO, RENATA MAKELLY TOMAZ DO ; SANTOS, CRISTIANA DE PAULA ; TEIXEIRA, REGINA MARIA ; PAIM, IGOR DE MORAES ; SOUZA, ANDREA MOURA DA COSTA",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e321111638600",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i16.38600",
+        "qualis": ""
+      },
+      {
+        "titulo": "A utilização da ferramenta Project Model Canvas no planejamento de um projeto educacional em uma escola de Canindé-CE",
+        "ano": 2022,
+        "autores": "BRAGA, DANIEL MARTINS ; MARTINS, ELCIMAR SIMÃO ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES ; SILVA, EDUARDO DINIZ SOUSA E ; BONFIM, GURHGEL PRESLEY GOMES ; ARAÚJO, EVILÂNDIA ALVES ; BARROS, DIEGO MATOS ARAÚJO ; OLIVEIRA, PEDRO MARCELO LIMA DE ; FREITAS, FRANCISCA MARCIA GABRIELLE ALVES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e140111737933",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i17.37933",
+        "qualis": ""
+      },
+      {
+        "titulo": "O uso de ferramentas Google para a produção automatizada de relatórios da aprendizagem em turmas de séries iniciais para as escolas públicas do município de Fortaleza - CE",
+        "ano": 2022,
+        "autores": "MESSIAS, MARCIO DE MELO ; RODRIGUES, MIDIÃ ALVES DA SILVA ; COSTA, ROGER FREITAS DA ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e122111739151",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i17.39151",
+        "qualis": ""
+      },
+      {
+        "titulo": "Aplicabilidade da ferramenta Project Model Canvas para o gerenciamento do projeto de oficinas na escola: práticas da política nacional inclusiva na formação docente",
+        "ano": 2022,
+        "autores": "COSTA, CÁSSIA EUFRASIA DA SILVA ; ARAÚJO, EVILÂNDIA ALVES ; SABOIA, RAFAEL COSTA ; SOUZA, ANDREA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "e404111638313",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v11i16.38313",
+        "qualis": ""
+      },
+      {
+        "titulo": "Project Model Canvas’ Contributions to the Project-Based Learning Method",
+        "ano": 2021,
+        "autores": "OZÓRIO, FRANCISCA JANAINA DANTAS GALVÃO ; CAVALCANTE, PETRÔNIO ; FERREIRA PITOMBEIRA, ANA LUCIA ; VENCESLAU DE LIMA JUNIOR, GERALDO ; MOTA NEVES DE ALMEIDA, SINARA ; RODRIGUES ALMEIDA, EMANOEL ; MOURA DA COSTA SOUZA, ANDREA ; DE MORAES PAIM, IGOR",
+        "revista": "INTERNATIONAL JOURNAL FOR INNOVATION EDUCATION AND RESEARCH",
+        "volume": "9",
+        "numero": "",
+        "paginas": "475-484",
+        "issn": "2411-3123",
+        "doi": "http://dx.doi.org/10.31686/ijier.vol9.iss1.2916",
+        "qualis": ""
+      },
+      {
+        "titulo": "saberes para a pratica docente",
+        "ano": 2021,
+        "autores": "SOUZA, A. M.C; ALMEIDA, EMANOEL RODRIGUES ; SILVA, S. A. ; PIMENTE, E. E.",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "10",
+        "numero": "",
+        "paginas": "1",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v10i6.xxx",
+        "qualis": ""
+      },
+      {
+        "titulo": "Formação continuada de professores na Educação Básica no Brasil: para além dos limites da titulação",
+        "ano": 2021,
+        "autores": "MONTEIRO, B. S. ; FELIX, ; ALVES, P. T. A. ; SOUZA, A. M.C",
+        "revista": "EDUCARMAIS",
+        "volume": "5",
+        "numero": "",
+        "paginas": "650-661",
+        "issn": "2237-9185",
+        "doi": "http://dx.doi.org/10.15536/reducarmais.5.2021.2241",
+        "qualis": ""
+      },
+      {
+        "titulo": "CONTRIBUIÇÕES DO PROJECT MODEL CANVAS NA REELABORAÇÃO DO PROJETO POLÍTICO PEDAGÓGICO",
+        "ano": 2021,
+        "autores": "ALVES, P. T. A. ; MONTEIRO, B. S. ; FELIX, C. M. ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "revista": "REVISTA CONEXÕES - CIÊNCIA E TECNOLOGIA",
+        "volume": "15",
+        "numero": "",
+        "paginas": "021032",
+        "issn": "2176-0144",
+        "doi": "http://dx.doi.org/10.21439/conexoes.v15i0.2118",
+        "qualis": ""
+      },
+      {
+        "titulo": "Primeiras Experiências de Educação Escolar Tapeba: memórias e relatos",
+        "ano": 2021,
+        "autores": "LOPES, KATIA COELHO CASTRO DE MORAIS ; SOUZA, ANDRÉA MOURA DA COSTA ; LIMA, ANNA ÉRIKA FERREIRA",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "10",
+        "numero": "",
+        "paginas": "e156101724346-10",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v10i17.24346",
+        "qualis": ""
+      },
+      {
+        "titulo": "A compreensão da educação diante das desigualdades socioespaciais na pandemia de Covid-19: uma memória em minicontos a partir da percepção de estudantes e professores.",
+        "ano": 2021,
+        "autores": "COSTA, CINTIELENA HOLANDA ; VASCONCELOS, CYNTIA MARIA SILVA ; SOUZA, ANDRÉA MOURA DA COSTA ; LIMA, ANNA ÉRIKA FERREIRA",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "10",
+        "numero": "",
+        "paginas": "e356101623963",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v10i16.23963",
+        "qualis": ""
+      },
+      {
+        "titulo": "FUNÇÕES E APLICAÇÕES DAS ATIVIDADES DO PLANEJAMENTO E CONTROLE DA PRODUÇÃO EM UMA INDÚSTRIA DE INSUMOS PARA EMPRESAS DO SETOR TÊXTIL DO CEARÁ",
+        "ano": 2020,
+        "autores": "COSTA, ISAQUE SANTIAGO AMARO ; GURGEL, JORGE DOS SANTOS ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "revista": "REVISTA GESTÃO EM ANÁLISE",
+        "volume": "9",
+        "numero": "",
+        "paginas": "159-168",
+        "issn": "1984-7297",
+        "doi": "http://dx.doi.org/10.12662/2359-618xregea.v9i2.p159-168.2020",
+        "qualis": ""
+      },
+      {
+        "titulo": "Produção do conhecimento no campo da educação profissional e tecnológica no contexto do Toyotismo",
+        "ano": 2020,
+        "autores": "ALMEIDA, EMANOEL RODRIGUES ; SILVA, SOLONILDO ALMEIDA DA ; MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ROCHA, PAULO CÉSAR DA SILVA",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "9",
+        "numero": "",
+        "paginas": "e180993332-8",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v9i9.3332",
+        "qualis": ""
+      },
+      {
+        "titulo": "Cenário político e contribuições da mídia no processo de desvalorização da Ciência no Brasil",
+        "ano": 2020,
+        "autores": "ARAGAO, D. S. S. ; SOUZA, ANDRÉA MOURA DA COSTA ; SILVA, SOLONILDO ALMEIDA DA ; JUCA, S. C. S.",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "9",
+        "numero": "",
+        "paginas": "1-14",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v9i8.7138",
+        "qualis": ""
+      },
+      {
+        "titulo": "A aplicação do Project Model Canvas para o planejamento de um projeto educacional com aulas remotas no período de distanciamento social",
+        "ano": 2020,
+        "autores": "FERREIRA NETO, JOSÉ OLÍMPIO ; VASCONCELOS, ANA PAULA MARTINS FARIAS ; SOUZA, ANDRÉA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
+        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
+        "volume": "9",
+        "numero": "",
+        "paginas": "e16691210928-15",
+        "issn": "2525-3409",
+        "doi": "http://dx.doi.org/10.33448/rsd-v9i12.10928",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "MUDANÇAS EDUCATIVAS EM TEMPOS DE PANDEMIA: PRÁTICAS CURRICULARES E DESAFIOS NA ALFABETIZAÇÃO NO ENSINO REMOTO. \"ENSINO, PESQUISA E EXTENSÃO: UMA ABORDAGEM PLURALISTA. 32ed",
+        "ano": 2026,
+        "autores": "ASSUNÇÃO, SANDRA MARIA TAVARES ; Araújo, Karlane Holanda ; SOUZA, ANDREA MOURA DA COSTA",
+        "titulo_livro": "",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "387-400"
+      },
+      {
+        "titulo": "IMPLICAÇÕES PEDAGÓGICAS DA IMPLANTAÇÃO DE UMA HORTA PARA OS ESTUDANTES. Trilhas Pedagógicas no Ensino Técnico e Superior do IFCE j. 01ed.SÃO PAULO",
+        "ano": 2025,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; COSTA, W. M. ; SILVA, N. M. ; DANTAS, S. R. C.",
+        "titulo_livro": "",
+        "editora": "UNESP",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "6"
+      },
+      {
+        "titulo": "A CONTRIBUIÇÃO DA BASE NACIONAL COMUM CURRICULAR NA FORMAÇÃO CONTINUADA DE PROFESSORES DOS ANOS INICIAIS",
+        "ano": 2025,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; COSTA, ROGER FREITAS DA",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "26-43"
+      },
+      {
+        "titulo": "A INTELIGÊNCIA ARTIFICIAL E A PERSPECTIVA DE RESSIGNIFICAÇÃO DO ENSINO",
+        "ano": 2025,
+        "autores": "SOUSA, G. R. D. ; MOREIRA, E. E. P. ; GUIMARAES, C. S. S. ; SOUZA, ANDREA MOURA DA COSTA",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "163"
+      },
+      {
+        "titulo": "A IMPORTÂNCIA DA AVALIAÇÃO FORMATIVA NA FORMAÇÃO DO EDUCANDO",
+        "ano": 2025,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; TAMIARANA, KELLY HENRIQUE",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "176"
+      },
+      {
+        "titulo": "INSTRUMENTOS DE AVALIAÇÃO DA EDUCAÇÃO INFANTIL UTILIZADOS PELA SECRETARIA MUNICIPAL DE EDUCAÇÃO DA CIDADE DE FORTALEZA-CE",
+        "ano": 2025,
+        "autores": "GUIMARAES, C. S. S. ; SOUZA, ANDRÉA MOURA DA COSTA ; SOUSA, G. R. D. ; MOREIRA, E. E. P.",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "253"
+      },
+      {
+        "titulo": "PERCEPÇÕES DOS DISCENTES SOBRE OS IMPACTOS DA PANDEMIA NA VIDA EDUCACIONAL",
+        "ano": 2024,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; SANTOS, F. F. P. L. ; BEZERRA, L. K. S.",
+        "titulo_livro": "",
+        "editora": "EDIFCE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "202"
+      },
+      {
+        "titulo": "AVALIAÇÃO DA APRENDIZAGEM: AS PRÁTICAS AVALIATIVAS DOS PROFESSORES ALFABETIZADORES NO ENSINO REMOTO. Formação docente, práticas educativas (decoloniais) e avaliação: múltiplos olhares. 1ed.FORTALEZA",
+        "ano": 2023,
+        "autores": "ASSUNÇÃO, SANDRA MARIA TAVARES ; Araújo, Karlane Holanda ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "titulo_livro": "",
+        "editora": "EdUECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "124-140"
+      },
+      {
+        "titulo": "Un análisis de las contribuciones del programa Agrinho al aprendizaje de los estudiantes en el municipio de Redenção-Ceará: El caso de la escuela municipal Sebastião José Bezerra",
+        "ano": 2022,
+        "autores": "SOUZA, N. E. C. ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "titulo_livro": "",
+        "editora": "Facultad de Educación de la Universidad Católica de Córdoba",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "214-242"
+      },
+      {
+        "titulo": "OS DESAFIOS DE UMA APRENDIZAGEM SOLIDÁRIA NA CONSTRUÇÃO DE UM CURRÍCULO DE ENSINO MÉDIO SIGNIFICATIVO",
+        "ano": 2022,
+        "autores": "XIMENES, C. F. ; SOUZA, ANDRÉA M. DA C",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "420"
+      },
+      {
+        "titulo": "DESAFIOS DOS ENFERMEIROS DOCENTES NO ENSINO REMOTO NOS CURSOS DE TÉCNICO EM ENFERMAGEM DURANTE A PANDEMIA CAUSADA PELA COVID-19: UMA REVISÃO DE LITERATURA",
+        "ano": 2022,
+        "autores": "SILVEIRA, K. M. T. L. ; SILVA, F. D. F. C. ; AMARAL, J. F. ; SOUZA, ANDRÉA M. DA C",
+        "titulo_livro": "",
+        "editora": "imprece",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "352"
+      },
+      {
+        "titulo": "A IMPLEMENTAÇÃO DA LEI 10.639/2003 NO ENSINO FUNDAMENTAL I NO MUNICÍPIO DE REDENÇÃO",
+        "ano": 2021,
+        "autores": "SOUZA, A. M.C; SOUZA, N. E. C. ; SOUSA, J.",
+        "titulo_livro": "",
+        "editora": "PACHAMANA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "117-136"
+      },
+      {
+        "titulo": "#EUEMPREENDO - Disseminando a Cultura Empreendedora: Uma Aplicação nas Escolas de Ensino Médio do Município de Paracuru- Ceará",
+        "ano": 2021,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; DANTAS, S. R. C. ; VIEIRA, E. K.",
+        "titulo_livro": "",
+        "editora": "UNICESUMAR",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "39-51"
+      },
+      {
+        "titulo": "CONCEPÇÕES DOCENTES SOBRE A LEITURA E O USO DAS TECNOLOGIAS EM SALA DE AULA",
+        "ano": 2020,
+        "autores": "SOUZA, N. E. C. ; BREVES FILHO, J. S. ; SOUZA, A. M.C",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "106-123"
+      },
+      {
+        "titulo": "FORMAÇÃO AVALIATIVA DO PEDAGOGO: ELUCIDAÇÕES A PARTIR DOS DOCUMENTOS OFICIAIS",
+        "ano": 2020,
+        "autores": "FELIX, C. M. ; SOUZA, A. M.C",
+        "titulo_livro": "",
+        "editora": "IMPRECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "147-159"
+      },
+      {
+        "titulo": "COMPETENCIAS DO PEDAGOGO NA EXPERIÊNCIA DA COMPONENTE CURRICULAR DE PEDAGOGIA ORGANIZACIONAL",
+        "ano": 2020,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; LIMA, MARCOS A. M.",
+        "titulo_livro": "",
+        "editora": "e-Publicar",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "20"
+      },
+      {
+        "titulo": "AVALIAÇÃO DOCENTE EM ESTÁGIO PROBATÓRIO: ESTUDO DAS AÇÕES EDUCACIONAIS DO PROGRAMA CASA /UFC- COMUNIDADE DE COOPERAÇÃO E APRENDIZAGEM SIGNIFICATIVA",
+        "ano": 2020,
+        "autores": "SOUZA, A. M.C; LIMA, M. A. M.",
+        "titulo_livro": "",
+        "editora": "Realize",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "949-968"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "DA C. How patensts become disruptive technologies at the higher educations institution points of convergence",
+        "ano": 2020,
+        "autores": "SOUZA, ANDRÉA M",
+        "evento": "INTERNATIONAL CONFERENCE O APLLIED MANAGEMENT",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A ROMANTIZAÇÃO DO TRABALHO DOCENTE E O DISCURSO DA POSITIVIDADE TÓXICA: UM OLHAR SOBRE A FORMAÇÃO DE PROFESSORES NO BRASIL",
+        "ano": 2020,
+        "autores": "FELIX, ; ALVES, P. T. A. ; MONTEIRO, B. S. ; VASCONCELOS, A. P. M. F. ; SOUZA, ANDRÉA M. DA C",
+        "evento": "Congresso Internacional de Ensino e Formação Docente",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "MUDANÇAS EDUCATIVAS EM TEMPOS DE PANDEMIA: DESAFIOS CURRICULARES NA ALFABETIZAÇÃO",
+        "ano": 2022,
+        "autores": "ASSUNÇÃO, SANDRA MARIA TAVARES ; SOUZA, ANDRÉA MOURA DA COSTA ; Araújo, Karlane Holanda",
+        "evento": "II Congresso Internacional de Ensino e Formação Docente:, 2022, Redenção. Anais do II Congresso Internacional de Ensino e Formação Docente",
+        "cidade": ""
+      },
+      {
+        "titulo": "CONTRIBUIÇÕES DA BASE NACIONAL COMUM CURRICULAR PARA A FORMAÇÃO CONTINUADA DE PROFESSORES DOS ANOS INICIAIS",
+        "ano": 2022,
+        "autores": "COSTA, ROGER FREITAS DA ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "evento": "II Congresso Internacional de Ensino e Formação Docente, 2022, Redenção. Anais do II Congresso Internacional de Ensino e Formação Docente",
+        "cidade": ""
+      },
+      {
+        "titulo": "A IMPORTÂNCIA DO COORDENADOR PEDAGÓGICO NO PROCESSO AVALIATIVO PARA UMA EDUCAÇÃO DE QUALIDADE",
+        "ano": 2022,
+        "autores": "TAMIARANA, KELLY HENRIQUE ; CARDOSO, EUGENIO ALVES ; TEIXEIRA, REGINA MARIA ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "evento": "II Congresso Internacional de Ensino e Formação Docente, 2022, Redenção. Anais do II Congresso Internacional de Ensino e Formação Docente",
+        "cidade": ""
+      },
+      {
+        "titulo": "EDUCAÇÃO EM TEMPOS DE PANDEMIA: ANÁLISE DO BAIXO RENDIMENTO DOS ALUNOS",
+        "ano": 2022,
+        "autores": "BEZERRA, L. K. S. ; SOUZA, ANDRÉA MOURA DA COSTA",
+        "evento": "II Congresso Internacional de Ensino e Formação Docente, 2022, Redenção. Anais do II Congresso Internacional de Ensino e Formação Docente",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "M.C. How patensts become disruptive technologies at the higher educations institution points of convergence",
+        "ano": 2020,
+        "autores": "SOUZA, A",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "M.C. Chair the session teaching et learning in business",
+        "ano": 2020,
+        "autores": "SOUZA, A",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "relatório de pesquisa PAPEX 2020",
+        "ano": 2020,
+        "autores": "SOUZA, ANDRÉA MOURA DA COSTA",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "MULHERES NA CIÊNCIA 07",
+        "ano": 2025,
+        "autores": "SOUZA, ANDREA MOURA DA COSTA; SOUZA, A. ; MONTEIRO, C. ; ALBANO, J.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "The The exponential growth of attendance in inclusive education and the profile of teachers in charge of better care for neuroatypical students:",
+          "ano_inicio": 2024,
+          "orientando": "REJANE PEREIRA DA SILVA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "Metodologias Ativas como vetores na Formação e na construção do currículo da Aprendizagem Industrial",
+          "ano_inicio": 2024,
+          "orientando": "Leidelandia Braz de Sousa",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "INSTRUMENTOS DE AVALIAÇÃO DA EDUCAÇÃO INFANTIL",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Cíntia Silva Salazar Guimarães",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "OS IMPACTOS DA BNCC E SEUS DESDOBRAMENTOS NO PROCESSO DE ENSINO E APRENDIZAGEM NO ENSINO FUNDAMENTAL: AVALIAÇÃO DOS PROFESSORES DO MUNICIPÍO DE FORTALEZA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "PEDRO ITALO UCHOA DE MELO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "DESVENDANDO O CURRÍCULO DOS ANOS INICIAIS: A CONCEPÇÃO DOS PROFESSORES ALFABETIZADORES EM FORTALEZA/CE À LUZ DO DCRC",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "ROGER FREITAS DA COSTA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "A IMPORTÂNCIA DO COORDENADOR PEDAGÓGICO NO PROCESSO DE AVALIAÇÃO DA APRENDIZAGEM.",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "KELLY HENRIQUE TAMIARANA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "OS DESAFIOS DE UMA APRENDIZAGEM SOLIDÁRIA NA CONSTRUÇÃO DE UM CURRÍCULO DE ENSINO MÉDIO SIGNIFICATIVO E EFICAZ",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Célia Ferreira Ximenes",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "OS EFEITOS DAS AVALIAÇÕES DIAGNÓSTICAS DA REDE MUNICIPAL DE FORTALEZA: UM ESTUDO DE CASO A PARTIR DA PERCEPÇÃO DOS(AS) PROFESSORES(AS) DO 2º ANO DO ENSINO FUNDAMENTAL",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "sandra maria tavares",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "CONTRIBUIÇÕES E ASPECTOS ORIENTADORES DA BASE NACIONAL COMUM CURRICULAR PARA OS CURSOS DE FORMAÇÃO CONTINUADA DE PROFESSORES DOS ANOS INICIAIS NO MUNICÍPIO",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Roger Freitas da Costa",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "PROPOSTA DE FORMAÇÃO DIDÁTICO-PEDAGÓGICA PARA ENFERMEIROS PROFESSORES DO ENSINO TÉCNICO DE ENFERMAGEM: A PARTIR DE UMA PESQUISA-AÇÃO",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "KATIA MARIA TEOBALDO DE LIMA SILVEIRA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "TECNOLOGIA DA INFORMAÇÃO E DA COMUNICAÇÃO NA PRÁTICA PEDAGÓGICA DOCENTE NA DISCIPLINA DE LÍNGUA PORTUGUESA.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Neisse Evangelista da Costa Souza",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+          "curso": ""
+        },
+        {
+          "titulo": "SISTEMA PERMANENTE DE AVALIAÇÃO DA EDUCAÇÃO BÁSICA DO CEARÁ - SPAECE: O USO DOS RESULTADOS NA CONSTRUÇÃO DE UM GUIA DE ORIENTAÇÕES PEDAGÓGICAS PARA ATIVIDADES LÚDICAS.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Camila Mesquita Felix",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal do Ceará",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Análise da Legislação Referente a Poluição Sonora de Sons Automotivos em Fortaleza- CE.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Matheus Anthony Lima Martins Queiroz",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "A IMPORTÂNCIA DO SETOR DE RECURSOS HUMANOS NO CONTEXTO DO PLANEJAMENTO ESTRATÉGICO NA PREFEITURA DE CAMOCIM.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "MARIA APARECIDA RODRIGUES DE LIMA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "INFLUÊNCIA DE FAKE NEWS EM TEMPOS DE PANDEMIA E AS MEDIDAS ADOTADAS PELO GOVERNO DO CEARÁ",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Maria Jakeline da Silva Sampaio",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "O ATENDIMENTO AOS USUÁRIOS DE SERVIÇOS PÚBLICOS NO SETOR DE TRIBUTAÇÃO NA PREFEITURA DE CAMOCIM - CE",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Anderson Santos do Nascimento",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "PADRONIZAÇÃO DE PROCESSOS: GARANTINDO A PERENIDADE E A EFICÊNCIA",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "NATALY DE SOUZA NUNES",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Ceará",
+          "curso": ""
+        },
+        {
+          "titulo": "QUALIDADE DO ATENDIMENTO DO SERVIÇO PÚBLICO, PESQUISA DE SATISFAÇÃO DE USUÁRIOS: ESTUDO DE CASO NA SEDE ADMINISTRATIVA DA PRFEITURA DE CAMOCIM ? CE",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "SAMILLE DOS SANTOS PESSOA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Ceará",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "INOVAÇÃO EDUCACIONAL COMO ELEMENTO DE DIÁLOGO ENTRE CULTURA AVALIATIVA E O CURRÍCULO COMO PRÁXIS",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Luanna Kesia dos Santos Bezerra",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "II Encontro Nacional de Inovação e Empreendedorismo na Educação Profissional e Tecnológica",
+        "apresentacao": null,
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "COSTA, A. M.. II Semana do Meio Ambiente. 2019. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "COSTA, A. M.. Universo IFCE 2019. 2019. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "COSTA, A. M.. Ela Pode Paracuru. 2019. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "COSTA, A. M.. Semana da Biologia. 2019. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "COSTA, A. M.. UNIVERSO IFCE 2018. 2018. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "COSTA, A. M.. UNIVERSO IFCE- CAMPUS PARACURU. 2017. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "COSTA, A. M.. SEMINARIO CATEDRA UNESCO. 2013. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "JUCA, S. C. S.; SILVA, SOLONILDO ALMEIDA DA; SOUZA, ANDRÉA MOURA DA COSTA; PAIM, IGOR DE MORAES; PEREIRA, R. I. S.. Participação em banca de FRANCISCA GIOVANA DE SOUZA LIMA QUEIROZ. COMPETÊNCIAS DIGITAIS DOS APRENDENTES: UM ESTUDO DE CASO NOSCURSOS TÉCNICOS EAD EM ADMINISTRAÇÃO DO IFCE?. 2025. Dissertação (Mestrado em PROFEPT) - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "FRANCISCA GIOVANA DE SOUZA LIMA QUEIROZ",
+        "membros_banca": [
+          "JUCA, S. C. S.",
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "SOUZA, ANDRÉA MOURA DA COSTA",
+          "PAIM, IGOR DE MORAES",
+          "PEREIRA, R. I. S."
+        ],
+        "titulo_trabalho": "COMPETÊNCIAS DIGITAIS DOS APRENDENTES: UM ESTUDO DE CASO NOSCURSOS TÉCNICOS EAD EM ADMINISTRAÇÃO DO IFCE?",
+        "curso": "Dissertação (Mestrado em PROFEPT)",
+        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; ALMEIDA, E. R.; ROCHA, S. S. D.. Participação em banca de ROGER FREITAS DA COSTA. CONTRIBUIÇÕES E ASPECTOS ORIENTADORES DO DOCUMENTO REFERENCAIL CURRICULAR DO CEARÁ: PRÁTICA DE PROFESSORES ALFABETIZADORES DOS ANOS INICIAIS NO MUNICÍPIO DE FORTALEZA/CE.. 2024. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "ROGER FREITAS DA COSTA",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "ALMEIDA, E. R.",
+          "ROCHA, S. S. D."
+        ],
+        "titulo_trabalho": "CONTRIBUIÇÕES E ASPECTOS ORIENTADORES DO DOCUMENTO REFERENCAIL CURRICULAR DO CEARÁ: PRÁTICA DE PROFESSORES ALFABETIZADORES DOS ANOS INICIAIS NO MUNICÍPIO DE FORTALEZA/CE",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; JUCA, S. C. S.; SILVA, S. A.; AQUINO, F. J. A.; FIALHO, L. M. F.. Participação em banca de GABRIELA PEREIRA SOUZA. PROGRAMA SISTEMÁTICO DE FORMAÇÃO E MOTIVAÇÃO DE PROFESSORES NAS ESCOLAS DE ENSINO PROFISSIONAL DO ESTADO DO CEARÁ. 2024. Dissertação (Mestrado em Educação Profissional e tecnológica) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "GABRIELA PEREIRA SOUZA",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "JUCA, S. C. S.",
+          "SILVA, S. A.",
+          "AQUINO, F. J. A.",
+          "FIALHO, L. M. F."
+        ],
+        "titulo_trabalho": "PROGRAMA SISTEMÁTICO DE FORMAÇÃO E MOTIVAÇÃO DE PROFESSORES NAS ESCOLAS DE ENSINO PROFISSIONAL DO ESTADO DO CEARÁ",
+        "curso": "Dissertação (Mestrado em Educação Profissional e tecnológica)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "MOREIRA, E. E. P.; SOUZA, A. M.C; RIBEIRO, A. P. M.. Participação em banca de MARIA MARLEIDE DOS SANTOS TEIXEIRA. O TRABALHO PEDAGÓGICO DO PROFESSOR DA ESCOLA PÚBLICA NO ATENDIMENTO EDUCACIONAL ESPECIALIZADO. 2024. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "MARIA MARLEIDE DOS SANTOS TEIXEIRA",
+        "membros_banca": [
+          "MOREIRA, E. E. P.",
+          "SOUZA, A. M.C",
+          "RIBEIRO, A. P. M."
+        ],
+        "titulo_trabalho": "O TRABALHO PEDAGÓGICO DO PROFESSOR DA ESCOLA PÚBLICA NO ATENDIMENTO EDUCACIONAL ESPECIALIZADO",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "MOREIRA, EUGENIO EDUARDO PIMENTEL; SOUZA, A. M.C; OLIVEIRA, S. M. C.. Participação em banca de CÁSSIA EUFRÁSIA DA SILVA COSTA. A POLÍTICA EDUCACIONAL INCLUSIVA NA PERSPECTIVA DA AÇÃO COLABORATIVA ENTRE DOCENTES: INCLUSÃO DE ALUNOS COM DEFICIÊNCIA INTELECTUAL NA REDE MUNICIPAL DE FORTALEZA. 2024. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "CÁSSIA EUFRÁSIA DA SILVA COSTA",
+        "membros_banca": [
+          "MOREIRA, EUGENIO EDUARDO PIMENTEL",
+          "SOUZA, A. M.C",
+          "OLIVEIRA, S. M. C."
+        ],
+        "titulo_trabalho": "A POLÍTICA EDUCACIONAL INCLUSIVA NA PERSPECTIVA DA AÇÃO COLABORATIVA ENTRE DOCENTES: INCLUSÃO DE ALUNOS COM DEFICIÊNCIA INTELECTUAL NA REDE MUNICIPAL DE FORTALEZA",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "JUCA, S. C. S.; SILVA, SOLONILDO ALMEIDA DA; SOUZA, A. M.C. Participação em banca de MARTILLA SOUSA SILVA. CONTRATAÇÕES PÚBLICAS COM FOCO NA IMPLEMENTAÇÃO DE PRODUTOS EDUCACIONAIS E TECNOLÓGICOS NO IFCE CAMPUS IGUATU. 2024. Dissertação (Mestrado em Educação Profissional e tecnológica) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "MARTILLA SOUSA SILVA",
+        "membros_banca": [
+          "JUCA, S. C. S.",
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "CONTRATAÇÕES PÚBLICAS COM FOCO NA IMPLEMENTAÇÃO DE PRODUTOS EDUCACIONAIS E TECNOLÓGICOS NO IFCE CAMPUS IGUATU",
+        "curso": "Dissertação (Mestrado em Educação Profissional e tecnológica)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; ALMEIDA, EMANOEL RODRIGUES; ROCHA, S. S. D.. Participação em banca de ROGER FREITAS DA COSTA. DESVENDANDO O CURRÍCULO DOS ANOS INICIAIS: A CONCEPÇÃO DOS PROFESSORES ALFABETIZADORES EM FORTALEZA/CE À LUZ DO DCRC. 2024. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "ROGER FREITAS DA COSTA",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "ALMEIDA, EMANOEL RODRIGUES",
+          "ROCHA, S. S. D."
+        ],
+        "titulo_trabalho": "DESVENDANDO O CURRÍCULO DOS ANOS INICIAIS: A CONCEPÇÃO DOS PROFESSORES ALFABETIZADORES EM FORTALEZA/CE À LUZ DO DCRC",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "PAIM, IGOR DE MORAES; SOUZA, A. M.C; VIANA, T. V.. Participação em banca de Renata Makelly Tomaz do Nascimento. oO EDUBLOG COMO FERRAMENTA DIDÁTICA PARA O ENSINO E FORMAÇÃO DOCENTE.. 2024. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Renata Makelly Tomaz do Nascimento",
+        "membros_banca": [
+          "PAIM, IGOR DE MORAES",
+          "SOUZA, A. M.C",
+          "VIANA, T. V."
+        ],
+        "titulo_trabalho": "oO EDUBLOG COMO FERRAMENTA DIDÁTICA PARA O ENSINO E FORMAÇÃO DOCENTE",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "MOREIRA, E. E. P.; SOUZA, ANDRÉA MOURA DA COSTA; RIBEIRO, A. P. M.. Participação em banca de Gracikelly Ribeiro Dutra de Sousa. A UTILIZAÇÃO PEDAGÓGICA DO CHATGPT NAS PRÁTICAS DE AVALIAÇÃO FORMATIVA NO ENSINO MÉDIO.. 2024. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Gracikelly Ribeiro Dutra de Sousa",
+        "membros_banca": [
+          "MOREIRA, E. E. P.",
+          "SOUZA, ANDRÉA MOURA DA COSTA",
+          "RIBEIRO, A. P. M."
+        ],
+        "titulo_trabalho": "A UTILIZAÇÃO PEDAGÓGICA DO CHATGPT NAS PRÁTICAS DE AVALIAÇÃO FORMATIVA NO ENSINO MÉDIO",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "COSTA, A. M.; PIMENTE, E. E.; OLIVEIRA, S. M. C.. Participação em banca de Célia Ferreira Ximenes. A EDUCACAO SOLIDARIA NO CURRICULO ESCOLAR DO ENSINO MEDIO COMO FORMA DE GARANTIR UMA APRENDIZAGEM SIGNIFICATIVA. 2023. Dissertação (Mestrado em Ensino e Formação) - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Célia Ferreira Ximenes",
+        "membros_banca": [
+          "COSTA, A. M.",
+          "PIMENTE, E. E.",
+          "OLIVEIRA, S. M. C."
+        ],
+        "titulo_trabalho": "A EDUCACAO SOLIDARIA NO CURRICULO ESCOLAR DO ENSINO MEDIO COMO FORMA DE GARANTIR UMA APRENDIZAGEM SIGNIFICATIVA",
+        "curso": "Dissertação (Mestrado em Ensino e Formação)",
+        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; ARAUJO, K. H.; MOREIRA, E. E. P.; OLIVEIRA, S. M. C.. Participação em banca de SANDRA MARIA TAVARES ASSUNCAO. TRILHA AVALIATIVA COMO RECURSO PEDAGÓGICO PARA O ATO DE AVALIAR DOS PROFESSORES ALFABETIZADORES. 2023. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "SANDRA MARIA TAVARES ASSUNCAO",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "ARAUJO, K. H.",
+          "MOREIRA, E. E. P.",
+          "OLIVEIRA, S. M. C."
+        ],
+        "titulo_trabalho": "TRILHA AVALIATIVA COMO RECURSO PEDAGÓGICO PARA O ATO DE AVALIAR DOS PROFESSORES ALFABETIZADORES",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "JUCA, S. C. S.; SILVA, SOLONILDO ALMEIDA DA; SOUZA, A. M.C. Participação em banca de MARTILLA SOUSA SILVA. CONTRATAÇÕES PÚBLICAS COM FOCO NA IMPLEMENTAÇÃO DE PRODUTOS EDUCACIONAIS E TECNOLÓGICOS NO IFCE CAMPUS IGUATU. 2023. Dissertação (Mestrado em Educação Profissional e tecnológica) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "MARTILLA SOUSA SILVA",
+        "membros_banca": [
+          "JUCA, S. C. S.",
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "CONTRATAÇÕES PÚBLICAS COM FOCO NA IMPLEMENTAÇÃO DE PRODUTOS EDUCACIONAIS E TECNOLÓGICOS NO IFCE CAMPUS IGUATU",
+        "curso": "Dissertação (Mestrado em Educação Profissional e tecnológica)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; AMARAL, J. F.; MARTINS, E. S.; SILVANO, A. M. C.. Participação em banca de KATIA MARIA TEOBALDO DE LIMA SILVEIRA. FORMAÇÃO DIDÁTICO-PEDAGÓGICA PARA ENFERMEIROS PROFESSORES DO ENSINO TÉCNICO DE ENFERMAGEM: UMA PROPOSTA PARA DUAS ESCOLAS ESTADUAIS DE EDUCAÇÃO PROFISSIONAL NO CEARÁ.. 2022. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "KATIA MARIA TEOBALDO DE LIMA SILVEIRA",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "AMARAL, J. F.",
+          "MARTINS, E. S.",
+          "SILVANO, A. M. C."
+        ],
+        "titulo_trabalho": "FORMAÇÃO DIDÁTICO-PEDAGÓGICA PARA ENFERMEIROS PROFESSORES DO ENSINO TÉCNICO DE ENFERMAGEM: UMA PROPOSTA PARA DUAS ESCOLAS ESTADUAIS DE EDUCAÇÃO PROFISSIONAL NO CEARÁ",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "GUIMARAES, D. B.; MACHADO, D. Q.; SOUZA, A. M.C. Participação em banca de ADRIANA NOBRE DA SILVA RIBEIRO. GERENCIAMENTO DE ESTOQUES POR MEIO DA CLASSIFICAÇÃO ABC: ESTUDO EM UMA EMPRESA SUPERMERCADISTA DE PEQUENO PORTE NO PROCESSO DE PROFISSIONALIZAÇÃO. 2022. Dissertação (Mestrado em Administração de Empresas) - Universidade Federal do Ceará.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "ADRIANA NOBRE DA SILVA RIBEIRO",
+        "membros_banca": [
+          "GUIMARAES, D. B.",
+          "MACHADO, D. Q.",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "GERENCIAMENTO DE ESTOQUES POR MEIO DA CLASSIFICAÇÃO ABC: ESTUDO EM UMA EMPRESA SUPERMERCADISTA DE PEQUENO PORTE NO PROCESSO DE PROFISSIONALIZAÇÃO",
+        "curso": "Dissertação (Mestrado em Administração de Empresas)",
+        "universidade": "Universidade Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; OLIVEIRA, J. C.; ARAUJO, K. H.; ALMEIDA-, S. M. N.. Participação em banca de Camila Mesquita Felix. O Sistema Permanente de Avaliação da Educação Básica do Ceará - SPAECE: o uso dos resultados da avaliação em favor das ações pedagógicas. 2021. Dissertação (Mestrado em Ensino e Formação) - Instituto Federal do Ceará.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Camila Mesquita Felix",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "OLIVEIRA, J. C.",
+          "ARAUJO, K. H.",
+          "ALMEIDA-, S. M. N."
+        ],
+        "titulo_trabalho": "O Sistema Permanente de Avaliação da Educação Básica do Ceará - SPAECE: o uso dos resultados da avaliação em favor das ações pedagógicas",
+        "curso": "Dissertação (Mestrado em Ensino e Formação)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "LIMA, M. S. L.; ALVES, F. C.; COSTA, A. M.; TORRES, C. M. G.. Participação em banca de PETRÔNIO CAVALCANTE,. Professores em formação em contexto no município de Fortaleza: limites e possibilidades.. 2021. Dissertação (Mestrado em ENSINO E FORMAÇÃO DOCENTE) - Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "PETRÔNIO CAVALCANTE,",
+        "membros_banca": [
+          "LIMA, M. S. L.",
+          "ALVES, F. C.",
+          "COSTA, A. M.",
+          "TORRES, C. M. G."
+        ],
+        "titulo_trabalho": "Professores em formação em contexto no município de Fortaleza: limites e possibilidades",
+        "curso": "Dissertação (Mestrado em ENSINO E FORMAÇÃO DOCENTE)",
+        "universidade": ""
+      },
+      {
+        "descricao": "BREVES FILHO, JOSÉ DE SOUZA; SOUZA, A. M.C; MARTINS, E. S.; SILVANO, A. M. C.. Participação em banca de NEISSE EVANGELISTA DA COSTA SOUZA,. AS TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO: RECURSO POTENCIALIZADOR DA LEITURA NA PRATICA DO DOCENTE DE LINGUA PORTUGUESA. 2021. Dissertação (Mestrado em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "NEISSE EVANGELISTA DA COSTA SOUZA,",
+        "membros_banca": [
+          "BREVES FILHO, JOSÉ DE SOUZA",
+          "SOUZA, A. M.C",
+          "MARTINS, E. S.",
+          "SILVANO, A. M. C."
+        ],
+        "titulo_trabalho": "AS TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO: RECURSO POTENCIALIZADOR DA LEITURA NA PRATICA DO DOCENTE DE LINGUA PORTUGUESA",
+        "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SILVA, SOLONILDO ALMEIDA DA; JUCA, S. C. S.; COSTA, A. M.; SOUZA, R. S.; BARREIRO, C. B.. Participação em banca de LUCELIA FERNANDES DE ALMEIDA LIMA. GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ. 2020. Dissertação (Mestrado em Ensino e Formação) - Instituto Federal do Ceará.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "LUCELIA FERNANDES DE ALMEIDA LIMA",
+        "membros_banca": [
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "JUCA, S. C. S.",
+          "COSTA, A. M.",
+          "SOUZA, R. S.",
+          "BARREIRO, C. B."
+        ],
+        "titulo_trabalho": "GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ",
+        "curso": "Dissertação (Mestrado em Ensino e Formação)",
+        "universidade": "Instituto Federal do Ceará"
+      }
+    ],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "PIMENTE, E. E.; RIBEIRO, A. P. M.; SOUZA, A. M.C. Participação em banca de GRACIKELLY RIBEIRO DUTRA DE SOUSA. AS PERSPECTIVAS E LIMITES DO USO DO CHATGPT NAS PRÁTICAS DE AVALIAÇÕES FORMATIVAS NO ENSINO MÉDIO. 2024. Exame de qualificação (Mestrando em Ensino e Formação) - Instituto Federal do Ceará.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "GRACIKELLY RIBEIRO DUTRA DE SOUSA",
+        "membros_banca": [
+          "PIMENTE, E. E.",
+          "RIBEIRO, A. P. M.",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "AS PERSPECTIVAS E LIMITES DO USO DO CHATGPT NAS PRÁTICAS DE AVALIAÇÕES FORMATIVAS NO ENSINO MÉDIO",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SILVA, SOLONILDO ALMEIDA DA; JUCA, S. C. S.; SOUZA, A. M.C; AQUINO, F. J. A.; PEREIRA, R. I. S.. Participação em banca de MARTILLA SOUSA SILVA. CONTRATAÇÕES PÚBLICAS COM FOCO NA IMPLEMENTAÇÃO DE PRODUTOS EDUCACIONAIS E TECNOLÓGICOS NO IFCE CAMPUS IGUATU. 2023. Exame de qualificação (Mestrando em Educação Profissional e tecnológica) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARTILLA SOUSA SILVA",
+        "membros_banca": [
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "JUCA, S. C. S.",
+          "SOUZA, A. M.C",
+          "AQUINO, F. J. A.",
+          "PEREIRA, R. I. S."
+        ],
+        "titulo_trabalho": "CONTRATAÇÕES PÚBLICAS COM FOCO NA IMPLEMENTAÇÃO DE PRODUTOS EDUCACIONAIS E TECNOLÓGICOS NO IFCE CAMPUS IGUATU",
+        "curso": "Exame de qualificação (Mestrando em Educação Profissional e tecnológica)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "PAIM, IGOR DE MORAES; VIANA, T. V.; SOUZA, A. M.C. Participação em banca de Regina Maria Teixeira. METODOLOGIA BASEADA EM PROJETOS DE EDUCAÇÃO AMBIENTAL :LABORATÓRIO VIVO. 2023. Exame de qualificação (Mestrando em Ensino e Formação) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Regina Maria Teixeira",
+        "membros_banca": [
+          "PAIM, IGOR DE MORAES",
+          "VIANA, T. V.",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "METODOLOGIA BASEADA EM PROJETOS DE EDUCAÇÃO AMBIENTAL :LABORATÓRIO VIVO",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; ALMEIDA, E. R.; ROCHA, S. S. D.. Participação em banca de ROGER FREITAS DA COSTA. DESVENDANDO O CURRÍCULO DOS ANOS INICIAIS: A CONCEPÇÃO DOS PROFESSORES ALFABETIZADORES EM FORTALEZA/CE À LUZ DO DCRC. 2023. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "ROGER FREITAS DA COSTA",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "ALMEIDA, E. R.",
+          "ROCHA, S. S. D."
+        ],
+        "titulo_trabalho": "DESVENDANDO O CURRÍCULO DOS ANOS INICIAIS: A CONCEPÇÃO DOS PROFESSORES ALFABETIZADORES EM FORTALEZA/CE À LUZ DO DCRC",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "MOREIRA, E. E. P.; SOUZA, A. M.C; RIBEIRO, A. P. M.. Participação em banca de MARIA MARLEIDE DOS SANTOS TEIXEIRA. O TRABALHO PEDAGÓGICO DO PROFESSOR DA ESCOLA PÚBLICA NO ATENDIMENTO EDUCACIONAL ESPECIALIZADO. 2023. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARIA MARLEIDE DOS SANTOS TEIXEIRA",
+        "membros_banca": [
+          "MOREIRA, E. E. P.",
+          "SOUZA, A. M.C",
+          "RIBEIRO, A. P. M."
+        ],
+        "titulo_trabalho": "O TRABALHO PEDAGÓGICO DO PROFESSOR DA ESCOLA PÚBLICA NO ATENDIMENTO EDUCACIONAL ESPECIALIZADO",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "PAIM, IGOR DE MORAES; VIANA, T. V.; SOUZA, A. M.C. Participação em banca de Cristiana de Paula dos Santos. O USO DOS RECURSOS EDUCACIONAIS ABERTOS NA FORMAÇÃO CONTINUADA DE PROFESSORES PARA INCLUSÃO DOS ESTUDANTES AUTISTAS NA EDUCAÇÃO BÁSICA. 2023. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Cristiana de Paula dos Santos",
+        "membros_banca": [
+          "PAIM, IGOR DE MORAES",
+          "VIANA, T. V.",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "O USO DOS RECURSOS EDUCACIONAIS ABERTOS NA FORMAÇÃO CONTINUADA DE PROFESSORES PARA INCLUSÃO DOS ESTUDANTES AUTISTAS NA EDUCAÇÃO BÁSICA",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "MOREIRA, E. E. P.; SOUZA, A. M.C; OLIVEIRA, S. M. C.. Participação em banca de CÁSSIA EUFRÁSIA DA SILVA COSTA. A POLÍTICA EDUCACIONAL INCLUSIVA NA PERSPECTIVA DA AÇÃO COLABORATIVA ENTRE DOCENTES: INCLUSÃO DE ALUNOS COM DEFICIÊNCIA INTELECTUAL NA REDE MUNICIPAL DE FORTALEZA. 2023. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "CÁSSIA EUFRÁSIA DA SILVA COSTA",
+        "membros_banca": [
+          "MOREIRA, E. E. P.",
+          "SOUZA, A. M.C",
+          "OLIVEIRA, S. M. C."
+        ],
+        "titulo_trabalho": "A POLÍTICA EDUCACIONAL INCLUSIVA NA PERSPECTIVA DA AÇÃO COLABORATIVA ENTRE DOCENTES: INCLUSÃO DE ALUNOS COM DEFICIÊNCIA INTELECTUAL NA REDE MUNICIPAL DE FORTALEZA",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "JUCA, S. C. S.; SILVA, SOLONILDO ALMEIDA DA; SOUZA, A. M.C. Participação em banca de FRANCISCA GIOVANA DE SOUZA LIMA QUEIROZ. REFLETINDO AS COMPETÊNCIAS DOS ESTUDANTES DA EAD: UM ESTUDO DE CASO NOS CURSOS TÉCNICOS EM ADMINISTRAÇÃO DO IFCE. 2023. Exame de qualificação (Mestrando em Educação Profissional e tecnológica) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "FRANCISCA GIOVANA DE SOUZA LIMA QUEIROZ",
+        "membros_banca": [
+          "JUCA, S. C. S.",
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "REFLETINDO AS COMPETÊNCIAS DOS ESTUDANTES DA EAD: UM ESTUDO DE CASO NOS CURSOS TÉCNICOS EM ADMINISTRAÇÃO DO IFCE",
+        "curso": "Exame de qualificação (Mestrando em Educação Profissional e tecnológica)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; ARAUJO, K. H.; MOREIRA, E. E. P.; OLIVEIRA, S. M. C.. Participação em banca de SANDRA MARIA TAVARES ASSUNCAO. TRILHA AVALIATIVA COMO RECURSO PEDAGÓGICO PARA O ATO DE AVALIAR DOS PROFESSORES ALFABETIZADORES. 2023. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "SANDRA MARIA TAVARES ASSUNCAO",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "ARAUJO, K. H.",
+          "MOREIRA, E. E. P.",
+          "OLIVEIRA, S. M. C."
+        ],
+        "titulo_trabalho": "TRILHA AVALIATIVA COMO RECURSO PEDAGÓGICO PARA O ATO DE AVALIAR DOS PROFESSORES ALFABETIZADORES",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "PAIM, IGOR DE MORAES; SOUZA, A. M.C; VIANA, T. V.. Participação em banca de RENATA MAKELLY TOMAZ DO NASCIMENTO. oO EDUBLOG COMO FERRAMENTA DIDÁTICA PARA O ENSINO E FORMAÇÃO DOCENTE.. 2023. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "RENATA MAKELLY TOMAZ DO NASCIMENTO",
+        "membros_banca": [
+          "PAIM, IGOR DE MORAES",
+          "SOUZA, A. M.C",
+          "VIANA, T. V."
+        ],
+        "titulo_trabalho": "oO EDUBLOG COMO FERRAMENTA DIDÁTICA PARA O ENSINO E FORMAÇÃO DOCENTE",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; MOREIRA, E. E. P.; OLIVEIRA, S. M. C.. Participação em banca de Célia Ferreira Ximenes. A EDUCAÇÃO SOLIDÁRIA NO CURRÍCULO ESCOLAR DO ENSINO MÉDIO COMO FORMA DE GARANTIR UMA APRENDIZAGEM SIGNIFICATIVA.. 2022. Exame de qualificação (Mestrando em Ensino e Formação Docente) - Instituto Federal do Ceará.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Célia Ferreira Ximenes",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "MOREIRA, E. E. P.",
+          "OLIVEIRA, S. M. C."
+        ],
+        "titulo_trabalho": "A EDUCAÇÃO SOLIDÁRIA NO CURRÍCULO ESCOLAR DO ENSINO MÉDIO COMO FORMA DE GARANTIR UMA APRENDIZAGEM SIGNIFICATIVA",
+        "curso": "Exame de qualificação (Mestrando em Ensino e Formação Docente)",
+        "universidade": "Instituto Federal do Ceará"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "BREVES FILHO, J. S.; COSTA, A. M.; MARTINS, E. S.; SILVANO, A. M. C.. Participação em banca de Neisse Evangelista da Costa Souza. AS TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO: RECURSO POTENCIALIZADOR DA LEITURA NA PRATICA DO DOCENTE DE LINGUA PORTUGUESA. 2021. Exame de qualificação (Mestrando em Programa Associado de Pós-Graduação em Ensino e Formação Docente (PPGEF UNI) - Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Neisse Evangelista da Costa Souza",
+        "membros_banca": [
+          "BREVES FILHO, J. S.",
+          "COSTA, A. M.",
+          "MARTINS, E. S.",
+          "SILVANO, A. M. C."
+        ],
+        "titulo_trabalho": "AS TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO: RECURSO POTENCIALIZADOR DA LEITURA NA PRATICA DO DOCENTE DE LINGUA PORTUGUESA",
+        "curso": "Exame de qualificação (Mestrando em Programa Associado de Pós-Graduação em Ensino e Formação Docente (PPGEF UNI)",
+        "universidade": ""
+      },
+      {
+        "descricao": "LIMA, M. S. L.; ALVES, F. C.; COSTA, A. M.; TORRES, C. M. G.; COSTA, E. A. S.. Participação em banca de PETRÔNIO CAVALCANTE,. Professores em formação em contexto no município de Fortaleza: limites e possibilidades.. 2021. Exame de qualificação (Mestrando em Programa Associado de Pós-Graduação em Ensino e Formação Docente (PPGEF UNI) - Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "PETRÔNIO CAVALCANTE,",
+        "membros_banca": [
+          "LIMA, M. S. L.",
+          "ALVES, F. C.",
+          "COSTA, A. M.",
+          "TORRES, C. M. G.",
+          "COSTA, E. A. S."
+        ],
+        "titulo_trabalho": "Professores em formação em contexto no município de Fortaleza: limites e possibilidades",
+        "curso": "Exame de qualificação (Mestrando em Programa Associado de Pós-Graduação em Ensino e Formação Docente (PPGEF UNI)",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, SOLONILDO ALMEIDA DA; JUCA, S. C. S.; COSTA, A. M.; SOUZA, R. S.; BARREIRO, C. B.. Participação em banca de LUCELIA FERNANDES DE ALMEIDA LIMA. GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ. 2020. Exame de qualificação (Mestrando em PROGRAM DE PÓS-GRADUAÇÃO EM EDUCAÇÃO PROFISSIONAL E TECNOLOGICA) - INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "LUCELIA FERNANDES DE ALMEIDA LIMA",
+        "membros_banca": [
+          "SILVA, SOLONILDO ALMEIDA DA",
+          "JUCA, S. C. S.",
+          "COSTA, A. M.",
+          "SOUZA, R. S.",
+          "BARREIRO, C. B."
+        ],
+        "titulo_trabalho": "GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ",
+        "curso": "Exame de qualificação (Mestrando em PROGRAM DE PÓS-GRADUAÇÃO EM EDUCAÇÃO PROFISSIONAL E TECNOLOGICA)",
+        "universidade": "CAMPUS TIANGUA"
+      },
+      {
+        "descricao": "BEZERRA, M. A.; CARDOSO, P. H. G.; SOUZA, A. M.C. Participação em banca de ANTONIO EDMAR DOS SANTOS SILVA FILHO.AVALIAÇÃO DOS AGRICULTORES FAMILIARES PARTICIPANTES DOS PROGRAMAS PAA E PNAE QUE COMERCIALIZAM HORTALIÇAS NO MUNICÍPIO DE PARACURU-CE. 2022. Trabalho de Conclusão de Curso (Graduação em Gestão Ambiental) - Instituto Federal do Ceará.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ANTONIO EDMAR DOS SANTOS SILVA FILHO",
+        "membros_banca": [
+          "BEZERRA, M. A.",
+          "CARDOSO, P. H. G.",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "AVALIAÇÃO DOS AGRICULTORES FAMILIARES PARTICIPANTES DOS PROGRAMAS PAA E PNAE QUE COMERCIALIZAM HORTALIÇAS NO MUNICÍPIO DE PARACURU-CE",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Gestão Ambiental)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "SOUZA, A. M.C; CASTRO, L. A. A.. Participação em banca de Matheus Anthony Lima Martins Queiroz.ANÁLISE DA LEGISLAÇÃO REFERENTE A POLUIÇÃO SONORA DE SONS AUTOMOTIVOS EM FORTALEZA- CE. 2021. Trabalho de Conclusão de Curso (Graduação em Gestão Ambiental) - Instituto Federal do Ceará.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Matheus Anthony Lima Martins Queiroz",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "CASTRO, L. A. A."
+        ],
+        "titulo_trabalho": "ANÁLISE DA LEGISLAÇÃO REFERENTE A POLUIÇÃO SONORA DE SONS AUTOMOTIVOS EM FORTALEZA- CE",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Gestão Ambiental)",
+        "universidade": "Instituto Federal do Ceará"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA; CALDAS, O. V.; NOSSA, S. N.. Participação em banca de KLINGER CECCON CAPRIOLI. A CONCEPÇÃO DA INOVAÇÃO NA REDE FEDERAL DE EDUCAÇÃO PROFISSIONAL, CIENTÍFICA E TECNOLÓGICA À LUZ DA TRÍPLICE HÉLICE. 2024.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "KLINGER CECCON CAPRIOLI",
+        "membros_banca": [
+          "SOUZA, ANDRÉA MOURA DA COSTA",
+          "CALDAS, O. V.",
+          "NOSSA, S. N."
+        ],
+        "titulo_trabalho": "A CONCEPÇÃO DA INOVAÇÃO NA REDE FEDERAL DE EDUCAÇÃO PROFISSIONAL, CIENTÍFICA E TECNOLÓGICA À LUZ DA TRÍPLICE HÉLICE",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "NOSSA, S. N.; CALDAS, O. V.; SOUZA, A. M.C. Participação em banca de KLINGER CECCON CAPRIOLI. A CONCEPÇÃO DA INOVAÇÃO NA REDE FEDERAL DE EDUCAÇÃO PROFISSIONAL, CIENTÍFICA E TECNOLÓGICA À LUZ DA TRÍPLICE HÉLICE. 2024.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "KLINGER CECCON CAPRIOLI",
+        "membros_banca": [
+          "NOSSA, S. N.",
+          "CALDAS, O. V.",
+          "SOUZA, A. M.C"
+        ],
+        "titulo_trabalho": "A CONCEPÇÃO DA INOVAÇÃO NA REDE FEDERAL DE EDUCAÇÃO PROFISSIONAL, CIENTÍFICA E TECNOLÓGICA À LUZ DA TRÍPLICE HÉLICE",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C; AMARAL, J. F.; MARTINS, E. S.; SILVANO, A. M. C.. Participação em banca de KATIA MARIA TEOBALDO DE LIMA SILVEIRA. FORMAÇÃO DIDÁTICO-PEDAGÓGICA PARA ENFERMEIROS PROFESSORES DO ENSINO TÉCNICO DE ENFERMAGEM: UMA PROPOSTA PARA DUAS ESCOLAS ESTADUAIS DE EDUCAÇÃO PROFISSIONAL NO CEARÁ.. 2022 - Instituto Federal do Ceará.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "KATIA MARIA TEOBALDO DE LIMA SILVEIRA",
+        "membros_banca": [
+          "SOUZA, A. M.C",
+          "AMARAL, J. F.",
+          "MARTINS, E. S.",
+          "SILVANO, A. M. C."
+        ],
+        "titulo_trabalho": "FORMAÇÃO DIDÁTICO-PEDAGÓGICA PARA ENFERMEIROS PROFESSORES DO ENSINO TÉCNICO DE ENFERMAGEM: UMA PROPOSTA PARA DUAS ESCOLAS ESTADUAIS DE EDUCAÇÃO PROFISSIONAL NO CEARÁ",
+        "curso": "",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "BERTINI, F. M. A.; COSTA, A. M.; DANTAS, N. M. R.. PROFESSOR ADJUNTO UECE SETOR 106. 2022. Universidade Estadual do Ceará.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Estadual do Ceará.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BERTINI, F. M. A.; COSTA, A. M.; DANTAS, N. M. R.. PROFESSOR ADJUNTO UECE SETOR 90. 2022. Universidade Estadual do Ceará.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Estadual do Ceará.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BERTINI, F. M. A.; COSTA, A. M.; DANTAS, N. M. R.. PROFESSOR ADJUNTO UECE SETOR 58. 2022. Instituto de Estudos, Pesquisas e Projetos da UECE.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto de Estudos, Pesquisas e Projetos da UECE.",
+        "universidade": ""
+      },
+      {
+        "descricao": "COSTA, A. M.. BANCA DE CONCURSO ADMINISTRACAO. 2021. Instituto Federal do Ceará.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal do Ceará.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. BANCA DE CONCURSO CIENCIAS CONTABEIS. 2021. Instituto Federal do Ceará.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal do Ceará.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. XIII EGEPE - EMPREENDEDORISMO E PEQUENAS ORGANIZAÇÕES PARA UMA SOCIEDADE INCLUSIVA E SUSTENTÁVEL. 2024. Universidade Federal do Paraná.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Paraná.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. XIII EGEPE - EMPREENDEDORISMO E PEQUENAS ORGANIZAÇÕES PARA UMA SOCIEDADE INCLUSIVA E SUSTENTÁVEL.. 2024. Universidade Federal do Paraná.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Paraná.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. XIII EGEPE - EMPREENDEDORISMO E PEQUENAS ORGANIZAÇÕES PARA UMA SOCIEDADE INCLUSIVA E SUSTENTÁVEL.. 2024. Universidade Federal do Paraná.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Paraná.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. XIII EGEPE - EMPREENDEDORISMO E PEQUENAS ORGANIZAÇÕES PARA UMA SOCIEDADE INCLUSIVA E SUSTENTÁVEL.. 2024. Universidade Federal do Paraná.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Paraná.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. EDITAL Nº 04/2023 FUNCAP ? INOVAFIT PROPOSTA DE CHAMADA ? FASE 1 em. 2024. Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. M.C. EDITAL Nº 05/2023 FUNCAP PROGRAMA PESQUISADOR EMPREENDEDOR - FORMAÇÃO DE SPIN-OFFS ACADÊMICAS. 2024. Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. edital-03-2024-mulheres-empreendedoras/. 2024.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. Chamada Pública 12/2024 - PROGRAMA TECNOVA III, TEC2024141000052. 2024. Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. Chamada Pública 12/2024 - PROGRAMA TECNOVA III, TEC2024141000075. 2024. Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. Chamada Pública 12/2024 - PROGRAMA TECNOVA III, TEC2024141000055. 2024. Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. Chamada Pública 12/2024 - PROGRAMA TECNOVA III, TEC2024141000025. 2024.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. Chamada Pública 12/2024 - PROGRAMA TECNOVA III, TEC2024141000097. 2024. Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, ANDRÉA MOURA DA COSTA. Chamada Pública 12/2024 - PROGRAMA TECNOVA III, TEC2024141000085. 2024. Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Fundação de Amparo a Pesquisa do Estado de Goiás.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 37,
+    "total_livros": 0,
+    "total_capitulos": 17,
+    "total_trabalhos_congressos": 2,
+    "total_projetos_pesquisa": 5,
+    "total_projetos_extensao": 2,
+    "total_projetos_desenvolvimento": 2,
+    "total_orientacoes_concluidas": 11,
+    "total_orientacoes_andamento": 2
+  }
+}

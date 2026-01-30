@@ -1,0 +1,262 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8044568823515601",
+    "nome_completo": "Ana Danielle de Queiroz Melo",
+    "nome_citacoes": "MELO, A. D. Q.;MELO, ANA;MELO, ANA DANIELLE QUEIROZ;MELO, Ana Danielle Queiroz;QUEIROZ MELO, ANA DANIELLE",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "30/05/2022",
+    "url": "http://lattes.cnpq.br/8044568823515601",
+    "texto_resumo": "Possui graduação em Bacharelado em Química Industrial pela Universidade Federal do Ceará (2008), graduação em Licenciatura em Química pela Universidade Federal do Ceará (2007), mestrado em Química Inorgânica pela Universidade Federal do Ceará (2011) e doutorado em Química Inorgânica pela Universidade Federal do Ceará (2017). Atualmente é professora EBTT do Instituto Federal do Ceará (IFCE) campus de Aracati. Desenvolve pesquisas nas áreas de ciências dos materiais e no ensino de ciências e de química. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Química Inorgânica",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2017",
+      "descricao": "Título: ESTUDO DA UTILIZAÇÃO DE COACERVATOS DE POLIFOSFATO DE SÓDIO NA OBTENÇÃO DE MATERIAIS COM NANOPARTÍCULAS METÁLICAS E MAGNÉTICAS, Ano de obtenção: 2017. Orientador: Francisco Audisio Dias Filho."
+    },
+    {
+      "tipo": "Mestrado em Química Inorgânica",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "descricao": "Título: ESTUDO DA UTILIZAÇÃO DE COACERVATOS DE POLIFOSFATO DE SÓDIO NA OBTENÇÃO DE MATERIAIS COM NANOPARTÍCULAS METÁLICAS E MAGNÉTICAS, Ano de Obtenção: 2011. Orientador: Francisco Audisio Dias Filho."
+    },
+    {
+      "tipo": "Graduação em Bacharelado em Química Industrial",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "descricao": "Título: Colóides a base de fosfato como estabilizantes de nanopartículas metálicas. Orientador: Francisco Audisio Dias Filho. Bolsista do(a): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico, FUNCAP, Brasil."
+    },
+    {
+      "tipo": "Graduação em Licenciatura em Química",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2007",
+      "descricao": "Título: Introdução de seminários nas disciplinas ofertadas à licenciatura na perspectiva do licenciado. Orientador: Elisane Longhinotti."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professora EBTT",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Sertão Pernambucano, IF-Sertão PE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Sertão Pernambucano",
+      "instituicao_sigla": "IF-Sertão PE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor titular",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria da Educação do estado do ceará, SEDUC, Brasil.",
+      "instituicao_nome": "Secretaria da Educação do estado do ceará",
+      "instituicao_sigla": "SEDUC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": "Professor",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Química",
+      "subarea": "Química Inorgânica",
+      "especialidade": "nanomateriais",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Química / Subárea: Química Inorgânica/Especialidade: nanomateriais."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "O ENSINO DE QUÍMICA FARMACÊUTICA NO ENSINO MÉDIO COMO ESTRATÉGIA DE CONTEXTUALIZAÇÃO",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "BYANCA MILLA MAIA DE OLIVEIRA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "DESENVOLVIMENTO DE UM REATOR FOTOQUÍMICO PARA ESTERILIZAÇÃO DE RESÍDUOS INFECCIOSOS ORIUNDOS DE AMBULATÓRIOS ODONTOLÓGICOS E HOSPITAIS: UMA RESPOSTA AO VÍRUS SARS-COV-2",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "FRANCISCO MATEUS GOMES DO NASCIMENTO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "ANÁLISE DA PERCEPÇÃO SOCIOAMBIENTAL DA ABORDAGEM SOBRE RESÍDUOS SÓLIDOS URBANOS NO ENSINO DE QUÍMICA",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "MICHELI MARCOS OLIVEIRA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "O RECONHECIMENTO E AS IMPLICAÇÕES DAS DIFERENTES FUNÇÕES ORGÂNICAS EM FÁRMACOS COMO FERRAMENTA DIDÁTICA PARA O ENSINO DE QUÍMICA ORGÂNICA.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "JARDEL SOARES GIRÃO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "O USO DE TECNOLOGIAS DIGITAIS NO ENSINO DE QUÍMICA EM TEMPOS DE PANDEMIA NA PERSPECTIVA DOS PROFESSORES DO IFCE",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "GUSTAVO ALVES DOS SANTOS",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal do Ceará - Campus Boa Viagem - IFCE/Boa Viagem",
+          "curso": ""
+        },
+        {
+          "titulo": "CONSTRUÇÃO DE UM RODO GERMICIDA COM LUZ UV PARA LIMPEZA ESCOLAR COMO MÉTODO DE PREVENÇÃO AO CORONAVÍRUS.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "FRANCISCO RENAN LIMA AMORIM",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "II Congresso Nacional de química (CONDEQUI)",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "MELO, A. D. Q.. I Semana da Tecnologia de Alimentos. 2014. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

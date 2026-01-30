@@ -1,0 +1,105 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Redes</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Redes</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* Ellipsis nas células: mostra "..." e deixa o tooltip trabalhar */
+    #tabela-membros .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Lista de membros</h3>
+    <div class="sl-controls">
+      <button id="membros-csv">⬇️ CSV</button>
+      <button id="membros-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-membros" class="sl-tabela" id="tabela-membros"></div>
+    
+    <script>
+    const DATA_MEMBROS = [{"nome": "Ana Danielle de Queiroz Melo", "url": "membro-8044568823515601.html", "id_lattes": "8044568823515601", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "30/05/2022", "atualizacao_num": 20220530, "grande_area": "Ciências Exatas e da Terra", "area": "Química", "instituicao": ""}, {"nome": "Andrea Moura da Costa Souza", "url": "membro-0158252648693540.html", "id_lattes": "0158252648693540", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "16/01/2026", "atualizacao_num": 20260116, "grande_area": "Ciências Sociais Aplicadas", "area": "Administração", "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"}, {"nome": "Andreia Rodrigues da Silva", "url": "membro-8102016972959768.html", "id_lattes": "8102016972959768", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "06/03/2022", "atualizacao_num": 20220306, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "instituicao": "Instituto Federal de Educação Ciencia e Tecnologia"}, {"nome": "Arliene Stephanie Menezes Pereira Pinto", "url": "membro-6058632073001777.html", "id_lattes": "6058632073001777", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "28/01/2026", "atualizacao_num": 20260128, "grande_area": "Ciências da Saúde", "area": "Educação Física", "instituicao": ""}, {"nome": "Ana Karine Portela Vasconcelos", "url": "membro-9270231270884490.html", "id_lattes": "9270231270884490", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "19/01/2026", "atualizacao_num": 20260119, "grande_area": "Ciências Exatas e da Terra", "area": "Química", "instituicao": "Instituto Federal do Ceará, Campus Paracuru"}, {"nome": "Breno Rafael Pinheiro Sampaio", "url": "membro-4272610112346656.html", "id_lattes": "4272610112346656", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "25/11/2025", "atualizacao_num": 20251125, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "instituicao": ""}, {"nome": "Cristina Ferreira Gino", "url": "membro-2983135821223272.html", "id_lattes": "2983135821223272", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "06/06/2025", "atualizacao_num": 20250606, "grande_area": "Lingüística, Letras e Artes", "area": "Artes", "instituicao": ""}, {"nome": "Dayse Gonçalves Correia Bandeira", "url": "membro-4273211514705417.html", "id_lattes": "4273211514705417", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "21/10/2025", "atualizacao_num": 20251021, "grande_area": "[sem-grandeArea]", "area": "[sem-area]", "instituicao": "Instituto Federal do Ceará"}, {"nome": "Diego Aguiar Sousa", "url": "membro-8142078797807318.html", "id_lattes": "8142078797807318", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "18/11/2025", "atualizacao_num": 20251118, "grande_area": "[sem-grandeArea]", "area": "[sem-area]", "instituicao": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru"}, {"nome": "Jorgeana de Almeida Jorge Benevides", "url": "membro-4807157101415226.html", "id_lattes": "4807157101415226", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "21/11/2025", "atualizacao_num": 20251121, "grande_area": "Ciências Humanas", "area": "Educação", "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará"}, {"nome": "Max William de Pinho Santana", "url": "membro-6703484795867796.html", "id_lattes": "6703484795867796", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "25/01/2023", "atualizacao_num": 20230125, "grande_area": "Ciências Agrárias", "area": "Recursos Pesqueiros e Engenharia de Pesca", "instituicao": "Instituto Federal do Ceará, IFCE- Campus Paracuru"}, {"nome": "Renato Lenz Costa Lima", "url": "membro-7029026201626164.html", "id_lattes": "7029026201626164", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/01/2026", "atualizacao_num": 20260105, "grande_area": "[sem-grandeArea]", "area": "[sem-area]", "instituicao": ""}, {"nome": "Roberto de Almeida Façanha", "url": "membro-9248438123151568.html", "id_lattes": "9248438123151568", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "11/12/2024", "atualizacao_num": 20241211, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "instituicao": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru"}, {"nome": "Rodrigo Carvalho Souza Costa", "url": "membro-0490481250317107.html", "id_lattes": "0490481250317107", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "04/04/2025", "atualizacao_num": 20250404, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "instituicao": "Instituto Federal do Ceará - Campus Canindé"}, {"nome": "Sibele Maria Souza", "url": "membro-2196942948029432.html", "id_lattes": "2196942948029432", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "08/09/2022", "atualizacao_num": 20220908, "grande_area": "Ciências Humanas", "area": "Educação", "instituicao": ""}, {"nome": "Socorro Gardenia Carvalho de Paula", "url": "membro-5633112574126394.html", "id_lattes": "5633112574126394", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "09/09/2025", "atualizacao_num": 20250909, "grande_area": "Lingüística, Letras e Artes", "area": "Letras", "instituicao": ""}];
+    const TABLE_HEIGHT = "auto"; // "auto" | "70vh" | "90vh"
+    
+    const LANG_PT = {
+      "pt-br": {
+        "pagination": {
+          "first":"«","first_title":"Primeira",
+          "last":"»","last_title":"Última",
+          "prev":"‹","prev_title":"Anterior",
+          "next":"›","next_title":"Próxima"
+        },
+        "headerFilters": { "default":"⎯ Filtrar ⎯" }
+      }
+    };
+    
+    // Ordenador para data BR usando campo auxiliar yyyymmdd (numérico)
+    function sortDateBR(a, b, aRow, bRow, column, dir, sorterParams) {
+      const av = aRow?.getData()?.atualizacao_num ?? 0;
+      const bv = bRow?.getData()?.atualizacao_num ?? 0;
+      return av - bv;
+    }
+    
+    // Formatter de link com title (tooltip no próprio <a>)
+    function linkWithTitle(cell, formatterParams, onRendered) {
+      const data = cell.getData();
+      const url = data && data.url ? String(data.url) : "#";
+      const label = String(cell.getValue() ?? "");
+      const a = document.createElement("a");
+      a.href = url;
+      a.textContent = label;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.title = label; // <-- tooltip no link
+      return a;
+    }
+    
+    function createTable(el, data, columns, initialSort) {
+      const base = {
+        data,
+        layout: "fitColumns",
+        responsiveLayout: "collapse",
+        pagination: "local",
+        paginationSize: 50,
+        paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+        movableColumns: true,
+        initialSort,
+        headerFilterLiveFilter: true,
+        columns,
+        locale: true, langs: LANG_PT, locale: "pt-br",
+        tooltips: true    // <-- tooltip global (para colunas sem link)
+      };
+      if (TABLE_HEIGHT !== "auto") {
+        base.height = TABLE_HEIGHT;
+      }
+      return new Tabulator(el, base);
+    }
+    
+    document.addEventListener("DOMContentLoaded", function(){
+      const columns = [
+        // Nome com link + title no próprio <a>
+        { title:"Nome", field:"nome", formatter: linkWithTitle,
+           headerFilter:"input", widthGrow:3, tooltip:true },
+    
+        // Demais colunas (tooltip global já cobre)
+        { title:"ID Lattes", field:"id_lattes", headerFilter:"input", tooltip:true },
+        { title:"Rótulo/Grupo", field:"rotulo_grupo", headerFilter:"input", tooltip:true },
+        { title:"Bolsa CNPq", field:"bolsa", headerFilter:"input", tooltip:true },
+        { title:"Período de análise individual", field:"periodo", headerFilter:"input", tooltip:true },
+        { title:"Data de atualização do CV", field:"atualizacao", headerFilter:"input", sorter: sortDateBR, tooltip:true },
+        { title:"Grande área", field:"grande_area", headerFilter:"input", tooltip:true },
+        { title:"Área", field:"area", headerFilter:"input", tooltip:true },
+        { title:"Instituição", field:"instituicao", headerFilter:"input", tooltip:true },
+      ];
+    
+      const t = createTable("#tabela-membros", DATA_MEMBROS, columns, [{ column: "nome", dir: "asc" }]);
+    
+      document.getElementById("membros-csv").onclick  = () => t.download("csv",  "lista_membros.csv", { bom:true });
+      document.getElementById("membros-xlsx").onclick = () => t.download("xlsx", "lista_membros.xlsx", { sheetName:"Membros" });
+    });
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 2020 até 2026
+<br>Data de processamento: 30/01/2026 13:31:44<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:rodrigo.costa@ifce.edu.br">rodrigo.costa@ifce.edu.br</a>         </div> </body></html>

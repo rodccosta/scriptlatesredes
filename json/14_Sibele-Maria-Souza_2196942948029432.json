@@ -1,0 +1,488 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "2196942948029432",
+    "nome_completo": "Sibele Maria Souza",
+    "nome_citacoes": "SOUZA, S. M.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "08/09/2022",
+    "url": "http://lattes.cnpq.br/2196942948029432",
+    "texto_resumo": "Formada como Pedagoga pela FACERES de São Jose do Rio Preto -SP, professora de LIBRAS licenciada em Letras/LIBRAS pela UFSC (Universidade Federal de Santa Catarina), PROLIBRAS proficiência uso e no ensino da Língua Brasileira de Sinais - LIBRAS no nível superior e proficiência na Tradução e Interpretação da Língua Brasileira de Sinais - LIBRAS no ensino médio, ambos reconhecidos pelo MEC, Mestre em Educação formada pela UNICAMP (Universidade Estadual de Campinas), ministrei aulas de LIBRAS para pós-graduação da POLICAMP e FAEC e ministra a disciplina LIBRAS (Língua Brasileira de Sinais) na escola Maria Peregrina, era ex proprietária da empresa CELIBRAS (Centro Educacional de Língua Brasileira de Sinais) atuava como diretora e docente. Atualmente concursada pelo IFCE campus Paracuru e atuo como docente (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Mestrado em Educação",
+      "nome_instituicao": "Universidade Estadual de Campinas, UNICAMP, Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2012",
+      "descricao": "Título: Apontamentos sobre a formação de professores bilígues para a educação de surdos em língua de sinais, Ano de Obtenção: 2012. Orientador: Regina Maria de Souza."
+    },
+    {
+      "tipo": "Graduação em Licenciado em Letras",
+      "nome_instituicao": "UFSC/USP, UFSC/USP, Brasil",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2011",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Pedagogia",
+      "nome_instituicao": "União das Escolas do Grupo Ceres da Educação, UNICERES, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2006",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Secretaria de Direitos e Políticas para Mulheres, Pessoas com Deficiência,, SDPMPCD, Brasil.",
+      "instituicao_nome": "Secretaria de Direitos e Políticas para Mulheres",
+      "instituicao_sigla": "Pessoas com Deficiência",
+      "instituicao_pais": null,
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professora de Língua Brasileira de Sinais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Direitos e Políticas para Mulheres, Pessoas com Deficiência,, SDPMPCD, Brasil",
+      "instituicao_nome": "Secretaria de Direitos e Políticas para Mulheres",
+      "instituicao_sigla": "Pessoas com Deficiência",
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria Municipal de Educação em Uchoa, SMEU, Brasil.",
+      "instituicao_nome": "Secretaria Municipal de Educação em Uchoa",
+      "instituicao_sigla": "SMEU",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professora de Língua Brasileira de Sinais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria Municipal de Educação em Uchoa, SMEU, Brasil",
+      "instituicao_nome": "Secretaria Municipal de Educação em Uchoa",
+      "instituicao_sigla": "SMEU",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria Municipal de Educação de São José do Rio Preto, SMERP, Brasil.",
+      "instituicao_nome": "Secretaria Municipal de Educação de São José do Rio Preto",
+      "instituicao_sigla": "SMERP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professora de Língua Brasileira de Sinais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria Municipal de Educação de São José do Rio Preto, SMERP, Brasil",
+      "instituicao_nome": "Secretaria Municipal de Educação de São José do Rio Preto",
+      "instituicao_sigla": "SMERP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Educacional de Língua Brasileira de Sinais, CELIBRAS, Brasil.",
+      "instituicao_nome": "Centro Educacional de Língua Brasileira de Sinais",
+      "instituicao_sigla": "CELIBRAS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Proprietária",
+      "enquadramento": "Diretora e Docente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Educacional de Língua Brasileira de Sinais, CELIBRAS, Brasil",
+      "instituicao_nome": "Centro Educacional de Língua Brasileira de Sinais",
+      "instituicao_sigla": "CELIBRAS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Atitude de Educação Continuada, FAEC, Brasil.",
+      "instituicao_nome": "Fundação Atitude de Educação Continuada",
+      "instituicao_sigla": "FAEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professora de Língua Brasileira de Sinais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Atitude de Educação Continuada, FAEC, Brasil",
+      "instituicao_nome": "Fundação Atitude de Educação Continuada",
+      "instituicao_sigla": "FAEC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola Maria Peregrina, EMP, Brasil.",
+      "instituicao_nome": "Escola Maria Peregrina",
+      "instituicao_sigla": "EMP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professora de Língua Brasileira de Sinais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola Maria Peregrina, EMP, Brasil",
+      "instituicao_nome": "Escola Maria Peregrina",
+      "instituicao_sigla": "EMP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Jaguariúna, FAJ, Brasil.",
+      "instituicao_nome": "Faculdade Jaguariúna",
+      "instituicao_sigla": "FAJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professora de Língua Brasileira de Sinais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Jaguariúna, FAJ, Brasil",
+      "instituicao_nome": "Faculdade Jaguariúna",
+      "instituicao_sigla": "FAJ",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Federação Nacional de Educação e Integração dos Surdos de SP, FENEIS SP, Brasil.",
+      "instituicao_nome": "Federação Nacional de Educação e Integração dos Surdos de SP",
+      "instituicao_sigla": "FENEIS SP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Instrutora de LIBRAS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO, CECIS, Brasil.",
+      "instituicao_nome": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO",
+      "instituicao_sigla": "CECIS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "VOLUNTÁRIA",
+      "enquadramento": "Pedagoga e Professora de LIBRAS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO, CECIS, Brasil",
+      "instituicao_nome": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO",
+      "instituicao_sigla": "CECIS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO, CECIS, Brasil.",
+      "instituicao_nome": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO",
+      "instituicao_sigla": "CECIS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Coordenadora Pedagógica",
+      "enquadramento": "Coordenadora Pedagógica Curso de LIBRAS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO, CECIS, Brasil",
+      "instituicao_nome": "CENTRO EDUCACIONAL DA CULTURA E INCLUSAO DOS SURDOS PARCERIA DA ASSOCIAÇAO",
+      "instituicao_sigla": "CECIS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Campinas, UNICAMP, Brasil.",
+      "instituicao_nome": "Universidade Estadual de Campinas",
+      "instituicao_sigla": "UNICAMP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "Estágio Docente - PED",
+      "enquadramento": "Estagiária",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Campinas, UNICAMP, Brasil",
+      "instituicao_nome": "Universidade Estadual de Campinas",
+      "instituicao_sigla": "UNICAMP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Nove de Julho, UNINO",
+      "instituicao_nome": "Universidade Nove de Julho",
+      "instituicao_sigla": "UNINO",
+      "instituicao_pais": null,
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "Professora",
+      "enquadramento": "Professora de LIBRAS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Nove de Julho, UNINOVE, Brasil",
+      "instituicao_nome": "Universidade Nove de Julho",
+      "instituicao_sigla": "UNINOVE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Português",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Libras",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": [
+      {
+        "autores": "SOUZA, S. M.. I Congresso Desenvolvimento de um rumo para a educação das crianças Surdas, desde o nascimento até juventude. 2010. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

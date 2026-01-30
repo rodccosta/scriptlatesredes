@@ -1,0 +1,565 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Redes</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Redes</h2></div>
+    <h3>Grafo de colaborações</h3>
+    <p>
+      <a href="membros.html">
+        16 currículos Lattes
+      </a> geraram este grafo baseado em <em>Artigos completos publicados em periódicos, Livros publicados/organizados ou edições, Capítulos de livros publicados, Textos em jornais de notícias/revistas, Trabalhos completos publicados em anais de congressos, Resumos expandidos publicados em anais de congressos, Resumos publicados em anais de congressos, Artigos aceitos para publicação, Apresentações de trabalho, Demais tipos de produção bibliográfica, Programas de computador com registro, Programas de computador sem registro, Produtos tecnológicos, Processos ou técnicas, Trabalhos técnicos , Demais tipos de produção técnica, Entrevistas, mesas redondas, programas e comentários na mídia, Produções artísticas</em>.<br>
+      O tamanho do vértice é proporcional ao número de colaboradores. A espessura da aresta é proporcional ao número de colaborações.
+    </p>
+    
+    <style>
+      .viz-wrap { display:flex; gap:1rem; }
+      #info-pane {
+        flex:1; max-height: 1200px; overflow:auto;
+        border:1px solid #ddd; padding:0.75rem; background:#fafafa;
+      }
+      .toolbar {
+        display:flex; gap:0.5rem; align-items:center; margin-bottom:0.5rem; flex-wrap: wrap;
+      }
+      .toolbar input[type="text"] {
+        flex:1; min-width: 220px; padding:0.5rem; border:1px solid #ccc; border-radius:8px;
+      }
+      .toolbar button {
+        padding:0.5rem 0.75rem; border:1px solid #ccc; border-radius:8px; background:#fff; cursor:pointer;
+      }
+      .legend { display:flex; align-items:center; gap:.5rem; flex-wrap:wrap;
+        font: 14px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; }
+      .legend .title { margin-right:.25rem; }
+      .legend .item { display:inline-flex; align-items:center; gap:.35rem; margin-right:.75rem; }
+      .legend .swatch { width:14px; height:14px; display:inline-block; border-radius:2px; border:1px solid rgba(0,0,0,.2); }
+    
+      #viz-container { flex:3; height: 70vh; min-height: 620px; border:1px solid #ccc; position:relative; }
+      @media (min-width: 1200px) { #viz-container { height: 1200px; } }
+      @media (max-height: 600px) { #viz-container { height: 60vh; } }
+    
+      .node { cursor:grab; }
+      .node:active { cursor:grabbing; }
+      .node.selected circle { stroke:#111; stroke-width:1px; }
+      .dimmed { opacity:0.15; }
+    
+      .label { font: 5px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; pointer-events:none; }
+      .edge-label { font-size: 3px; line-height: 1; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; fill:#555; }
+      .edge { stroke:#aaa; stroke-opacity:0.85; }
+      .edge.highlight { stroke:#333; }
+      .hidden { display:none !important; }
+    
+      /* Ellipsis + tooltip nas tabelas (aplicado quando Tabulator monta) */
+      #tabela-vertices .tabulator-cell,
+      #tabela-arestas  .tabulator-cell {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+      }
+    </style>
+    
+    <div class="viz-wrap">
+      <div style="flex:3; display:flex; flex-direction:column;">
+        <div class="toolbar">
+          <div id="legend" class="legend">
+            <span class="title">As cores representam os seguintes rótulos:</span>
+          </div>
+          <button id="btnToggleLabels" title="Mostrar/ocultar rótulos (vértices e arestas)">Ocultar rótulos</button>
+          <input id="searchBox" type="text" placeholder="Buscar pesquisador (nome ou ID)..." />
+          <button id="btnSearch">Buscar</button>
+          <button id="btnClear">Limpar seleção</button>
+        </div>
+    
+        <div id="viz-container">
+          <svg id="viz" width="100%" height="100%"></svg>
+        </div>
+      </div>
+    
+      <div id="info-pane">
+        <h4>Informação do Pesquisador</h4>
+        <p>Clique em um nó (ou use a busca) para ver detalhes aqui.</p>
+      </div>
+    </div>
+    
+    <p>Você pode baixar o grafo em formato GEXF:
+      <a href="grafo_de_colaboracoes.gexf" download="grafo_de_colaboracoes.gexf">grafo_de_colaboracoes.gexf</a>
+    </p>
+    
+    <!-- D3 global (sem módulos) -->
+    <script src="js/d3.min.js"></script>
+    
+    <script>
+      // ======= dados =======
+      var graphData = {"directed": false, "multigraph": false, "graph": {}, "nodes": [{"label": "Ana Danielle de Queiroz Melo", "url": "http://lattes.cnpq.br/8044568823515601", "publicacoesEmCoautoria": 0, "atualizacaoCV": "30/05/2022", "resumo": "Possui graduação em Bacharelado em Química Industrial pela Universidade Federal do Ceará (2008), graduação em Licenciatura em Química pela Universidade Federal do Ceará (2007), mestrado em Química Inorgânica pela Universidade Federal do Ceará (2011) e doutorado em Química Inorgânica pela Universidade Federal do Ceará (2017). Atualmente é professora EBTT do Instituto Federal do Ceará (IFCE) campus de Aracati. Desenvolve pesquisas nas áreas de ciências dos materiais e no ensino de ciências e de química. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Exatas e da Terra", "nomePrimeiraArea": "Química", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.0728530311161002, "y": 0.7, "size": 2, "id": 0}, {"label": "Andrea Moura da Costa Souza", "url": "http://lattes.cnpq.br/0158252648693540", "publicacoesEmCoautoria": 0, "atualizacaoCV": "16/01/2026", "resumo": "Pós- Doutoramento em Educação Profissional (IFCE); Doutora em Educação Brasileira pela Universidade Federal do Ceará (UFC)- Linha de pesquisa em Estudo Organizacionais, Empreendedorismo, Inovação e Ensino - Mestre em Administração, (Université de Nancy2- UFMG) ; Mestre em Educação pela Université de Nancy 2- Especialista em Gestão e Planejamento Estratégico-pela Universidade Federal do Ceará. Especialista em Docência em Educação Profissional; Bacharel em Administração de Empresas; Bacharelado em Filosofia e Pedagogia. Vice- Coordenadora da pós-graduação- Mestrado profissional em Ensino(IFCE/ UNILAB). Professora efetiva do Instituto Federal do Ceará, Colaboradora dos projetos UFC- virtual; Universidade Aberta do Brasil-UAB; Parfor. Coordenadora do Grupo de Pesquisa IFCE/CNPQ Estudo Organizacionais, Empreendedorismo, Inovação e Ensino. Avaliadora capacitada do SINAES/INEP-MEC. Coordenadora e orientadora de projetos de IC- iniciação cientifica e Extensão. Tem experiência em Empreendedorismo, Inovação, Gestão Pública; Teorias Organizacionais; e Educação. Tem experiência técnica em consultoria organizacional, docência do ensino superior e Docência do ensino básico , Técnico e Tecnológico. Avaliadora ad hoc da FUNCAP-Fundação Cearense de Apoio ao Desenvolvimento. Foi Coordenadora do curso de Licenciatura em Ciências Biológicas (20181-2019) e Coordenadora de Pesquisa e Extensão (2017-2019). cordenadora de projetos de pesquisa e extensao com fomento e sem fomento, Diretora Financeiro e Administrativo da FAIFCE. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Administração", "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará", "enderecoProfissional": "Instituto Federal de Educação Ciência e Tecnologia do Ceará. RUA ANTONIO SALES Benfica 62680000 - Paracuru, CE - Brasil Telefone: (85) 33073702", "artigosPeriodicos": 37, "artigosEventos": 2, "capitulosDeLivros": 17, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.6738560220066637, "y": 0.19789152397600068, "size": 2, "id": 1}, {"label": "Andreia Rodrigues da Silva", "url": "http://lattes.cnpq.br/8102016972959768", "publicacoesEmCoautoria": 0, "atualizacaoCV": "06/03/2022", "resumo": "É Doutora em Informática Aplicada e Mestre pela Universidade de Fortaleza. Atualmente é professora do Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software e Pesquisa Operacional, atuando principalmente nos seguintes temas: engenharia de requisitos, qualidade de software, gerência de projetos, estimativas, testes, metodologia ágil e melhoria de processo de software. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Exatas e da Terra", "nomePrimeiraArea": "Ciência da Computação", "instituicao": "Instituto Federal de Educação Ciencia e Tecnologia", "enderecoProfissional": "Instituto Federal de Educação Ciencia e Tecnologia. Rua Jorge Dumar 1703 Jardim América 60410426 - Fortaleza, CE - Brasil Telefone: (85) 34012300 URL da Homepage: http://www.ifce.edu.br", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.3413846274436895, "y": -0.616531185461738, "size": 2, "id": 2}, {"label": "Arliene Stephanie Menezes Pereira Pinto", "url": "http://lattes.cnpq.br/6058632073001777", "publicacoesEmCoautoria": 0, "atualizacaoCV": "28/01/2026", "resumo": "Mãe da Dandara, mulher negra nascida na periferia e sendo a primeira colocada no concurso para professor da área de Educação Física do IFCE nas cotas raciais. Docente do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde já exerceu a função de gestora de extensão do campus Paracuru (2019-2020), coordenadora de acessibilidade e diversidade étnico-racial na Pró-reitoria de Extensão (2020-2021) e presidenta da comissão de heteroidentificação do campus Paracuru (2019-2022), atualmente sendo coordenadora do Núcleo de Acessibilidade às Pessoas com Necessidades Específicas (Napne). Instituição na qual foi emitida a Portaria 8805 do gabinete da reitoria de elogio a servidora pela conquista do 1 lugar na categoria Ciências Biológicas e da Saúde no 2 Prêmio Anas-Mulher Ciência, em reconhecimento à sua destacada produção científica e contribuição relevante ao desenvolvimento acadêmico e à pesquisa. Docente permanente do Programa de Mestrado Profissional de Educação Física em Rede Nacional (PROEF) polo da Universidade Federal do Ceará (UFC) e do Programa de Mestrado Profissional em Educação Inclusiva em Rede Nacional (PROFEI-IFCE). Professora colaboradora do Programa de Pós-graduação em Educação da Universidade Estadual do Ceará (UECE). Pós-doutoranda em Educação Física pela UFC. Doutora pelo Programa de Pós-graduação em Educação pela UECE. Mestra em Educação Física pela Universidade Federal do Rio Grande do Norte (UFRN). Graduada em Educação Física/Licenciatura plena pela UECE. Tecnóloga em Gestão Desportiva e de Lazer pelo IFCE e graduada em Pedagogia pela Unifaveni. É especialista em Arte-educação e Cultura Popular pela Faculdade de Tecnologia Darcy Ribeiro (FTDR); especialista em Gestão Educacional e Práticas pedagógicas pela Universidade Cândido Mendes (UCAMRJ); e especialista em Educação em direitos humanos, diversidade e questões étnico-raciais. Foi professora efetiva da Secretaria Municipal de Educação de Fortaleza. Membra associada do Colégio Brasileiro de Ciências do Esporte (CBCE), sendo coordenadora adjunta do GTT Relações étnico-raciais. Participou de intercâmbio na Universidad Nacional Mayor de San Marcos, com sede em Lima, capital da República do Peru pelo Caminhos Amefricanos: Programa de Intercâmbios Sul-Sul Edição Peru desenvolvido em parceria com o Ministério da Igualdade Racial (MIR). É integrante da equipe editorial da Revista Lecturas-Educación Física y deportes (comitê científico) e é editora adjunta da Revista Ensino em Perspectivas (UECE). Foi pesquisadora nos grupos: Educação Física, esporte e lazer do IFCE campus Canindé, do grupo de pesquisa Estesia: corpo, fenomenologia e movimento da UFRN. Líder do grupo de pesquisa Corponexões: corpo, cultura, sociedade e relações étnico-raciais. É integrante do grupo de pesquisa Ciências Humanas, Educação e Movimentos Sociais e Grupo de pesquisa Docência no Ensino Superior e na Educação Básica. Avaliadora do Programa Nacional do Livro e Material Didático (PNLD) do Ensino Médio-2026-2029 do componente Educação Física pelo Ministério da Educação (MEC). Desenvolve pesquisas e projetos sobre Educação Física e Educação das relações étnico-raciais, formação de professores, feminismos/gênero e significações sócio antropológicas, epistemológicas e filosóficas sobre o corpo. É pesquisadora na área de relações étnico-raciais há mais de 15 anos e autora de livros com esta temática como: Aninhá Vaguretê: corpo e simbologia no ritual do Torém dos índios Tremembé\" (2020), Práticas corporais indígenas: jogos, brincadeiras e lutas para a implementação da Lei n 11.645/08 na Educação Física escolar (2021), Ações de pesquisa e extensão na área de acessibilidade e diversidade étnico-racial na educação profissional e tecnológica (2022) e Memória ancestral: biografização de mulheres indígenas Tremembé (2025). (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências da Saúde", "nomePrimeiraArea": "Educação Física", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 56, "artigosEventos": 4, "capitulosDeLivros": 15, "livros": 8, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.617545300928887, "y": 0.3399615763654237, "size": 2, "id": 3}, {"label": "Ana Karine Portela Vasconcelos", "url": "http://lattes.cnpq.br/9270231270884490", "publicacoesEmCoautoria": 0, "atualizacaoCV": "19/01/2026", "resumo": "Coordenadora do Doutorado Acadêmico do RENOEN Polo IFCE, Campus Fortaleza. Docente Permanente do Mestrado em Ensino de Ciências e Matemática (PGECM) e do Curso de Doutorado Acadêmico em Ensino Rede Nordeste de Ensino (RENOEN) - Polo IFCE. Docente efetiva do Instituto Federal Ceará (IFCE), atualmente lotada no Campus Paracuru. Áreas de interesse: Aprendizagem Significativa no Ensino de Química: Superação de Obstáculos Epistemológicos; Experimentação Química; Ensino de Ciência, Tecnologia, Sociedade e Ambiente (CTS/CTSA). Doutora e Mestre em Engenharia Civil (Saneamento Ambiental) pela Universidade Federal do Ceará (UFC). Especialista em Gestão Ambiental pela Universidade de Fortaleza (UNIFOR). Graduada em Licenciatura Química pela UFC e Técnica em Química Industrial pela Escola Técnica Federal do Ceará (ETFCE). (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Exatas e da Terra", "nomePrimeiraArea": "Química", "instituicao": "Instituto Federal do Ceará, Campus Paracuru", "enderecoProfissional": "Instituto Federal do Ceará, Campus Paracuru. CE-341 km-2, s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 URL da Homepage: www.ifce.edu.br", "artigosPeriodicos": 38, "artigosEventos": 5, "capitulosDeLivros": 11, "livros": 5, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.5438597786496869, "y": 0.43978163297092476, "size": 2, "id": 4}, {"label": "Breno Rafael Pinheiro Sampaio", "url": "http://lattes.cnpq.br/4272610112346656", "publicacoesEmCoautoria": 0, "atualizacaoCV": "25/11/2025", "resumo": "", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Exatas e da Terra", "nomePrimeiraArea": "Matemática", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 1, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 1, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.44355138501858415, "y": 0.5535993962710787, "size": 2, "id": 5}, {"label": "Cristina Ferreira Gino", "url": "http://lattes.cnpq.br/2983135821223272", "publicacoesEmCoautoria": 0, "atualizacaoCV": "06/06/2025", "resumo": "Mestra em Artes pelo Programa de Pós-Graduação em Artes (PPGARTES) - Mestrado Profissional em Artes (MPARTES) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) campus Fortaleza na linha de Processos de Criação em Artes, sob a orientação do professor Dr. Eddy Lincolln Freitas de Souza. Pós-graduada no curso de especialização em Musicoterapia pelo Instituto Graduale - Faculdade Padre Dourado (2018). Concluiu o curso de aperfeiçoamento em História da Arte pela Enfoque Capacitação (2019). Bacharel em piano pela Universidade Estadual do Ceará (2010). Graduada em Pedagogia pela Universidade Regional do Cariri (2005). Docente efetiva do IFCE Campus Paracuru na área de Música (teclas: piano/teclado). Tem experiência na área de Artes, com ênfase em Música, atuando principalmente nos seguintes temas: piano, teclado, canto coral e educação musical. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Lingüística, Letras e Artes", "nomePrimeiraArea": "Artes", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 1, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.6218789689862902, "y": -0.3410742876503528, "size": 2, "id": 6}, {"label": "Dayse Gonçalves Correia Bandeira", "url": "http://lattes.cnpq.br/4273211514705417", "publicacoesEmCoautoria": 0, "atualizacaoCV": "21/10/2025", "resumo": "Atualmente, sócia da empresa de soluções ópticas Lumiere Tech e docente da área de Sistemas da Computação no IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará) - campus Paracuru. Doutora em Engenharia de Teleinformática pela Universidade Federal do Ceará (UFC) na linha de Sinais e Sistemas (Doutorado sanduíche CNAM (Conservatoire National des Arts et Metiers) - Paris, França. Mestra em Engenharia de Telecomunicações pelo IFCE - campus Fortaleza (Linha de pesquisa: MO - Microondas com Óptica integrada) com foco em simulações numéricas e/ou experimentos na aplicação de efeitos de pulsos em fibras ópticas convencionais e fibras de cristal fotônico no Laboratório de Fotônica do IFCE. Especialista em Gerenciamento de Projetos (MBA) pela Faculdade Ateneu. Formação Acadêmica: Engenheira de Telecomunicações (2012), Tecnóloga em Telemática (2007) e Técnica em Telecomunicações (2003) pelo IFCE. Experiência de mercado: Especialista Técnica em Serviços de Telecomunicações na Embratel gerenciando redes de backbone óptico SDH / DWDM / IP, como Técnica de Headend na empresa NET Fortaleza atuando principalmente nos ajustes do sinal da rede HFC (Hybrid Fiber-Coaxial) e como Técnica de Mantenção III na empresa TV Jangadeiro efetuando ajustes em links de microondas para as transmissões ao vivo da emissora, bem como equalizações nos sinais analógicos e digitais dos sistemas de rádio (FM 88,9 MHz) e TV (Canal 12). \"Aquele que não é capaz de governar a si mesmo, não será capaz de governar os outros. - Mahatma Gandhi (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "[sem-grandeArea]", "nomePrimeiraArea": "[sem-area]", "instituicao": "Instituto Federal do Ceará", "enderecoProfissional": "Instituto Federal do Ceará. Av. Treze de Mai, 2081 Benfica 60040531 - Fortaleza, CE - Brasil Telefone: (85) 33073666 Fax: (85) 33073711 URL da Homepage: www.ifce.edu.br", "artigosPeriodicos": 1, "artigosEventos": 1, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.5439911994778079, "y": -0.4336449505532888, "size": 2, "id": 7}, {"label": "Diego Aguiar Sousa", "url": "http://lattes.cnpq.br/8142078797807318", "publicacoesEmCoautoria": 0, "atualizacaoCV": "18/11/2025", "resumo": "Possui graduação em Engenharia da Computação pela Universidade Federal do Ceará (UFC), Especialização em Engenharia Industrial pelo Instituto Executivo de Formação/Faculdade Darcy Ribeiro, Mestrado e Doutorado em Engenharia de Teleinformática pela UFC. Desde 2013 é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente lotado no campus da cidade de Paracuru. Possui interesse em pesquisas na área de sistemas de comunicações sem fio, com foco em otimização numérica, redes 5G, alocação de recursos de rádio e aprendizado de máquinas. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "[sem-grandeArea]", "nomePrimeiraArea": "[sem-area]", "instituicao": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru", "enderecoProfissional": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru. CE-341, Km 2, S/N Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210", "artigosPeriodicos": 8, "artigosEventos": 5, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.19475632480404523, "y": 0.6606457766282328, "size": 2, "id": 8}, {"label": "Jorgeana de Almeida Jorge Benevides", "url": "http://lattes.cnpq.br/4807157101415226", "publicacoesEmCoautoria": 0, "atualizacaoCV": "21/11/2025", "resumo": "Graduada em Ciências Biológicas pela Universidade Regional do Cariri (1999) Tem experiência na área de Educação junto ao ensino infantil, médio e superior. Possui pós-graduação nas áreas de Biologia e Química (URCA), TIC'S (PUC-RIO), Gestão e Avaliação da Educação Pública (UFJF-MG) e mestrado em Tecnologia e Gestão Ambiental (IFCE/Fortaleza). Coordenou o projeto de extensão de incentivo a literatura intitulado Café com Letras no IFCE campus Acaraú em Paracuru no último ano de execução (2015-2018). Atuou na coordenação de área do PIBID no campus Acaraú (2014-2017). É professora efetiva do Instituto Federal de Educação Ciência e Tecnologia do Ceará, campus Paracuru atuando em pesquisas nas áreas de Botânica, Ecologia e Gestão Ambiental. Atualmente coordena o Laboratório Didático do IFCE campus Paracuru e faz parte do grupo de escritores da literatura nacional com quatro títulos publicados. Faz parte do Núcleo Integrado de Tecnologia e Meio Ambiente do campus IFCE/Paracuru. Doutora pelo programa de Pós-graduação em Ciências Marinhas Tropicais pela Universidade Federal do Ceará (UFC). (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Educação", "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará", "enderecoProfissional": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Ce 341, Km 2 s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210", "artigosPeriodicos": 3, "artigosEventos": 0, "capitulosDeLivros": 1, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.07827093915833226, "y": -0.6928691892721424, "size": 2, "id": 9}, {"label": "Max William de Pinho Santana", "url": "http://lattes.cnpq.br/6703484795867796", "publicacoesEmCoautoria": 0, "atualizacaoCV": "25/01/2023", "resumo": "Professor efetivo do Instituto Federal do Ceará - IFCE, Campus Paracuru - Ceará. Doutorado em Ciências Marinhas Tropicais, no LABOMAR - UFC (31/08/2017). Possui Mestrado em Engenharia de Pesca pela Universidade Federal do Ceará (2003). Graduação em Engenharia de Pesca pela Universidade Federal do Ceará (1999), Graduação em Ciências Náuticas na Escola de Formação de Oficiais da Marinha Mercante no Centro de Instrução Almirante Braz de Aguiar (CIABA) em 1987, e Engenharia de Segurança do Trabalho (UNIATENEU) em 2022 e tem experiência na área de Recursos Pesqueiros e Engenharia de Pesca, com ênfase em Engenharia de Pesca, atuando principalmente nos seguintes temas: Aquicultura, Pesca, Lagosta, Algas, máquinas e motores marítimos, Engenharia de Pesca, Beneficiamento de Pescados e Saúde, Higiene e Segurança do Trabalho e Meio Ambiente. Participa como instrutor em parceria com a Marinha do Brasil nos cursos de PEP e POP, para formação de pescadores especializados. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Agrárias", "nomePrimeiraArea": "Recursos Pesqueiros e Engenharia de Pesca", "instituicao": "Instituto Federal do Ceará, IFCE- Campus Paracuru", "enderecoProfissional": "Instituto Federal do Ceará, IFCE- Campus Paracuru. CE 341, s/n , Km 02 ? Bairro: Parque Novo Paracuru Parque Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 Ramal: 100 URL da Homepage: http://www.ifce.edu.br", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.4410006616191821, "y": -0.5513321693038475, "size": 2, "id": 10}, {"label": "Renato Lenz Costa Lima", "url": "http://lattes.cnpq.br/7029026201626164", "publicacoesEmCoautoria": 0, "atualizacaoCV": "05/01/2026", "resumo": "Possui graduação em Telemática pelo Centro Federal de Educação Tecnológica do Ceará (2006) e mestrado em Mestrado Acadêmico em Ciência da Computação pela Universidade Estadual do Ceará (2009). Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas Web, atuando principalmente nos seguintes temas: sistemas web, computação nas nuvens e agentes inteligentes. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "[sem-grandeArea]", "nomePrimeiraArea": "[sem-area]", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.6636181534470854, "y": -0.19131002161897545, "size": 2, "id": 11}, {"label": "Roberto de Almeida Façanha", "url": "http://lattes.cnpq.br/9248438123151568", "publicacoesEmCoautoria": 0, "atualizacaoCV": "11/12/2024", "resumo": "Bacharel em Ciências da Computação pela Universidade Estadual do Ceará (UECE - Dezembro / 1995) e Mestre em Ciência da Computação pela Universidade Estadual de Campinas (UNICAMP - Agosto / 1998). Sua dissertação de mestrado (Gerenciamento de Banda Passante em Servidores de Vídeo) foi premiada em terceiro lugar no Concurso de Teses e Dissertações de Mestrado, promovido pela Sociedade Brasileira de Computação (SBC) em 1999. No mesmo ano obteve igual premiação no concurso latinoamericano de \"Teses de Maestria\", promovido pelo Centro Latinoamericano de Estudios en Informática (CLEI) / UNESCO. Possui 25 anos de experiência em docência em cursos de graduação de Sistemas de Informação, Ciência da Computação e Engenharias, com atuação predominante na área de Algoritmos e Desenvolvimento de Software. Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), tendo ingressado mediante concurso público N 10 / 2016 na área de Metodologia e Técnicas da Computação. Atualmente está lotado no campus Paracuru, onde exerce a coordenação do curso técnico subsequente em Informática para Internet, na modalidade EaD. Suas áreas de interesse incluem software livre / público, algoritmos, estruturas de dados e teoria dos grafos, desenvolvimento para dispositivos móveis, redes de computadores / telecomunicações, robótica educacional e gestão da inovação. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Exatas e da Terra", "nomePrimeiraArea": "Ciência da Computação", "instituicao": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru", "enderecoProfissional": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru. Rodovia CE-341, Km 2, S/N Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 URL da Homepage: http://www.ifce.edu.br/paracuru", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.33276360649281417, "y": 0.6137595432940526, "size": 2, "id": 12}, {"label": "Rodrigo Carvalho Souza Costa", "url": "http://lattes.cnpq.br/0490481250317107", "publicacoesEmCoautoria": 0, "atualizacaoCV": "04/04/2025", "resumo": "Graduado pela UFC em Engenharia Elétrica com ênfase em Informática Industrial (2005) e pelo IFCE em Tecnologia Mecatrônica.Concluiu o mestrado de Engenharia de Teleinformática na área de Eletromagnetismo Aplicado pela UFC e o doutorado em Engenharia de Teleinformática na área de Sinais e Sistemas desenvolvendo um novo algoritmo de visão artificial para interação humano-dispositivo portátil. No período de 2010 à 2013 foi professor da Faculdade Lourenço Filho na área de infra-estrutura e redes locais, realizando a coordenação de atividades de pesquisa e orientação científica nas áreas de Visão Computacional e Administração de Rede através da coordeção o Pilar de Infra-estrutura da Fábrica de Software no período de 2010 à 2013, sendo responsável pela coordenação da equipe de infra-estrutura da Fábrica, realizando configuração de servidores virtualizados através Cytrix Server e Hyper-V server, bem como foi coordenador curso de Redes de Computadores até o processo de reconhecimento do curso.Tem experiência na área de programação multiplataforma, atuando principalmente nos seguintes temas: processamento de imagens, detecção de movimentos, interfaces de interação e sistemas embarcados, bem como nas áreas de administração de servidores linux e windows virtualizados, segurança da informação e redes de computadores.Desde 2013 é professor efetivo do Instituto Federal do Ceará responsável pela sub-área de Sistemas e Redes de Telecomunicações, responsável pelas disciplinas na área de redes de computadores e segurança da informação. Atualmente está lotado no campus de Paracuru é coordenador do curso técnico em Redes de computadores do IFCE Campus Paracuru, instrutor das academias Cisco e Huawei. Com vasta experiência em pesquisa e desenvolvimento nas áreas de processamento de imagens, sinais, desenvolvimento web e mobile, segurança da informação e desenvolvimento de tecnologias assistivas.Em 2016, foi o campeão do Cryptorace, e em 2017 fui o lider do Time campeao do Hackaflag 2017 e em 2018 fui o campeão da etapa de Fortaleza do HACKAFLAG (6o na final nacional).Grande entusiasta no desenvolvimento de novos talentos, sou extensionista e ministro treinamentos de capacitação profissional nas áreas de redes, inteligência artificial, computação em nuvem e segurança da informação. Criador da plataforma conhecida como Maratona Hacker que disponibiliza desafios de segurança ofensiva para iniciantes da área de segurança da informação. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Exatas e da Terra", "nomePrimeiraArea": "Ciência da Computação", "instituicao": "Instituto Federal do Ceará - Campus Canindé", "enderecoProfissional": "Instituto Federal do Ceará - Campus Canindé. Rodovia BR 020, km 303 Jubaia 62700000 - Canindé, CE - Brasil Telefone: (88) 33430572 URL da Homepage: http://caninde.ifce.edu.br", "artigosPeriodicos": 1, "artigosEventos": 2, "capitulosDeLivros": 2, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.6910293571793288, "y": 0.07746129220086999, "size": 2, "id": 13}, {"label": "Sibele Maria Souza", "url": "http://lattes.cnpq.br/2196942948029432", "publicacoesEmCoautoria": 0, "atualizacaoCV": "08/09/2022", "resumo": "Formada como Pedagoga pela FACERES de São Jose do Rio Preto -SP, professora de LIBRAS licenciada em Letras/LIBRAS pela UFSC (Universidade Federal de Santa Catarina), PROLIBRAS proficiência uso e no ensino da Língua Brasileira de Sinais - LIBRAS no nível superior e proficiência na Tradução e Interpretação da Língua Brasileira de Sinais - LIBRAS no ensino médio, ambos reconhecidos pelo MEC, Mestre em Educação formada pela UNICAMP (Universidade Estadual de Campinas), ministrei aulas de LIBRAS para pós-graduação da POLICAMP e FAEC e ministra a disciplina LIBRAS (Língua Brasileira de Sinais) na escola Maria Peregrina, era ex proprietária da empresa CELIBRAS (Centro Educacional de Língua Brasileira de Sinais) atuava como diretora e docente. Atualmente concursada pelo IFCE campus Paracuru e atuo como docente (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Educação", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 0, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.19605235906305693, "y": -0.6809277111290692, "size": 2, "id": 14}, {"label": "Socorro Gardenia Carvalho de Paula", "url": "http://lattes.cnpq.br/5633112574126394", "publicacoesEmCoautoria": 0, "atualizacaoCV": "09/09/2025", "resumo": "Possui graduação em Letras com habilitação em Português e Literatura pela Universidade Federal do Ceará (2002), graduação em Letras - Português e Inglês pela Universidade Federal do Ceará (2009), mestrado em Estudos da Tradução pela Universidade Federal do Ceará (2020) e doutorado em Linguística pela Universidade Federal do Ceará (2025). Ex-bolsista Fulbright (2013), participando do programa de certificação de Língua Inglesa para professores de Inglês, na Universidade do Texas em Austin. Ex-bolsista Capes (2024), atuou como pesquisadora visitante na Northeastern University em Boston, onde trabalhou com a Doutora Susanne Jaegui em projetos envolvendo a capacidade de memória de trabalho e também dando continuidade à análise de dados da pesquisa de doutorado. Atualmente, atua como professora efetiva do Instituto Federal do Ceará - Campus Paracuru. Tem experiência na área de Linguística, com ênfase em Cognição, Processamento e Desenvolvimento da Linguagem, atuando principalmente com os seguintes temas: Memória de Trabalho e Desempenho em Tarefas Orais e de Leitura; Memória de Trabalho e Processamento de Leitura; Processamento de Leitura em Meios Digitais; Ensino e Aprendizagem da Língua Inglesa e Estudos da Tradução. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Lingüística, Letras e Artes", "nomePrimeiraArea": "Letras", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 5, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.6918828595239661, "y": -0.07541122671716874, "size": 2, "id": 15}], "links": []};
+      var nodes = graphData.nodes.map(function(n,i){
+        return {
+          id: (n.id != null ? n.id : String(i)),
+          label: (n.label != null ? n.label : (n.id != null ? n.id : String(i))),
+          size: (n.size != null ? n.size : (4 + (n.degree || 0) * 0.6)),
+          color: (n.color != null ? n.color : "#1f77b4"),
+          instituicao: n.instituicao,
+          url: n.url,
+          atualizacaoCV: n.atualizacaoCV,
+          periodo: n.periodo,
+          rotulo: n.rotulo,
+          nomePrimeiraGrandeArea: n.nomePrimeiraGrandeArea,
+          nomePrimeiraArea: n.nomePrimeiraArea,
+          publicacoesEmCoautoria: n.publicacoesEmCoautoria,
+          degree: n.degree,
+          artigosPeriodicos: n.artigosPeriodicos,
+          artigosEventos: n.artigosEventos,
+          capitulosDeLivros: n.capitulosDeLivros,
+          livros: n.livros,
+          enderecoProfissional: n.enderecoProfissional
+        };
+      });
+      var links = graphData.links.map(function(e){
+        return { source:e.source, target:e.target, weight:(e.weight||1), color:(e.color||"#aaa") };
+      });
+    
+      // ======= dados para a TABELA (vértices) =======
+      window.__VERTEX_TABLE_DATA__ = nodes.map(function(n){
+        var m = (n.atualizacaoCV||"").toString().match(/(\d{2})\/(\d{2})\/(\d{4})/);
+        var ymd = m ? (parseInt(m[3])*10000 + parseInt(m[2]) * 100 + parseInt(m[1])) : 0;
+        return {
+          id: n.id,
+          nome: n.label,
+          instituicao: n.instituicao || "",
+          url: n.url || "",
+          atualizacao: n.atualizacaoCV || "",
+          atualizacao_num: ymd,
+          periodo: n.periodo || "",
+          rotulo: n.rotulo || "",
+          grande_area: n.nomePrimeiraGrandeArea || "",
+          area: n.nomePrimeiraArea || "",
+          publicacoesEmCoautoria: +n.publicacoesEmCoautoria || 0,
+          degree: +n.degree || 0,
+          artigosPeriodicos: +n.artigosPeriodicos || 0,
+          artigosEventos: +n.artigosEventos || 0,
+          capitulosDeLivros: +n.capitulosDeLivros || 0,
+          livros: +n.livros || 0,
+          enderecoProfissional: n.enderecoProfissional || ""
+        };
+      });
+    
+      // ======= TABELA (arestas) – pares de membros (únicos, peso >= 1) =======
+      (function buildEdgeTableData(){
+        var byId = new Map(nodes.map(function(n){ return [String(n.id), n]; }));
+        function normId(x){ return (typeof x === "object" && x !== null) ? String(x.id) : String(x); }
+    
+        // vizinhanças
+        var neigh = new Map();
+        nodes.forEach(function(n){ neigh.set(String(n.id), new Set()); });
+        links.forEach(function(e){
+          var s = normId(e.source), t = normId(e.target);
+          if (!neigh.has(s)) neigh.set(s, new Set());
+          if (!neigh.has(t)) neigh.set(t, new Set());
+          neigh.get(s).add(t); neigh.get(t).add(s);
+        });
+    
+        var seen = new Set();
+        var rows = [];
+        links.forEach(function(e){
+          var s = normId(e.source), t = normId(e.target);
+          var w = +e.weight || 0;
+          if (w < 1) return;
+          var a = s < t ? s : t, b = s < t ? t : s; // par único
+          var key = a + "||" + b;
+          if (seen.has(key)) return;
+          seen.add(key);
+    
+          var nA = byId.get(a), nB = byId.get(b);
+          if (!nA || !nB) return;
+    
+          // colaboradores em comum (interseção, excluindo o próprio par)
+          var neighA = new Set(neigh.get(a) || []);
+          var neighB = new Set(neigh.get(b) || []);
+          var comuns = 0;
+          neighA.forEach(function(x){
+            if (x === a || x === b) return;
+            if (neighB.has(x)) comuns += 1;
+          });
+    
+          rows.push({
+            aresta: [nA.label, nB.label].sort(function(x,y){ return String(x).localeCompare(String(y)); }).join(", "),
+            colabs:  w,
+            comuns:  comuns
+          });
+        });
+    
+        // ordena: colabs desc, comuns desc, aresta asc
+        rows.sort(function(r1, r2){
+          if (r2.colabs !== r1.colabs) return r2.colabs - r1.colabs;
+          if (r2.comuns !== r1.comuns) return r2.comuns - r1.comuns;
+          return r1.aresta.localeCompare(r2.aresta);
+        });
+    
+        window.__EDGE_TABLE_DATA__ = rows;
+      })();
+    
+      // ======= D3: simulação/zoom/legenda =======
+      var svg = d3.select("#viz"),
+          g = svg.append("g"),
+          zoom = d3.zoom().scaleExtent([0.2, 5]).on("zoom", function(ev){ g.attr("transform", ev.transform); });
+      svg.call(zoom);
+    
+      function getBox() { return document.getElementById("viz-container").getBoundingClientRect(); }
+      var box = getBox();
+      var width = box.width, height = box.height;
+    
+      var weights = links.map(function(d){ return +d.weight || 0; });
+      var minW = d3.min(weights), maxW = d3.max(weights);
+      var edgeWidth = d3.scaleLinear().domain([minW, maxW]).range([1.2, 10]).clamp(true);
+      var edgeOpacity = d3.scaleLinear().domain([minW, maxW]).range([0.56,0.79]).clamp(true);
+    
+      var degrees = nodes.map(function(d){ return +d.degree || 0; });
+      var minD = d3.min(degrees) || 0;
+      var maxD = d3.max(degrees) || 1;
+      var nodeRadius = d3.scaleSqrt().domain([minD, maxD]).range([6, 11]).clamp(true);
+      function R(d){ return nodeRadius(+d.degree || 0); }
+    
+      var edgeLayer = g.append("g").attr("class","edges");
+      var nodeLayer = g.append("g").attr("class","nodes");
+      var labelLayer = g.append("g").attr("class","labels");
+      var edgeLabelLayer = g.append("g").attr("class","edge-labels");
+    
+      var edge = edgeLayer.selectAll("path")
+        .data(links).join("path")
+        .attr("class","edge")
+        .attr("id", function(_,i){ return "e"+i; })
+        .attr("stroke", function(d){ return d.color; })
+        .attr("stroke-width", function(d){ return edgeWidth(+d.weight || 0); })
+        .attr("fill","none")
+        .attr("stroke-opacity", function(d){ return edgeOpacity(+d.weight || 0); });
+    
+      var edgeLabels = edgeLabelLayer.selectAll("text")
+        .data(links).join("text")
+        .attr("class","edge-label")
+        .append("textPath")
+        .attr("href", function(_,i){ return "#e"+i; })
+        .attr("startOffset","50%")
+        .attr("text-anchor","middle")
+        .text(function(d){ return d.weight ? String(d.weight) : ""; });
+    
+      var node = nodeLayer.selectAll("g.node")
+        .data(nodes, function(d){ return d.id; })
+        .join(function(enter){
+          var g = enter.append("g").attr("class","node");
+          g.append("circle")
+            .attr("r", function(d){ return R(d); })
+            .attr("fill", function(d){ return d.color; })
+            .attr("stroke", "#333")
+            .attr("stroke-width", 0.17);
+          return g;
+        });
+    
+      var labels = labelLayer.selectAll("text")
+        .data(nodes, function(d){ return d.id; })
+        .join("text")
+        .attr("class","label")
+        .attr("text-anchor","middle")
+        .attr("dy","-0.05em")
+        .text(function(d){ return d.label; });
+    
+      var centerForce = d3.forceCenter(width/2, height/2);
+      var sim = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(function(d){return d.id;}).distance(40).strength(0.6))
+        .force("charge", d3.forceManyBody().strength(-60))
+        .force("collide", d3.forceCollide().radius(function(d){ return R(d)+6; }).iterations(2))
+        .force("center", centerForce)
+        .on("tick", ticked)
+        .on("end", maybeFit);
+    
+      var fitted = false, fitTimeout = setTimeout(function(){ maybeFit(); }, 1000);
+    
+      function ticked(){
+        edge.attr("d", function(d){ return "M"+d.source.x+","+d.source.y+" L"+d.target.x+","+d.target.y; });
+        node.attr("transform", function(d){ return "translate("+d.x+", "+d.y+")"; });
+        labels.attr("x", function(d){ return d.x; }).attr("y", function(d){ return d.y; });
+      }
+    
+      function maybeFit(){
+        if (fitted) return;
+        fitted = true; clearTimeout(fitTimeout);
+        var xs = nodes.map(function(d){ return d.x; }), ys = nodes.map(function(d){ return d.y; });
+        var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs);
+        var minY = Math.min.apply(null, ys), maxY = Math.max.apply(null, ys);
+        var w = Math.max(1, maxX - minX), h = Math.max(1, maxY - minY);
+        var margin = 40;
+        var kx = (width  - margin*2) / w;
+        var ky = (height - margin*2) / h;
+        var scale = Math.max(0.2, Math.min(3, Math.min(kx, ky)));
+        var tx = (width  - scale*(minX + maxX)) / 2;
+        var ty = (height - scale*(minY + maxY)) / 2;
+        svg.transition().duration(600)
+          .call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+      }
+    
+      node.call(d3.drag()
+        .on("start", function(ev, d){ if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+        .on("drag",  function(ev, d){ d.fx = ev.x; d.fy = ev.y; })
+        .on("end",   function(ev, d){ if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
+      );
+    
+      var selectedId = null;
+      function neighborSet(id){
+        var nei = new Set([id]);
+        links.forEach(function(e){
+          var s = (typeof e.source === 'object') ? e.source.id : e.source;
+          var t = (typeof e.target === 'object') ? e.target.id : e.target;
+          if (s === id) nei.add(t);
+          if (t === id) nei.add(s);
+        });
+        return nei;
+      }
+    
+      function renderSelection(){
+        if (!selectedId){
+          node.classed("selected", false);
+          node.classed("dimmed", false);
+          labels.classed("dimmed", false);
+          edge.classed("highlight", false).classed("dimmed", false);
+          edgeLabels.classed("dimmed", false);
+          return;
+        }
+        var keep = neighborSet(selectedId);
+        node.classed("selected", function(d){ return d.id === selectedId; })
+            .classed("dimmed", function(d){ return !keep.has(d.id); });
+        labels.classed("dimmed", function(d){ return !keep.has(d.id); });
+        edge.classed("highlight", function(d){
+              var s = (typeof d.source === 'object') ? d.source.id : d.source;
+              var t = (typeof d.target === 'object') ? d.target.id : d.target;
+              return s === selectedId || t === selectedId;
+            })
+            .classed("dimmed", function(d){
+              var s = (typeof d.source === 'object') ? d.source.id : d.source;
+              var t = (typeof d.target === 'object') ? d.target.id : d.target;
+              return !(s === selectedId || t === selectedId);
+            });
+        edgeLabels.classed("dimmed", function(d){
+          var s = (typeof d.source === 'object') ? d.source.id : d.source;
+          var t = (typeof d.target === 'object') ? d.target.id : d.target;
+          return !(s === selectedId || t === selectedId);
+        });
+      }
+    
+      function fillInfo(d){
+        var pane = document.getElementById("info-pane");
+        var campos = {
+          "Nome": d.label,
+          "Instituição": d.instituicao,
+          "CV": d.url,
+          "Atualização do CV": d.atualizacaoCV,
+          "Período": d.periodo,
+          "Rótulo": d.rotulo,
+          "Primeira Grande Área": d.nomePrimeiraGrandeArea,
+          "Primeira Área": d.nomePrimeiraArea,
+          "Publicações em coautoria": d.publicacoesEmCoautoria,
+          "Número de colaboradores": d.degree,
+          "Artigos em periódicos": d.artigosPeriodicos,
+          "Artigos em eventos": d.artigosEventos,
+          "Capítulos de livro": d.capitulosDeLivros,
+          "Livros": d.livros,
+          "Endereço": d.enderecoProfissional
+        };
+        var html = "<h4>"+(d.label || d.id)+"</h4><ul>";
+        Object.keys(campos).forEach(function(k){
+          var v = campos[k];
+          if (v === undefined || v === null || v === "") return;
+          if (k === "CV"){
+            html += "<li><strong>"+k+":</strong> <a href=\""+v+"\" target=\"_blank\" rel=\"noopener\">"+v+"</a></li>";
+          } else {
+            html += "<li><strong>"+k+":</strong> "+v+"</li>";
+          }
+        });
+        html += "</ul>";
+        pane.innerHTML = html;
+      }
+    
+      function selectNodeById(id){
+        var d = nodes.find(function(n){ return n.id === id; });
+        if (!d) return;
+        selectedId = d.id; fillInfo(d); renderSelection();
+        var t = d3.zoomTransform(svg.node());
+        var scale = Math.max(1.2, t.k);
+        var x = width/2 - d.x * scale;
+        var y = height/2 - d.y * scale;
+        svg.transition().duration(600).call(zoom.transform, d3.zoomIdentity.translate(x, y).scale(scale));
+      }
+      node.on("click", function(_, d){ selectNodeById(d.id); });
+    
+      function norm(s){ return (s||"").toString().normalize("NFD").replace(/\p{Diacritic}/gu,"").toLowerCase().trim(); }
+      function searchAndSelect(q){
+        var nq = norm(q); if (!nq) return;
+        var hit = nodes.find(function(n){ return norm(n.label) === nq || norm(n.id) === nq; });
+        if (!hit) hit = nodes.find(function(n){ return norm(n.label).indexOf(nq) >= 0; });
+        if (hit) selectNodeById(hit.id);
+      }
+      document.getElementById("btnSearch").addEventListener("click", function(){
+        searchAndSelect(document.getElementById("searchBox").value);
+      });
+      document.getElementById("searchBox").addEventListener("keydown", function(ev){
+        if (ev.key === "Enter") searchAndSelect(ev.target.value);
+      });
+      document.getElementById("btnClear").addEventListener("click", function(){
+        selectedId = null; renderSelection();
+        document.getElementById("info-pane").innerHTML =
+          "<h4>Informação do Pesquisador</h4><p>Clique em um nó (ou use a busca) para ver detalhes aqui.</p>";
+      });
+    
+      var labelsVisible = true;
+      var btnToggle = document.getElementById("btnToggleLabels");
+      function applyLabelsVisibility(){
+        labelLayer.classed("hidden", !labelsVisible);
+        d3.select(".edge-labels").classed("hidden", !labelsVisible);
+      }
+      btnToggle.addEventListener("click", function(){
+        labelsVisible = !labelsVisible;
+        btnToggle.textContent = labelsVisible ? "Ocultar rótulos" : "Mostrar rótulos";
+        applyLabelsVisibility();
+      });
+      applyLabelsVisibility();
+    
+      // legenda (cores por rótulo)
+      var byRotulo = d3.rollup(nodes, function(v){ return v[0].color; }, function(d){ return d.rotulo || "Sem rótulo"; });
+      var legendData = Array.from(byRotulo, function(entry){ return {rotulo: entry[0], color: entry[1]}; });
+      var legend = d3.select("#legend");
+      legend.selectAll("span.item")
+        .data(legendData)
+        .join("span")
+        .attr("class","item")
+        .html(function(d){ return '<span class="swatch" style="background:'+d.color+'"></span>'+d.rotulo; });
+    
+      // refit ao redimensionar
+      var ro = new ResizeObserver(function(){
+        var b = getBox();
+        width = b.width; height = b.height;
+        centerForce = d3.forceCenter(width/2, height/2);
+        sim.force("center", centerForce).alpha(0.05).restart();
+        fitted = false; maybeFit();
+      });
+      ro.observe(document.getElementById("viz-container"));
+    </script>
+    
+    <hr style="margin:1.25rem 0">
+    
+    <h3>Vértices</h3>
+    <p>Esta tabela lista todos os atributos usados para compor os vértices do grafo acima.</p>
+    <div class="sl-controls">
+      <button id="vert-csv">⬇️ CSV</button>
+      <button id="vert-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-vertices" class="sl-tabela"></div>
+    
+    <h3 style="margin-top:1.5rem;">Arestas (pares de membros)</h3>
+    <p>Veja quais pares de membros mais colaboram e quantos colaboradores em comum possuem.</p>
+    <div class="sl-controls">
+      <button id="edge-csv">⬇️ CSV</button>
+      <button id="edge-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-arestas" class="sl-tabela"></div>
+    
+    <!-- Tabulator -->
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <script>
+      // Dados vindos dos blocos anteriores
+      var DATA_VERT  = (window.__VERTEX_TABLE_DATA__ || []);
+      var DATA_EDGES = (window.__EDGE_TABLE_DATA__  || []);
+    
+      // Heurística de altura (evita rolagem infinita)
+      function heightFor(n){
+        if (n <= 12) return "auto";
+        if (n <= 60) return "40vh";
+        return "60vh";
+      }
+      var HEIGHT_VERT = heightFor(DATA_VERT.length);
+      var HEIGHT_EDG  = heightFor(DATA_EDGES.length);
+    
+      const LANG_PT = {
+        "pt-br": {
+          "pagination": {
+            "first":"«","first_title":"Primeira",
+            "last":"»","last_title":"Última",
+            "prev":"‹","prev_title":"Anterior",
+            "next":"›","next_title":"Próxima"
+          },
+          "headerFilters": { "default":"⎯ Filtrar ⎯" }
+        }
+      };
+    
+      // Ordenação por data BR via campo auxiliar yyyymmdd
+      function sortDateBR(a, b, aRow, bRow) {
+        var av = (aRow && aRow.getData && aRow.getData().atualizacao_num) || 0;
+        var bv = (bRow && bRow.getData && bRow.getData().atualizacao_num) || 0;
+        return av - bv;
+      }
+    
+      // Formatter de link com title (tooltip no <a>) — usado na coluna "Nome" dos vértices
+      function linkWithTitle(cell) {
+        const data = cell.getData();
+        const url = String(data.url || "#");
+        const label = String(cell.getValue() ?? "");
+        const a = document.createElement("a");
+        a.href = url; a.textContent = label; a.target = "_blank"; a.rel = "noopener"; a.title = label;
+        return a;
+      }
+    
+      // Helper para criar Tabulator com tooltips + ellipsis
+      function createTable(el, data, columns, initialSort, height){
+        const base = {
+          data,
+          layout: "fitColumns",
+          responsiveLayout: "collapse",
+          pagination: "local",
+          paginationSize: 50,
+          paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+          movableColumns: true,
+          initialSort,
+          headerFilterLiveFilter: true,
+          columns,
+          locale: true, langs: LANG_PT, locale: "pt-br",
+          tooltips: true
+        };
+        if (height !== "auto") base.height = height;
+        return new Tabulator(el, base);
+      }
+    
+      // === VÉRTICES ===
+      (function(){
+        const columns = [
+          { title:"ID", field:"id", headerFilter:"input", tooltip:true },
+          { title:"Nome", field:"nome", formatter: linkWithTitle,
+            headerFilter:"input", widthGrow:2, tooltip:true },
+          { title:"Instituição", field:"instituicao", headerFilter:"input", tooltip:true },
+          { title:"Atualização CV", field:"atualizacao", headerFilter:"input", sorter: sortDateBR, tooltip:true },
+          { title:"Período", field:"periodo", headerFilter:"input", tooltip:true },
+          { title:"Rótulo", field:"rotulo", headerFilter:"input", tooltip:true },
+          { title:"Grande área", field:"grande_area", headerFilter:"input", tooltip:true },
+          { title:"Área", field:"area", headerFilter:"input", tooltip:true },
+          { title:"Publicações em coautoria", field:"publicacoesEmCoautoria", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Nº colaboradores (grau)", field:"degree", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Artigos em periódicos", field:"artigosPeriodicos", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Artigos em eventos", field:"artigosEventos", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Capítulos de livro", field:"capitulosDeLivros", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Livros", field:"livros", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Endereço", field:"enderecoProfissional", headerFilter:"input", widthGrow:2, tooltip:true }
+        ];
+        const sort = [{ column:"degree", dir:"desc" }];
+        const t = createTable("#tabela-vertices", DATA_VERT, columns, sort, HEIGHT_VERT);
+        document.getElementById("vert-csv").onclick  = () => t.download("csv",  "vertices_campos.csv", { bom:true });
+        document.getElementById("vert-xlsx").onclick = () => t.download("xlsx", "vertices_campos.xlsx", { sheetName:"Vértices" });
+      })();
+    
+      // === ARESTAS (coluna única "Aresta") ===
+      (function(){
+        const columns = [
+          { title:"Aresta", field:"aresta", headerFilter:"input", widthGrow:3, tooltip:true },
+          { title:"Número de colaborações", field:"colabs", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Nº de colaboradores em comum", field:"comuns", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true }
+        ];
+        const sort = [{ column:"colabs", dir:"desc" }, { column:"comuns", dir:"desc" }];
+        const t = createTable("#tabela-arestas", DATA_EDGES, columns, sort, HEIGHT_EDG);
+        document.getElementById("edge-csv").onclick  = () => t.download("csv",  "arestas_colaboracoes.csv", { bom:true });
+        document.getElementById("edge-xlsx").onclick = () => t.download("xlsx", "arestas_colaboracoes.xlsx", { sheetName:"Arestas" });
+      })();
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 2020 até 2026
+<br>Data de processamento: 30/01/2026 13:31:44<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:rodrigo.costa@ifce.edu.br">rodrigo.costa@ifce.edu.br</a>         </div> </body></html>

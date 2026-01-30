@@ -1,0 +1,573 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "5633112574126394",
+    "nome_completo": "Socorro Gardenia Carvalho de Paula",
+    "nome_citacoes": "PAULA, SOCORRO GARDENIA CARVALHO DE",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "09/09/2025",
+    "url": "http://lattes.cnpq.br/5633112574126394",
+    "texto_resumo": "Possui graduação em Letras com habilitação em Português e Literatura pela Universidade Federal do Ceará (2002), graduação em Letras - Português e Inglês pela Universidade Federal do Ceará (2009), mestrado em Estudos da Tradução pela Universidade Federal do Ceará (2020) e doutorado em Linguística pela Universidade Federal do Ceará (2025). Ex-bolsista Fulbright (2013), participando do programa de certificação de Língua Inglesa para professores de Inglês, na Universidade do Texas em Austin. Ex-bolsista Capes (2024), atuou como pesquisadora visitante na Northeastern University em Boston, onde trabalhou com a Doutora Susanne Jaegui em projetos envolvendo a capacidade de memória de trabalho e também dando continuidade à análise de dados da pesquisa de doutorado. Atualmente, atua como professora efetiva do Instituto Federal do Ceará - Campus Paracuru. Tem experiência na área de Linguística, com ênfase em Cognição, Processamento e Desenvolvimento da Linguagem, atuando principalmente com os seguintes temas: Memória de Trabalho e Desempenho em Tarefas Orais e de Leitura; Memória de Trabalho e Processamento de Leitura; Processamento de Leitura em Meios Digitais; Ensino e Aprendizagem da Língua Inglesa e Estudos da Tradução. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Lingüística",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2025",
+      "descricao": "com período sanduíche em Northeastern University - Boston (Orientador: Susanne Jaegui). Título: Memória de Trabalho e Retenção de informações lidas em diferentes contextos de leitura, Ano de obtenção: 2025. Orientador: Vládia Maria Cabral Borges. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil."
+    },
+    {
+      "tipo": "Mestrado em Estudos da Tradução",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2020",
+      "descricao": "Título: Repetição de Tarefa de Tradução, Memória de Trabalho e Desempenho Oral em L2 O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2020. Orientador: Maria da Glória Guará Tavares."
+    },
+    {
+      "tipo": "Especialização em Ensino de Língua Inglesa",
+      "nome_instituicao": "(Carga Horária: 390h)",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2013",
+      "descricao": "Faculdade Ateneu, FATE, Brasil. Título: A UTILIZAÇÃO DE FERRAMENTAS ON-LINE PARA AQUISIÇÃO DE VOCABULÁRIO EM LÍNGUA INGLESA. Orientador: Sofia Porto Linhares Teixeira."
+    },
+    {
+      "tipo": "Graduação em Letras - Português e Inglês",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2009",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Letras - Língua Portuguesa",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "1996",
+      "ano_conclusao": "2002",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFCE - Campus Paracuru."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 06/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFCE- Campus Umirim."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2023 - 06/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2018 - 12/2022",
+      "ano_inicio": "2018",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2018 - 12/2022",
+      "ano_inicio": "2018",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2022",
+      "ano_inicio": "2017",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFCE- Campus Morada Nova."
+      ]
+    },
+    {
+      "instituicao": "Secretaria da Educação Básica do Ceará, SEDUC, Brasil.",
+      "instituicao_nome": "Secretaria da Educação Básica do Ceará",
+      "instituicao_sigla": "SEDUC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2017",
+      "ano_inicio": "2008",
+      "ano_fim": "2017",
+      "vinculo": "Servidor Público",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria da Educação Básica do Ceará, SEDUC, Brasil",
+      "instituicao_nome": "Secretaria da Educação Básica do Ceará",
+      "instituicao_sigla": "SEDUC",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2008 - 07/2017",
+      "ano_inicio": "2008",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria da Educação Básica do Ceará, SEDUC, Brasil",
+      "instituicao_nome": "Secretaria da Educação Básica do Ceará",
+      "instituicao_sigla": "SEDUC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria da Educação Básica do Ceará, SEDUC, Brasil",
+      "instituicao_nome": "Secretaria da Educação Básica do Ceará",
+      "instituicao_sigla": "SEDUC",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2014 - 01/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Fundamental e Médio José Bezerra de Menezes.",
+        "Direção e administração, Escola de Ensino Fundamental e Médio José Bezerra de Menezes."
+      ]
+    },
+    {
+      "instituicao": "Instituto de idiomas Yázigi (CE), YÁZIGI, Brasil.",
+      "instituicao_nome": "Instituto de idiomas Yázigi (CE)",
+      "instituicao_sigla": "YÁZIGI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2017",
+      "ano_inicio": "2009",
+      "ano_fim": "2017",
+      "vinculo": "Celetista",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "COLÉGIO 21 DE ABRIL, COL 21 DE ABRIL, Brasil.",
+      "instituicao_nome": "COLÉGIO 21 DE ABRIL",
+      "instituicao_sigla": "COL 21 DE ABRIL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2007",
+      "ano_inicio": "2002",
+      "ano_fim": "2007",
+      "vinculo": "Celetista",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "COLÉGIO 21 DE ABRIL, COL 21 DE ABRIL, Brasil",
+      "instituicao_nome": "COLÉGIO 21 DE ABRIL",
+      "instituicao_sigla": "COL 21 DE ABRIL",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2002 - 06/2007",
+      "ano_inicio": "2002",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Lingüística, Letras e Artes",
+      "area": "Letras",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Lingüística, Letras e Artes / Área: Letras."
+    },
+    {
+      "grande_area": "Lingüística, Letras e Artes",
+      "area": "Lingüística",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Lingüística, Letras e Artes / Área: Lingüística."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Working memory and the effect of topic familiarity on comprehension of information read on computer screensMemória de trabalho e o efeito da familiaridade com o tópico na compreensão de informações lidas em telas de computadores",
+        "ano": 2025,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE; WEISSHEIMER, JANAINA ; BORGES, VLÁDIA MARIA CABRAL",
+        "revista": "TEXTO DIGITAL (UFSC)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "5-34",
+        "issn": "1807-9288",
+        "doi": "http://dx.doi.org/10.5007/1807-9288.2025.e105651",
+        "qualis": ""
+      },
+      {
+        "titulo": "Working Memory Capacity and the Implementation of New Information During Task Repetition / Capacidade de memória de trabalho e implementação de informações novas durante a repetição de tarefa",
+        "ano": 2021,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE; WEISSHEIMER, JANAINA",
+        "revista": "CALIGRAMA (UFMG)",
+        "volume": "26",
+        "numero": "",
+        "paginas": "107-123",
+        "issn": "0103-2178",
+        "doi": "http://dx.doi.org/10.17851/2238-3824.26.2.107-123",
+        "qualis": ""
+      },
+      {
+        "titulo": "Laviosa, Sara. Translation and Language Education: Pedagogical Approaches Explored, New York and London: Routledge, 2014. 174 p.",
+        "ano": 2020,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE. Laviosa, Sara. Translation and Language Education: Pedagogical Approaches Explored, New York and London: Routledge, 2014. 174 p",
+        "revista": "CADERNOS DE TRADUÇÃO",
+        "volume": "40",
+        "numero": "",
+        "paginas": "327-333",
+        "issn": "2175-7968",
+        "doi": "http://dx.doi.org/10.5007/2175-7968.2020v40n2p327",
+        "qualis": ""
+      },
+      {
+        "titulo": "M. BYGATE Ed. Learning Language Through Task Repetition. Amsterdam: John Benjamins, 2018. https://revistas.unilab.edu.br/index.php/mandinga/article/view/426",
+        "ano": 2020,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
+        "revista": "Mandinga",
+        "volume": "v.4 n.1",
+        "numero": "",
+        "paginas": "94-98",
+        "issn": "2526-3455",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Repetição de Tarefas: Uma Revisão de Estudos Empíricos. https://revistas.unilab.edu.br/index.php/mandinga/article/view/476",
+        "ano": 2020,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
+        "revista": "MANDINGA",
+        "volume": "v.4 n.2",
+        "numero": "",
+        "paginas": "14-26",
+        "issn": "2526-3455",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Working Memory Capacity and the Imprementation of New Information during Task Repetition",
+        "ano": 2021,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Memória de Trabalho, Repetição de Tarefa e Desempenho Oral em L2",
+        "ano": 2020,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Inglês Intermediário 2",
+        "ano": 2020,
+        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "?AS NORMATIVAS SOBRE O ENSINO DE LIN\" GUA INGLESA NO BRASIL E A REALIDADE DA PRA\"TICA DA SALA DE AULA DO ENSINO FUNDAMENTAL E ME\"DIO: UM RELATO DE EXPERIENCIA?",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "João Paulo Ferreira de Sousa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal do Ceará Campus Umirim",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "XI Fórum de Ensino do IFCE",
+        "apresentacao": "Desafios Atuais da Educação: Uma Reflexão Sobre o Poder da Esperança.",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Online Seminars in Psycholinguistics",
+        "apresentacao": "Línguas Naturais e Psicosemântica",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Online Seminars in Psycholinguistics",
+        "apresentacao": "Virtual Reality: A Promising Tool for the Study of Bilingual Language Production",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Online Seminars in Psycholinguistics",
+        "apresentacao": "A busca por relevância através do olhar: no rastro da semelhança interpretativa em processos de tradução",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Fórum de Ensino do IFCE",
+        "apresentacao": "O Processo de Ensino e Aprendizagem de Forma Remota em Tempos de Isolamento Social: o olhar para a permanência e êxito discente.",
+        "ano": 2020,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": [
+      {
+        "descricao": "ROCHA, S. S. D.; ARAUJO, A. C. U.; PAULA, SOCORRO GARDENIA CARVALHO DE. Participação em banca de : AMANDA SOLANGE DO RÊGO VARELA. METODOLOGIAS PARA A APRENDIZAGEM DA LÍNGUA INGLESA NO CURSO TÉCNICO DE ADMINISTRAÇÃO: uma proposta de mediação a partir da sequência didática. 2023. Monografia (Aperfeiçoamento/Especialização em ESPECIALIZAÇÃO EM DOCÊNCIA EM EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA) - Instituto Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": ": AMANDA SOLANGE DO RÊGO VARELA",
+        "membros_banca": [
+          "ROCHA, S. S. D.",
+          "ARAUJO, A. C. U.",
+          "PAULA, SOCORRO GARDENIA CARVALHO DE"
+        ],
+        "titulo_trabalho": "METODOLOGIAS PARA A APRENDIZAGEM DA LÍNGUA INGLESA NO CURSO TÉCNICO DE ADMINISTRAÇÃO: uma proposta de mediação a partir da sequência didática",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em ESPECIALIZAÇÃO EM DOCÊNCIA EM EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA)",
+        "universidade": "Instituto Federal do Ceará"
+      },
+      {
+        "descricao": "Câmara, Yls Rabelo; Silva, Mirelle Araújo; PAULA, SOCORRO GARDENIA CARVALHO DE. Participação em banca de João Paulo Ferreira de Sousa.?AS NORMATIVAS SOBRE O ENSINO DE LINGUA INGLESA NO BRASIL E A REALIDADE DA PRA\"TICA DA SALA DE AULA DO ENSINO FUNDAMENTAL E ME\"DIO: UM RELATO DE EXPERIENCIA\". 2024.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "João Paulo Ferreira de Sousa.?AS NORMATIVAS SOBRE O ENSINO DE LINGUA INGLESA NO BRASIL E A REALIDADE DA PRA\"TICA DA SALA DE AULA DO ENSINO FUNDAMENTAL E ME\"DIO: UM RELATO DE EXPERIENCIA\"",
+        "membros_banca": [
+          "Câmara, Yls Rabelo",
+          "Silva, Mirelle Araújo",
+          "PAULA, SOCORRO GARDENIA CARVALHO DE"
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, SOCORRO GARDENIA CARVALHO DE. Professor Substituto. 2023. Instituto Federal do Ceará Campus Umirim.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal do Ceará Campus Umirim.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 5,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

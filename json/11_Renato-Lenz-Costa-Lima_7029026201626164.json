@@ -1,0 +1,374 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7029026201626164",
+    "nome_completo": "Renato Lenz Costa Lima",
+    "nome_citacoes": "COSTALIMA, R. L.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "05/01/2026",
+    "url": "http://lattes.cnpq.br/7029026201626164",
+    "texto_resumo": "Possui graduação em Telemática pelo Centro Federal de Educação Tecnológica do Ceará (2006) e mestrado em Mestrado Acadêmico em Ciência da Computação pela Universidade Estadual do Ceará (2009). Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas Web, atuando principalmente nos seguintes temas: sistemas web, computação nas nuvens e agentes inteligentes. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Mestrado em Mestrado Acadêmico em Ciência da Computação",
+      "nome_instituicao": "Universidade Estadual do Ceará, UECE, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2009",
+      "descricao": "Título: UM AMBIENTE INTELIGENTE PARA DESENVOLVIMENTO HIPERMÍDIA/WEB INTERATIVO NAS NUVENS O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2009. Orientador: Gustavo Augusto Lima de Campos. Bolsista do(a): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico, FUNCAP, Brasil. Palavras-chave: Desenvolvimento hipermídia/web; Computação nas nuvens; Inteligência artificial; Representação do conhecimento. Grande área: Ciências Exatas e da Terra"
+    },
+    {
+      "tipo": "Especialização em DOCÊNCIA NA EDUCAÇÃO PROFISSIONAL",
+      "nome_instituicao": "(Carga Horária: 620h)",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2020",
+      "descricao": "FAVENI-FACULDADE VENDA NOVA DO IMIGRANTE, IESX_PPROV, Brasil. Título: OBJETOS SÃO EXEMPLARES DE CLASSES. Orientador: ANA PAULA RODRIGUES."
+    },
+    {
+      "tipo": "Graduação em Tecnologia em Telemática",
+      "nome_instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Ceará, IFCEParacuru, Brasil",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2006",
+      "descricao": "Título: .. Orientador: Cidcley Teixeira de Souza."
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante interrompido em 2003 em Telecomunicações",
+      "nome_instituicao": "Centro Federal de Educação Tecnológica do Ceará, CEFET-CE, Brasil",
+      "ano_inicio": "2002 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Ano de interrupção: 2003"
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "Centro Federal de Educação Tecnológica do Ceará, CEFET-CE, Brasil",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2002",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil.",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Lourenço Filho, FLF, Brasil",
+      "instituicao_nome": "Faculdade Lourenço Filho",
+      "instituicao_sigla": "FLF",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Integrada do Ceará, FIC, Brasil.",
+      "instituicao_nome": "Faculdade Integrada do Ceará",
+      "instituicao_sigla": "FIC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professor Assistente I",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Integrada do Ceará, FIC, Brasil",
+      "instituicao_nome": "Faculdade Integrada do Ceará",
+      "instituicao_sigla": "FIC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade de Tecnologia Evolução, E",
+      "instituicao_nome": "Faculdade de Tecnologia Evolução",
+      "instituicao_sigla": "E",
+      "instituicao_pais": null,
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade de Tecnologia Evolução, EVOLUÇÃO, Brasil",
+      "instituicao_nome": "Faculdade de Tecnologia Evolução",
+      "instituicao_sigla": "EVOLUÇÃO",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "PC4 Comunicação e Tecnologia, PC4, Brasil.",
+      "instituicao_nome": "PC4 Comunicação e Tecnologia",
+      "instituicao_sigla": "PC4",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Programador Sênior",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "PC4 Comunicação e Tecnologia, PC4, Brasil.",
+      "instituicao_nome": "PC4 Comunicação e Tecnologia",
+      "instituicao_sigla": "PC4",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2007",
+      "ano_inicio": "2002",
+      "ano_fim": "2007",
+      "vinculo": "Livre",
+      "enquadramento": "Programador Pleno",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Efetivo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2007",
+      "ano_inicio": "2005",
+      "ano_fim": "2007",
+      "vinculo": "Livre",
+      "enquadramento": "Aluno Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": "Livre",
+      "enquadramento": "Aluno Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Sistema de Inventário e Monitoramento de Rede Externa Óptica",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O projeto em questão tem como objetivo o desenvolvimento de novas funcionalidades para o sistema de Inventário e Monitoramento de Rede Externa Óptica da Empresa Furukawa, hospedado em ambiente de nuvem. Essas funcionalidades visam aumentar a capacidade de gerenciamento da rede, prover opções avançadas de monitoramento e relatórios, e integrar o sistema com outras soluções em nuvem da Furukawa e de seus parceiros. O projeto aborda a necessidade de melhorias identificadas em projetos anteriores, visando atender aos requisitos funcionais e não funcionais emergentes, bem como aperfeiçoar a integração e a eficiência operacional do sistema.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (14) . Integrantes: Renato Lenz Costa Lima - Integrante / Danilo Reis de Vasconcelos - Coordenador. Financiador(es): Lightera LatAm S.A. - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Renato Lenz Costa Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Danilo Reis de Vasconcelos",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Lightera LatAm S",
+          "tipo_apoio": "Financiamento"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "",
+      "le": "Bem",
+      "escreve": "",
+      "proficiencia_completa": "Compreende Razoavelmente, Lê Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "O uso de agentes inteligentes para superar o ciclo ?editar-salvar-compilar-atualizar? no desenvolvimento de software",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Iury Magalhães da Rocha",
+          "tipo_trabalho": "",
+          "instituicao": "Iniciação Científica - Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 1,
+    "total_orientacoes_andamento": 0
+  }
+}

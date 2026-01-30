@@ -1,0 +1,370 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4807157101415226",
+    "nome_completo": "Jorgeana de Almeida Jorge Benevides",
+    "nome_citacoes": "BENEVIDES, J. A. J.;BENEVIDES, JORGEANA ALMEIDA J.;DE ALMEIDA JORGE BENEVIDES, JORGEANA;BENEVIDES, JORGEANA ALMEIDA;BENEVIDES, JORGEANA DE ALMEIDA JORGE",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Ce 341, Km 2 s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210",
+    "atualizacao_cv": "21/11/2025",
+    "url": "http://lattes.cnpq.br/4807157101415226",
+    "texto_resumo": "Graduada em Ciências Biológicas pela Universidade Regional do Cariri (1999) Tem experiência na área de Educação junto ao ensino infantil, médio e superior. Possui pós-graduação nas áreas de Biologia e Química (URCA), TIC'S (PUC-RIO), Gestão e Avaliação da Educação Pública (UFJF-MG) e mestrado em Tecnologia e Gestão Ambiental (IFCE/Fortaleza). Coordenou o projeto de extensão de incentivo a literatura intitulado Café com Letras no IFCE campus Acaraú em Paracuru no último ano de execução (2015-2018). Atuou na coordenação de área do PIBID no campus Acaraú (2014-2017). É professora efetiva do Instituto Federal de Educação Ciência e Tecnologia do Ceará, campus Paracuru atuando em pesquisas nas áreas de Botânica, Ecologia e Gestão Ambiental. Atualmente coordena o Laboratório Didático do IFCE campus Paracuru e faz parte do grupo de escritores da literatura nacional com quatro títulos publicados. Faz parte do Núcleo Integrado de Tecnologia e Meio Ambiente do campus IFCE/Paracuru. Doutora pelo programa de Pós-graduação em Ciências Marinhas Tropicais pela Universidade Federal do Ceará (UFC). (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciências Marinhas Tropicais",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2024",
+      "descricao": "Título: ANÁLISE TEMPORAL COMPARATIVA DA ESTRUTURA VEGETAL DO MANGUE DO ESTUÁRIO DO RIO CURU (CEARÁ) COM USO DE SENSORIAMENTO REMOTO COMO SUBSÍDIO PARA A GESTÃO AMBIENTAL, Ano de obtenção: 2024. Orientador: Luis Ernesto Arruda Bezerra. Coorientador: Rafaela Camargo Maia. Palavras-chave: Manguezal; Fitossociologia; Biologia Estuarina. Grande área: Ciências Biológicas Grande Área: Ciências Biológicas / Área: Botânica / Subárea: Fisiologia Vegetal / Especialidade: Ecofisiologia Vegetal. Grande Área: Ciências Biológicas / Área: Ecologia / Subárea: Ecologia da Conservação."
+    },
+    {
+      "tipo": "Mestrado em Mestrado em Tecnologia e Gestão Ambiental",
+      "nome_instituicao": "INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, IFCE, Brasil",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2018",
+      "descricao": "Título: MONITORAMENTO FENOLÓGICO PARA AVALIAÇÃO DE IMPACTO AMBIENTAL NO MANGUE DE ACARAÚ - CEARÁ, Ano de Obtenção: 2018. Orientador: Rafaela Camargo Maia. Coorientador: Nájila Rejanne Alencar Julião Cabral. Palavras-chave: Fenologia; Mangue; Flora; Pressão antrópica. Grande área: Ciências Biológicas Grande Área: Ciências Biológicas / Área: Ecologia."
+    },
+    {
+      "tipo": "Especialização em Especialização em Tecnologias em Educação",
+      "nome_instituicao": "(Carga Horária: 400h)",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "descricao": "Pontifícia Universidade Católica do Rio de Janeiro, PUC, Brasil. Título: Reflexão sobre o uso das TIC na melhoria da aprendizagem dos alunos do curso técnico em Informática: Estudo de caso na Escola Estadual de Ensino Profissional Aderson Borges de Carvalho. Orientador: Isaías Luís Araújo Junior."
+    },
+    {
+      "tipo": "Especialização em Gestão e Avaliação da Educação Pública",
+      "nome_instituicao": "(Carga Horária: 550h)",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "descricao": "Universidade Federal de Juiz de Fora, UFJF, Brasil. Título: De que maneira um curs de informática pedagogicamente estruturado, pode auxiliar os docentes da EEEP Aderson Borges de Carvalho na melhoria da aprendizagem de seus alunos?. Orientador: Auricélio Ferreira de Souza."
+    },
+    {
+      "tipo": "Especialização em Biologia e Química",
+      "nome_instituicao": "(Carga Horária: 450h)",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2005",
+      "descricao": "Universidade Regional do Cariri, URCA, Brasil. Título: Agentes Teratogênicos. Orientador: Prof. Dr. Henrique Douglas Melo Coutinho."
+    },
+    {
+      "tipo": "Graduação em ciências biologicas",
+      "nome_instituicao": "Universidade Regional do Cariri, URCA, Brasil",
+      "ano_inicio": "1996",
+      "ano_conclusao": "1999",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professora",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "EEEP ADERSON BORGES DE CAR",
+      "instituicao_nome": "EEEP ADERSON BORGES DE CAR",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2009 - 2012",
+      "ano_inicio": "2009",
+      "ano_fim": "2012",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Coordenação Escolar",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "EEEP ADERSON BORGES DE CAR",
+      "instituicao_nome": "EEEP ADERSON BORGES DE CAR",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2003 - 2008",
+      "ano_inicio": "2003",
+      "ano_fim": "2008",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "EEEP ADERSON BORGES DE CARVALHO, LICEU, Brasil",
+      "instituicao_nome": "EEEP ADERSON BORGES DE CARVALHO",
+      "instituicao_sigla": "LICEU",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Médio."
+      ]
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "SUBSTITUIÇÃO DA AZADIRACHTA INDICA A. JUSS (NIM) POR ESPÉCIES DE PLANTAS NATIVAS PARA CONTENÇÃO DE DUNAS EM UMA UNIDADE DE CONSERVAÇÃO, EM PARACURU - CE",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A cidade de Paracuru, localizada no litoral oeste do Ceará, enfrenta desafios socioambientais devido à intensa dinâmica eólica que promove o deslocamento das dunas móveis, impactando a infraestrutura urbana e histórica da região. O soterramento de áreas urbanas e produtivas, incluindo o antigo povoado de Parazinho, evidencia a necessidade de estratégias eficientes para a contenção dos sedimentos.Atualmente, a presença da espécie exótica Azadirachta indica (nim) na Área de Proteção Ambiental (APA) das Dunas de Paracuru representa um risco ecológico, pois se trata de uma espécie com alto potencial invasor, podendo comprometer a biodiversidade local e os processos ecológicos naturais. Este projeto propõe a substituição do nim por uma espécie nativa do Brasil que seja eficaz na estabilização de dunas e compatível com a flora local, minimizando impactos ambientais negativos e contribuindo para a preservação do ecossistema costeiro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jorgeana de Almeida Jorge Benevides - Coordenador / Ana Liria Cruz Lopes - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Jorgeana de Almeida Jorge Benevides",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ana Liria Cruz Lopes",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "O Caminhar das Dunas histórias e percepções de uma comunidade moldada pelas areias",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O município de Paracuru, no litoral cearense, possui um extenso campo de dunas móveis, cuja intensa dinâmica eólica provoca constante transporte de sedimentos. Esse fenômeno afeta a infraestrutura urbana, soterra residências, vias e áreas produtivas, além de comprometer recursos hídricos, como a Lagoa Grande, principal reservatório local. Historicamente, o avanço das dunas já levou ao desaparecimento do povoado de Parazinho, evidenciando a vulnerabilidade da região. Apesar da criação da APA das Dunas de Paracuru em 1999, pressões antrópicas, como especulação imobiliária e urbanização desordenada, ainda ameaçam o equilíbrio desse ecossistema.A necessidade de ações educativas e de conscientização surge diante dos recorrentes impactos socioambientais, reforçando a importância de integrar a comunidade local na preservação do patrimônio natural e cultural de Paracuru.Este projeto de extensão visa produzir um material didático para escolas municipais de Paracuru (CE), com foco no patrimônio histórico e socioambiental, a fim de promover educação patrimonial e conscientização ambiental; analisar a dinâmica das dunas móveis sob uma perspectiva histórica e socioambiental; e investigar a percepção da população sobre os impactos causados pelo avanço das dunas.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (1) . Integrantes: Jorgeana de Almeida Jorge Benevides - Coordenador / Mariana de Oliveira Araújo - Integrante / Wlashington Gomes Alberto - Integrante / Natanael Pinheiro Barroso - Integrante / Laryssa Magalhães Gomes - Integrante / Fernando Henrique Pimentel - Integrante / Emanuelle Araújo Melo Sampaio - Integrante / Roberto Almeida Façanha - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Jorgeana de Almeida Jorge Benevides",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Mariana de Oliveira Araújo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Wlashington Gomes Alberto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Natanael Pinheiro Barroso",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laryssa Magalhães Gomes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fernando Henrique Pimentel",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Emanuelle Araújo Melo Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Roberto Almeida Façanha",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "Administração Educacional",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação / Subárea: Administração Educacional."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "ESTUDO ESPAÇO-TEMPORAL COMPARATIVO DA RESPOSTA ESPECTRAL DA VEGETAÇÃO DA APA DO ESTUÁRIO DO RIO CURU E ENTORNO COM USO DE IMAGENS MULTIESPECTRAIS",
+        "ano": 2023,
+        "autores": "BENEVIDES, JORGEANA DE ALMEIDA JORGE; SILVA, ANDERSON DA CRUZ ; BENEVIDES, DANIEL JORGE ALMEIDA ; BEZERRA, LUIS ERNESTO ARRUDA",
+        "revista": "GEOSABERES REVISTA DE ESTUDOS GEOEDUCACIONAIS",
+        "volume": "14",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "2178-0463",
+        "doi": "http://dx.doi.org/10.26895/geosaberes.v14i0.1318",
+        "qualis": ""
+      },
+      {
+        "titulo": "IMPLEMENTAÇÃO DE METODOLOGIAS ATIVAS COMO FERRAMENTA AVALIATIVA NA DISCIPLINA DE FISIOLOGIA VEGETAL EM TEMPOS DE PANDEMIA: EXPERIÊNCIAS E DESAFIOS",
+        "ano": 2021,
+        "autores": "BENEVIDES, J. A. J.; SOUSA, J. L. F. ; MOURA, L. Q. R. ; COSTA, E. L. M. ; LIMA FILHO, L. O.",
+        "revista": "HOLOS (NATAL. ONLINE)",
+        "volume": "4",
+        "numero": "",
+        "paginas": "1-16",
+        "issn": "1807-1600",
+        "doi": "http://dx.doi.org/10.15628/holos.2021",
+        "qualis": ""
+      },
+      {
+        "titulo": "Monitoramento fenológico para avaliação de impacto ambiental em manguezais estuarinos no Nordeste do Brasil",
+        "ano": 2021,
+        "autores": "BENEVIDES, JORGEANA ALMEIDA; MAIA, RAFAELA CAMARGO ; SILVA, INGRID H?OARA CARVALHO VAZ DA",
+        "revista": "CIENCIA FLORESTAL",
+        "volume": "31",
+        "numero": "",
+        "paginas": "1631-1653",
+        "issn": "0103-9954",
+        "doi": "http://dx.doi.org/10.5902/1980509839683",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Estudo da percepção do Ecossistema Manguezal com alunos de duas Escolas Municipais no Ceará. Estudo da percepção do Ecossistema Manguezal com alunos de duas Escolas Municipais no Ceará. 12ed.Belo Horizonte",
+        "ano": 2020,
+        "autores": "BENEVIDES, J. A. J.; COSTA, E. L. M. ; LIMA, A. S. ; MATOS, E. P. N. B.",
+        "titulo_livro": "",
+        "editora": "Editora Poisson",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "13-17"
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "ESTUDO ESPAÇO-TEMPORAL COMPARATIVO DA RESPOSTA ESPECTRAL DA FLORA DA APA DO ESTUÁRIO DO RIO CURU (CEARÁ) E ENTORNO COM USO DE IMAGENS LANDSAT",
+        "ano": 2023,
+        "autores": "BENEVIDES, JORGEANA DE ALMEIDA JORGE; SILVA, A. C. ; BENEVIDES, D. J. A. ; BEZERRA, L. E. A.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "SPACE WEEK NORDESTE 2023 ?CIÊNCIA E TECNOLOGIAS ESPACIAIS PARA O BENEFÍCIO DA NATUREZA E DA SOCIEDADE?",
+        "apresentacao": "ESTUDO ESPAÇO-TEMPORAL COMPARATIVO DA RESPOSTA ESPECTRAL DA FLORA DA APA DO ESTUÁRIO DO RIO CURU (CEARÁ) E ENTORNO COM USO DE IMAGENS LANDSAT",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "BENEVIDES, J. A. J.. I ENCONTRO DO MANEJO SUSTENTÁVEL DOS AMBIENTES ESTUARINOS E MARINHOS DO LITORAL OESTE CEARENSE: REALIDADE E DESAFIOS.. 2015. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 3,
+    "total_livros": 0,
+    "total_capitulos": 1,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6703484795867796",
+    "nome_completo": "Max William de Pinho Santana",
+    "nome_citacoes": "SANTANA, M. W. P.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal do Ceará, IFCE- Campus Paracuru. CE 341, s/n , Km 02 ? Bairro: Parque Novo Paracuru Parque Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 Ramal: 100 URL da Homepage: http://www.ifce.edu.br",
+    "atualizacao_cv": "25/01/2023",
+    "url": "http://lattes.cnpq.br/6703484795867796",
+    "texto_resumo": "Professor efetivo do Instituto Federal do Ceará - IFCE, Campus Paracuru - Ceará. Doutorado em Ciências Marinhas Tropicais, no LABOMAR - UFC (31/08/2017). Possui Mestrado em Engenharia de Pesca pela Universidade Federal do Ceará (2003). Graduação em Engenharia de Pesca pela Universidade Federal do Ceará (1999), Graduação em Ciências Náuticas na Escola de Formação de Oficiais da Marinha Mercante no Centro de Instrução Almirante Braz de Aguiar (CIABA) em 1987, e Engenharia de Segurança do Trabalho (UNIATENEU) em 2022 e tem experiência na área de Recursos Pesqueiros e Engenharia de Pesca, com ênfase em Engenharia de Pesca, atuando principalmente nos seguintes temas: Aquicultura, Pesca, Lagosta, Algas, máquinas e motores marítimos, Engenharia de Pesca, Beneficiamento de Pescados e Saúde, Higiene e Segurança do Trabalho e Meio Ambiente. Participa como instrutor em parceria com a Marinha do Brasil nos cursos de PEP e POP, para formação de pescadores especializados. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciências Marinhas Tropicais",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2017",
+      "descricao": "Título: PROSPECÇÃO DE AREAS PROPICIAS PARA O CULTIVO DE MACROALGAS NA REGIÃO DA COSTA NEGRA, CEARÁ, BRASIL O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2017. Orientador: LUIS PARENTE MAIA. Coorientador: LUIS PARENTE MAIA. Setores de atividade: Pesca e Aqüicultura."
+    },
+    {
+      "tipo": "Mestrado em Engenharia de Pesca",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2002",
+      "descricao": "Título: DESCRIÇÃO DOS ESTÁGIOS MORFOLÓGICOS DA LAGOSTA Enoplometopus antillensis, LUTKEN 1865 (DECAPODA,CRUSTACEA, ENOPLOMETOPIDAE) OBTIDA EM LABORATÓRIO., Ano de Obtenção: 2003. Orientador: FERNANDO ARAÚJO ABRUNHOSA. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: DESCRIÇÃO; enoplometopus antillensis; LAGOSTA; ESTAGIOS LARVAIS. Grande área: Ciências Agrárias Setores de atividade: Pesca, Aqüicultura e Maricultura."
+    },
+    {
+      "tipo": "Especialização em andamento em Engenharia de Segurança do Trabalho",
+      "nome_instituicao": "(Carga Horária: 690h)",
+      "ano_inicio": "2021",
+      "ano_conclusao": "",
+      "descricao": "UNIVERSIDADE ATENEU, UNIATENEU, Brasil."
+    },
+    {
+      "tipo": "Graduação em Engenharia de Pesca",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1999",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Formação de Oficiais da Marinha Mercante",
+      "nome_instituicao": "Centro de Intrução Almirante Bráz de Aguiar, CIABA, Brasil",
+      "ano_inicio": "1985",
+      "ano_conclusao": "1987",
+      "descricao": "Título: Relatorio de Praticagem. Bolsista do(a): Diretoria de Portos e Costa da Marinha do Brasil, DPC, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "Instituto Federal do Ceará",
+      "instituicao_sigla": "IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Efetivo",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": "Professor Substituto",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": "PROFESSOR SUBSTITUTO",
+      "enquadramento": "PROFESSOR SUBSTITUTO",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro de Ciências Agrárias, Departamento de Engenharia de Pesca."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Centro de Ciências Agrárias, Departamento de Engenharia de Pesca."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Serviço Nacional de Aprendizagem Rural, SENAR, Brasil.",
+      "instituicao_nome": "Serviço Nacional de Aprendizagem Rural",
+      "instituicao_sigla": "SENAR",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - 2000",
+      "ano_inicio": "2000",
+      "ano_fim": "2000",
+      "vinculo": "Colaborador",
+      "enquadramento": "Instrutor Técnico",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Serviço Nacional de Aprendizagem Rural, SENAR, Brasil",
+      "instituicao_nome": "Serviço Nacional de Aprendizagem Rural",
+      "instituicao_sigla": "SENAR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Capitania dos Portos do Ceará, CP-CE, Brasil.",
+      "instituicao_nome": "Capitania dos Portos do Ceará",
+      "instituicao_sigla": "CP-CE",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - 2000",
+      "ano_inicio": "1998",
+      "ano_fim": "2000",
+      "vinculo": "Prestador de Serviços",
+      "enquadramento": "Instrutor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Capitania dos Portos do Ceará, CP-CE, Brasil",
+      "instituicao_nome": "Capitania dos Portos do Ceará",
+      "instituicao_sigla": "CP-CE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Frota Nacional de Petroleiros, FRONAP, Brasil.",
+      "instituicao_nome": "Frota Nacional de Petroleiros",
+      "instituicao_sigla": "FRONAP",
+      "instituicao_pais": "Brasil",
+      "periodo": "1987 - 1992",
+      "ano_inicio": "1987",
+      "ano_fim": "1992",
+      "vinculo": "Celetista",
+      "enquadramento": "SEGUNDO OFICIAL DE MÁQUINAS",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Frota Nacional de Petroleiros, FRONAP, Brasil",
+      "instituicao_nome": "Frota Nacional de Petroleiros",
+      "instituicao_sigla": "FRONAP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Frota Nacional de Petroleiros, FRONAP, Brasil",
+      "instituicao_nome": "Frota Nacional de Petroleiros",
+      "instituicao_sigla": "FRONAP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Frota Nacional de Petroleiros, FRONAP, Brasil",
+      "instituicao_nome": "Frota Nacional de Petroleiros",
+      "instituicao_sigla": "FRONAP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Mcr Aquacultura, MCR AQUACULTURA, Brasil.",
+      "instituicao_nome": "Mcr Aquacultura",
+      "instituicao_sigla": "MCR AQUACULTURA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "ESTÁGIO REMUNERADO",
+      "enquadramento": "ESTAGIÁRIO ESPECIALIZADO",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Mcr Aquacultura, MCR AQUACULTURA, Brasil",
+      "instituicao_nome": "Mcr Aquacultura",
+      "instituicao_sigla": "MCR AQUACULTURA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Mcr Aquacultura, MCR AQUACULTURA, Brasil",
+      "instituicao_nome": "Mcr Aquacultura",
+      "instituicao_sigla": "MCR AQUACULTURA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sm Pescados E Consultorias, SM PESCADOS, Brasil.",
+      "instituicao_nome": "Sm Pescados E Consultorias",
+      "instituicao_sigla": "SM PESCADOS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "ESTÁGIO REMUNERADO",
+      "enquadramento": "TECNICO ESPECIALISTA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sm Pescados E Consultorias, SM PESCADOS, Brasil",
+      "instituicao_nome": "Sm Pescados E Consultorias",
+      "instituicao_sigla": "SM PESCADOS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sm Pescados E Consultorias, SM PESCADOS, Brasil",
+      "instituicao_nome": "Sm Pescados E Consultorias",
+      "instituicao_sigla": "SM PESCADOS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Technoacqua Consultoria E Projetos, TECHNOACQUA, Brasil.",
+      "instituicao_nome": "Technoacqua Consultoria E Projetos",
+      "instituicao_sigla": "TECHNOACQUA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2008",
+      "ano_inicio": "2003",
+      "ano_fim": "2008",
+      "vinculo": "Consultor Técnico Technoacqua",
+      "enquadramento": "Consultor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Technoacqua Consultoria E Projetos, TECHNOACQUA, Brasil",
+      "instituicao_nome": "Technoacqua Consultoria E Projetos",
+      "instituicao_sigla": "TECHNOACQUA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2003 - 12/2004",
+      "ano_inicio": "2003",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Consultoria Técnica, Consultoria e Projetos."
+      ]
+    },
+    {
+      "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIENCIA E TECNOLOGIA DO CEARÁ, IFCE, Brasil.",
+      "instituicao_nome": "INSTITUTO FEDERAL DE EDUCAÇÃO",
+      "instituicao_sigla": "CIENCIA E TECNOLOGIA DO CEARÁ",
+      "instituicao_pais": "IFCE",
+      "periodo": "2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "PROFESSOR EFETIVO",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Agrárias",
+      "area": "Recursos Pesqueiros e Engenharia de Pesca",
+      "subarea": "Engenharia de Pesca",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Agrárias / Área: Recursos Pesqueiros e Engenharia de Pesca / Subárea: Engenharia de Pesca."
+    },
+    {
+      "grande_area": "Ciências Biológicas",
+      "area": "Zoologia",
+      "subarea": "Zoologia Aplicada",
+      "especialidade": "Controle Populacional de Animais",
+      "descricao_completa": "Grande área: Ciências Biológicas / Área: Zoologia / Subárea: Zoologia Aplicada/Especialidade: Controle Populacional de Animais."
+    },
+    {
+      "grande_area": "Ciências Agrárias",
+      "area": "Recursos Pesqueiros e Engenharia de Pesca",
+      "subarea": "Aqüicultura",
+      "especialidade": "Maricultura",
+      "descricao_completa": "Grande área: Ciências Agrárias / Área: Recursos Pesqueiros e Engenharia de Pesca / Subárea: Aqüicultura/Especialidade: Maricultura."
+    },
+    {
+      "grande_area": "Ciências Agrárias",
+      "area": "Recursos Pesqueiros e Engenharia de Pesca",
+      "subarea": "Aqüicultura",
+      "especialidade": "Carcinocultura",
+      "descricao_completa": "Grande área: Ciências Agrárias / Área: Recursos Pesqueiros e Engenharia de Pesca / Subárea: Aqüicultura/Especialidade: Carcinocultura."
+    },
+    {
+      "grande_area": "Ciências Agrárias",
+      "area": "Recursos Pesqueiros e Engenharia de Pesca",
+      "subarea": "Aqüicultura",
+      "especialidade": "Piscicultura",
+      "descricao_completa": "Grande área: Ciências Agrárias / Área: Recursos Pesqueiros e Engenharia de Pesca / Subárea: Aqüicultura/Especialidade: Piscicultura."
+    },
+    {
+      "grande_area": "Engenharias",
+      "area": "Engenharia Sanitária",
+      "subarea": "Saneamento Ambiental",
+      "especialidade": "Legislação Ambiental",
+      "descricao_completa": "Grande área: Engenharias / Área: Engenharia Sanitária / Subárea: Saneamento Ambiental/Especialidade: Legislação Ambiental."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "UPA - Unidade de Produção Marinha",
+      "objetivo": ""
+    },
+    {
+      "nome": "Levantamento de Estoques de Puerulus e Juvenis de Lagosta Utilizando Cultivos de Algas como Atratores.",
+      "objetivo": ""
+    },
+    {
+      "nome": "Estudos da Biologia e Reprodução de Lutijanídeos.",
+      "objetivo": ""
+    },
+    {
+      "nome": "Unidade de produção Marinha",
+      "objetivo": ""
+    },
+    {
+      "nome": "Produção e Engorda de Organismos Aquáticos",
+      "objetivo": ""
+    },
+    {
+      "nome": "CULTIVO DE ALGAS MARINHAS EM COMUNIDADES COSTEIRAS",
+      "objetivo": "CULTIVAR ALGAS MARINHAS ECONOMICAMENTE VIÁVEIS, PARA A GERAÇÃO SUSTENTAVEL DE EMPREGO E RENDA NAS COMUNIDADES COSTEIRAS NORDESTINAS.."
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "SEGURO AMBIENTAL EM EMPRESAS PRIVADAS: CENÁRIOS E PERSPECTIVAS PARA ADESÃO E CONSOLIDAÇÃO NO BRASIL",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "MARIA GRAZIELA AMORA FIRMINO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal do Ceará - Campus Paracuru",
+          "curso": ""
+        },
+        {
+          "titulo": "Zona Costeira e Processos Sedimentares ao longo da Praia Pecém no Município de São Gonçalo do Amarante - Ceará",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "FELIPE LINHARES DO CARMO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal do Ceará - Campus Paracuru",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": [
+      {
+        "autores": "SANTANA, M. W. P.. III GRAND SHRIMP FESTIVAL E 0 III ENCONTRO DO ARRANJO PRODUTIVO LOCAL DA CARCINICULTURA DO LITORAL OESTE. 2011. (Festival).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SANTANA, M. W. P.. II GRAND SHRIMP FESTIVAL E O II ENCONTRO DO ARRANJO PRODUTIVO LOCAL DA CARCINICULTURA DO LITORAL OESTE. 2010. (Festival).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SANTANA, M. W. P.. I GRAND SHRIMP FESTIVAL e o I ENCONTRO DO ARRANJOPRODUTIVO LOCAL DA CARCINICULTURA DO LITORAL OESTE DO ESTADO DO CEARÁ.. 2009. (Festival).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SANTANA, M. W. P.. XIV CONGRESSO BRASILEIRO DE ENGENHARIA DE PESCA. 2005. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SANTANA, M. W. P.. XIV CONGRESSO BRASILEIRO DE ENGENHARIA DE PESCA - CONBEP. 2005. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SANTANA, M. W. P.. XVI CONGRESSO BRASILEIRO DE ENGENHARIA DE PESCA - CONBEP.. 2005. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "SANTANA, M. W. P.; BEZERRA, M. A.. Participação em banca de Layanne Viana Gonçalves.O código ambiental no município de Paracuru: uma análise sobre competências e responsabilidades na proteção dos recursos naturais.. 2022. Trabalho de Conclusão de Curso (Graduação em TECNOLOGO EM GESTÃO AMBIENTAL) - Instituto Federal do Cear´- Campus Paracuru.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Layanne Viana Gonçalves",
+        "membros_banca": [
+          "SANTANA, M. W. P.",
+          "BEZERRA, M. A."
+        ],
+        "titulo_trabalho": "O código ambiental no município de Paracuru: uma análise sobre competências e responsabilidades na proteção dos recursos naturais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em TECNOLOGO EM GESTÃO AMBIENTAL)",
+        "universidade": ""
+      },
+      {
+        "descricao": "SANTANA, M. W. P.; BEZERRA, M. A.; GONCALVES, T. E.. Participação em banca de FELIPE LINHARES DO CARMO.Zona Costeira e Processos Sedimentares ao longo da Praia Pecém no Município de São Gonçalo do Amarante - Ceará. 2021. Trabalho de Conclusão de Curso (Graduação em TECNÓLOGO EM GESTÃO AMBIENTAL) - INSTITUTO FEDERAL DE EDUCAÇÃO, CIENCIAS E TECNOLOGIA DO CEARÁ.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "FELIPE LINHARES DO CARMO",
+        "membros_banca": [
+          "SANTANA, M. W. P.",
+          "BEZERRA, M. A.",
+          "GONCALVES, T. E."
+        ],
+        "titulo_trabalho": "Zona Costeira e Processos Sedimentares ao longo da Praia Pecém no Município de São Gonçalo do Amarante - Ceará",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em TECNÓLOGO EM GESTÃO AMBIENTAL)",
+        "universidade": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIENCIAS E TECNOLOGIA DO CEARÁ"
+      }
+    ],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

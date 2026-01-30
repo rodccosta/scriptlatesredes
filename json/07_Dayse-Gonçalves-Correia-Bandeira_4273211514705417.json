@@ -1,0 +1,403 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4273211514705417",
+    "nome_completo": "Dayse Gonçalves Correia Bandeira",
+    "nome_citacoes": "CORREIA, D. G.;D. G. Correia;Dayse Gonçalves Correia;CORREIA, DAYSE GONÇALVES;D. G. C. Bandeira;BANDEIRA, D. G. C.;Dayse Gonçalves Correia Bandeira;CORREIA, D.G.;BANDEIRA, DAYSE GONÇALVES CORREIA;BANDEIRA, DAYSE",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal do Ceará. Av. Treze de Mai, 2081 Benfica 60040531 - Fortaleza, CE - Brasil Telefone: (85) 33073666 Fax: (85) 33073711 URL da Homepage: www.ifce.edu.br",
+    "atualizacao_cv": "21/10/2025",
+    "url": "http://lattes.cnpq.br/4273211514705417",
+    "texto_resumo": "Atualmente, sócia da empresa de soluções ópticas Lumiere Tech e docente da área de Sistemas da Computação no IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará) - campus Paracuru. Doutora em Engenharia de Teleinformática pela Universidade Federal do Ceará (UFC) na linha de Sinais e Sistemas (Doutorado sanduíche CNAM (Conservatoire National des Arts et Metiers) - Paris, França. Mestra em Engenharia de Telecomunicações pelo IFCE - campus Fortaleza (Linha de pesquisa: MO - Microondas com Óptica integrada) com foco em simulações numéricas e/ou experimentos na aplicação de efeitos de pulsos em fibras ópticas convencionais e fibras de cristal fotônico no Laboratório de Fotônica do IFCE. Especialista em Gerenciamento de Projetos (MBA) pela Faculdade Ateneu. Formação Acadêmica: Engenheira de Telecomunicações (2012), Tecnóloga em Telemática (2007) e Técnica em Telecomunicações (2003) pelo IFCE. Experiência de mercado: Especialista Técnica em Serviços de Telecomunicações na Embratel gerenciando redes de backbone óptico SDH / DWDM / IP, como Técnica de Headend na empresa NET Fortaleza atuando principalmente nos ajustes do sinal da rede HFC (Hybrid Fiber-Coaxial) e como Técnica de Mantenção III na empresa TV Jangadeiro efetuando ajustes em links de microondas para as transmissões ao vivo da emissora, bem como equalizações nos sinais analógicos e digitais dos sistemas de rádio (FM 88,9 MHz) e TV (Canal 12). \"Aquele que não é capaz de governar a si mesmo, não será capaz de governar os outros. - Mahatma Gandhi (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Engenharia de Teleinformática",
+      "nome_instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2022",
+      "descricao": "com período sanduíche em Conservatoire National des Arts et Métiers (Orientador: Didier Le Ruyet). Título: Orthogonal Time Frequency Space modulation : contribution to channel estimation and data detection in a high mobility multipath wireless environment, Ano de obtenção: 2022. Orientador: João César Moura Mota. Coorientador: Didier Le Ruyet. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: OTFS; Delay-Doppler domain; Message passing; Channel estimation; FEM. Grande área: Engenharias Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Sistemas de Informação. Grande Área: Engenharias / Área: Engenharia de Transportes / Subárea: processamento digital de sinais. Setores de atividade: Telecomunicações."
+    },
+    {
+      "tipo": "Mestrado em Mestrado em Engenharia de Telecomunicações",
+      "nome_instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "descricao": "Título: Comutação não-linear de pulsos sóliton, gaussiano e super gaussiano em acopladores ópticos O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2015. Orientador: Glendo de Freitas Guimarães. Coorientador: Alisson da Conceição Ferreira. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Acoplador direcional; Fibra de cristal fotônico; Pulsos ultracurtos; Efeitos não-lineares; Comutação óptica. Grande área: Engenharias Setores de atividade: Telecomunicações."
+    },
+    {
+      "tipo": "Especialização em MBA em Gerenciamento de Projetos",
+      "nome_instituicao": "(Carga Horária: 460h)",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "descricao": "Instituto de Pós-Graduação CV & C Ateneu, IGP, Brasil. Título: TI Verde Inserida no Planejamento Estratégico em Projetos de Sustentabilidade em Empresas. Orientador: M.Sc. Rickardo Léo Ramos Gomes."
+    },
+    {
+      "tipo": "Graduação em Engenharia de Telecomunicações",
+      "nome_instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2012",
+      "descricao": "Título: Artigo Publicado - Sobrevivência a falhas para conexões IP sobre WDM em redes ópticas baseadas na topologia em malha. Orientador: José Wally Mendonça Menezes, Glendo de Freitas Guimarães."
+    },
+    {
+      "tipo": "Graduação em Tecnologia em Telemática",
+      "nome_instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2007",
+      "descricao": "Título: TV Digital: um estudo sobre as técnicas de modulação para transmissão e recepção do sinal. Orientador: Glaucionor de Oliveira."
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante",
+      "nome_instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2003",
+      "descricao": ""
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2003",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": "2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Docente na área de Sistemas Telecomunicações",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Pesquisadora",
+      "enquadramento": "Pesquisadora na área da Fotônica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": "2014 - 2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": "Professor Voluntário",
+      "enquadramento": "Professor Voluntário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": "2014 - 2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": "Professor Substituto",
+      "enquadramento": "Docente na área de Teoria Eletromagnética",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil.",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Professor Voluntário",
+      "enquadramento": "Professor Voluntário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "IFCE - Instiruto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil",
+      "instituicao_nome": "IFCE - Instiruto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Ceará",
+      "instituicao_pais": "IFCE",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Brasileira de Telecomunicações, EMBRATEL, Brasil.",
+      "instituicao_nome": "Empresa Brasileira de Telecomunicações",
+      "instituicao_sigla": "EMBRATEL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": "Funcionário",
+      "enquadramento": "Gerência de redes SDH/DWDM",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Brasileira de Telecomunicações, EMBRATEL, Brasil",
+      "instituicao_nome": "Empresa Brasileira de Telecomunicações",
+      "instituicao_sigla": "EMBRATEL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "T",
+      "instituicao_nome": "T",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2008 - 2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": "Funcionário",
+      "enquadramento": "Técnica de Manutenção III",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "TV Jangadeiro/SBT (CE), CANAL 12, Brasil",
+      "instituicao_nome": "TV Jangadeiro/SBT (CE)",
+      "instituicao_sigla": "CANAL 12",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": null,
+      "instituicao_nome": null,
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2003 - 2008",
+      "ano_inicio": "2003",
+      "ano_fim": "2008",
+      "vinculo": "Funcionário",
+      "enquadramento": "Técnica de Headend",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Videomar Rede Nordeste, NET, Brasil",
+      "instituicao_nome": "Videomar Rede Nordeste",
+      "instituicao_sigla": "NET",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Laboratório Fotônica, PPGET-IFCE, Brasil.",
+      "instituicao_nome": "Laboratório Fotônica",
+      "instituicao_sigla": "PPGET-IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Pesquisadora",
+      "enquadramento": "Gerente da área de Simulação Numérica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Laboratório Fotônica, PPGET-IFCE, Brasil",
+      "instituicao_nome": "Laboratório Fotônica",
+      "instituicao_sigla": "PPGET-IFCE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Performance Evaluation of Low-Complexity Algorithms for Orthogonal Time-Frequency Space Modulation",
+        "ano": 2020,
+        "autores": "BANDEIRA, DAYSE; LE RUYET, DIDIER ; PISCHELLA, MYLENE ; MOTA, JOÃO",
+        "revista": "Journal of Communication and Information Systems (JCIS),",
+        "volume": "35",
+        "numero": "",
+        "paginas": "138-149",
+        "issn": "1980-6604",
+        "doi": "http://dx.doi.org/10.14209/jcis.2020.15",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Estudo de Detectores de Baixa Complexidade para Sistemas MIMO-OTFS",
+        "ano": 2020,
+        "autores": "BANDEIRA, DAYSE; RUYET, DIDIER ; PISCHELLA, MYLENE ; MOTA, JOAO",
+        "evento": "XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": [
+      {
+        "autores": "CORREIA, D. G.. III TECTEL - Encontro Tecnológico de Telemática. 2014. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 1,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 1,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-01-30">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="url" type="string" />
+      <attribute id="1" title="publicacoesEmCoautoria" type="long" />
+      <attribute id="2" title="atualizacaoCV" type="string" />
+      <attribute id="3" title="resumo" type="string" />
+      <attribute id="4" title="rotulo" type="string" />
+      <attribute id="5" title="periodo" type="string" />
+      <attribute id="6" title="nomePrimeiraGrandeArea" type="string" />
+      <attribute id="7" title="nomePrimeiraArea" type="string" />
+      <attribute id="8" title="instituicao" type="string" />
+      <attribute id="9" title="enderecoProfissional" type="string" />
+      <attribute id="10" title="artigosPeriodicos" type="long" />
+      <attribute id="11" title="artigosEventos" type="long" />
+      <attribute id="12" title="capitulosDeLivros" type="long" />
+      <attribute id="13" title="livros" type="long" />
+      <attribute id="14" title="color" type="string" />
+      <attribute id="15" title="fontColor" type="string" />
+      <attribute id="16" title="degree" type="long" />
+      <attribute id="17" title="x" type="double" />
+      <attribute id="18" title="y" type="double" />
+      <attribute id="19" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="Ana Danielle de Queiroz Melo">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/8044568823515601" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="30/05/2022" />
+          <attvalue for="3" value="Possui graduação em Bacharelado em Química Industrial pela Universidade Federal do Ceará (2008), graduação em Licenciatura em Química pela Universidade Federal do Ceará (2007), mestrado em Química Inorgânica pela Universidade Federal do Ceará (2011) e doutorado em Química Inorgânica pela Universidade Federal do Ceará (2017). Atualmente é professora EBTT do Instituto Federal do Ceará (IFCE) campus de Aracati. Desenvolve pesquisas nas áreas de ciências dos materiais e no ensino de ciências e de química. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Química" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.0728530311161002" />
+          <attvalue for="18" value="0.7" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="1" label="Andrea Moura da Costa Souza">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/0158252648693540" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16/01/2026" />
+          <attvalue for="3" value="Pós- Doutoramento em Educação Profissional (IFCE); Doutora em Educação Brasileira pela Universidade Federal do Ceará (UFC)- Linha de pesquisa em Estudo Organizacionais, Empreendedorismo, Inovação e Ensino - Mestre em Administração, (Université de Nancy2- UFMG) ; Mestre em Educação pela Université de Nancy 2- Especialista em Gestão e Planejamento Estratégico-pela Universidade Federal do Ceará. Especialista em Docência em Educação Profissional; Bacharel em Administração de Empresas; Bacharelado em Filosofia e Pedagogia. Vice- Coordenadora da pós-graduação- Mestrado profissional em Ensino(IFCE/ UNILAB). Professora efetiva do Instituto Federal do Ceará, Colaboradora dos projetos UFC- virtual; Universidade Aberta do Brasil-UAB; Parfor. Coordenadora do Grupo de Pesquisa IFCE/CNPQ Estudo Organizacionais, Empreendedorismo, Inovação e Ensino. Avaliadora capacitada do SINAES/INEP-MEC. Coordenadora e orientadora de projetos de IC- iniciação cientifica e Extensão. Tem experiência em Empreendedorismo, Inovação, Gestão Pública; Teorias Organizacionais; e Educação. Tem experiência técnica em consultoria organizacional, docência do ensino superior e Docência do ensino básico , Técnico e Tecnológico. Avaliadora ad hoc da FUNCAP-Fundação Cearense de Apoio ao Desenvolvimento. Foi Coordenadora do curso de Licenciatura em Ciências Biológicas (20181-2019) e Coordenadora de Pesquisa e Extensão (2017-2019). cordenadora de projetos de pesquisa e extensao com fomento e sem fomento, Diretora Financeiro e Administrativo da FAIFCE. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Administração" />
+          <attvalue for="8" value="Instituto Federal de Educação Ciência e Tecnologia do Ceará" />
+          <attvalue for="9" value="Instituto Federal de Educação Ciência e Tecnologia do Ceará. RUA ANTONIO SALES Benfica 62680000 - Paracuru, CE - Brasil Telefone: (85) 33073702" />
+          <attvalue for="10" value="37" />
+          <attvalue for="11" value="2" />
+          <attvalue for="12" value="17" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.6738560220066637" />
+          <attvalue for="18" value="0.19789152397600068" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="2" label="Andreia Rodrigues da Silva">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/8102016972959768" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="06/03/2022" />
+          <attvalue for="3" value="É Doutora em Informática Aplicada e Mestre pela Universidade de Fortaleza. Atualmente é professora do Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software e Pesquisa Operacional, atuando principalmente nos seguintes temas: engenharia de requisitos, qualidade de software, gerência de projetos, estimativas, testes, metodologia ágil e melhoria de processo de software. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Ciência da Computação" />
+          <attvalue for="8" value="Instituto Federal de Educação Ciencia e Tecnologia" />
+          <attvalue for="9" value="Instituto Federal de Educação Ciencia e Tecnologia. Rua Jorge Dumar 1703 Jardim América 60410426 - Fortaleza, CE - Brasil Telefone: (85) 34012300 URL da Homepage: http://www.ifce.edu.br" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.3413846274436895" />
+          <attvalue for="18" value="-0.616531185461738" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="3" label="Arliene Stephanie Menezes Pereira Pinto">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/6058632073001777" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="28/01/2026" />
+          <attvalue for="3" value="Mãe da Dandara, mulher negra nascida na periferia e sendo a primeira colocada no concurso para professor da área de Educação Física do IFCE nas cotas raciais. Docente do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde já exerceu a função de gestora de extensão do campus Paracuru (2019-2020), coordenadora de acessibilidade e diversidade étnico-racial na Pró-reitoria de Extensão (2020-2021) e presidenta da comissão de heteroidentificação do campus Paracuru (2019-2022), atualmente sendo coordenadora do Núcleo de Acessibilidade às Pessoas com Necessidades Específicas (Napne). Instituição na qual foi emitida a Portaria 8805 do gabinete da reitoria de elogio a servidora pela conquista do 1 lugar na categoria Ciências Biológicas e da Saúde no 2 Prêmio Anas-Mulher Ciência, em reconhecimento à sua destacada produção científica e contribuição relevante ao desenvolvimento acadêmico e à pesquisa. Docente permanente do Programa de Mestrado Profissional de Educação Física em Rede Nacional (PROEF) polo da Universidade Federal do Ceará (UFC) e do Programa de Mestrado Profissional em Educação Inclusiva em Rede Nacional (PROFEI-IFCE). Professora colaboradora do Programa de Pós-graduação em Educação da Universidade Estadual do Ceará (UECE). Pós-doutoranda em Educação Física pela UFC. Doutora pelo Programa de Pós-graduação em Educação pela UECE. Mestra em Educação Física pela Universidade Federal do Rio Grande do Norte (UFRN). Graduada em Educação Física/Licenciatura plena pela UECE. Tecnóloga em Gestão Desportiva e de Lazer pelo IFCE e graduada em Pedagogia pela Unifaveni. É especialista em Arte-educação e Cultura Popular pela Faculdade de Tecnologia Darcy Ribeiro (FTDR); especialista em Gestão Educacional e Práticas pedagógicas pela Universidade Cândido Mendes (UCAMRJ); e especialista em Educação em direitos humanos, diversidade e questões étnico-raciais. Foi professora efetiva da Secretaria Municipal de Educação de Fortaleza. Membra associada do Colégio Brasileiro de Ciências do Esporte (CBCE), sendo coordenadora adjunta do GTT Relações étnico-raciais. Participou de intercâmbio na Universidad Nacional Mayor de San Marcos, com sede em Lima, capital da República do Peru pelo Caminhos Amefricanos: Programa de Intercâmbios Sul-Sul Edição Peru desenvolvido em parceria com o Ministério da Igualdade Racial (MIR). É integrante da equipe editorial da Revista Lecturas-Educación Física y deportes (comitê científico) e é editora adjunta da Revista Ensino em Perspectivas (UECE). Foi pesquisadora nos grupos: Educação Física, esporte e lazer do IFCE campus Canindé, do grupo de pesquisa Estesia: corpo, fenomenologia e movimento da UFRN. Líder do grupo de pesquisa Corponexões: corpo, cultura, sociedade e relações étnico-raciais. É integrante do grupo de pesquisa Ciências Humanas, Educação e Movimentos Sociais e Grupo de pesquisa Docência no Ensino Superior e na Educação Básica. Avaliadora do Programa Nacional do Livro e Material Didático (PNLD) do Ensino Médio-2026-2029 do componente Educação Física pelo Ministério da Educação (MEC). Desenvolve pesquisas e projetos sobre Educação Física e Educação das relações étnico-raciais, formação de professores, feminismos/gênero e significações sócio antropológicas, epistemológicas e filosóficas sobre o corpo. É pesquisadora na área de relações étnico-raciais há mais de 15 anos e autora de livros com esta temática como: Aninhá Vaguretê: corpo e simbologia no ritual do Torém dos índios Tremembé&quot; (2020), Práticas corporais indígenas: jogos, brincadeiras e lutas para a implementação da Lei n 11.645/08 na Educação Física escolar (2021), Ações de pesquisa e extensão na área de acessibilidade e diversidade étnico-racial na educação profissional e tecnológica (2022) e Memória ancestral: biografização de mulheres indígenas Tremembé (2025). (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências da Saúde" />
+          <attvalue for="7" value="Educação Física" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="56" />
+          <attvalue for="11" value="4" />
+          <attvalue for="12" value="15" />
+          <attvalue for="13" value="8" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.617545300928887" />
+          <attvalue for="18" value="0.3399615763654237" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="4" label="Ana Karine Portela Vasconcelos">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/9270231270884490" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="19/01/2026" />
+          <attvalue for="3" value="Coordenadora do Doutorado Acadêmico do RENOEN Polo IFCE, Campus Fortaleza. Docente Permanente do Mestrado em Ensino de Ciências e Matemática (PGECM) e do Curso de Doutorado Acadêmico em Ensino Rede Nordeste de Ensino (RENOEN) - Polo IFCE. Docente efetiva do Instituto Federal Ceará (IFCE), atualmente lotada no Campus Paracuru. Áreas de interesse: Aprendizagem Significativa no Ensino de Química: Superação de Obstáculos Epistemológicos; Experimentação Química; Ensino de Ciência, Tecnologia, Sociedade e Ambiente (CTS/CTSA). Doutora e Mestre em Engenharia Civil (Saneamento Ambiental) pela Universidade Federal do Ceará (UFC). Especialista em Gestão Ambiental pela Universidade de Fortaleza (UNIFOR). Graduada em Licenciatura Química pela UFC e Técnica em Química Industrial pela Escola Técnica Federal do Ceará (ETFCE). (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Química" />
+          <attvalue for="8" value="Instituto Federal do Ceará, Campus Paracuru" />
+          <attvalue for="9" value="Instituto Federal do Ceará, Campus Paracuru. CE-341 km-2, s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 URL da Homepage: www.ifce.edu.br" />
+          <attvalue for="10" value="38" />
+          <attvalue for="11" value="5" />
+          <attvalue for="12" value="11" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.5438597786496869" />
+          <attvalue for="18" value="0.43978163297092476" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="5" label="Breno Rafael Pinheiro Sampaio">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4272610112346656" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="25/11/2025" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Matemática" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.44355138501858415" />
+          <attvalue for="18" value="0.5535993962710787" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="6" label="Cristina Ferreira Gino">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/2983135821223272" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="06/06/2025" />
+          <attvalue for="3" value="Mestra em Artes pelo Programa de Pós-Graduação em Artes (PPGARTES) - Mestrado Profissional em Artes (MPARTES) do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) campus Fortaleza na linha de Processos de Criação em Artes, sob a orientação do professor Dr. Eddy Lincolln Freitas de Souza. Pós-graduada no curso de especialização em Musicoterapia pelo Instituto Graduale - Faculdade Padre Dourado (2018). Concluiu o curso de aperfeiçoamento em História da Arte pela Enfoque Capacitação (2019). Bacharel em piano pela Universidade Estadual do Ceará (2010). Graduada em Pedagogia pela Universidade Regional do Cariri (2005). Docente efetiva do IFCE Campus Paracuru na área de Música (teclas: piano/teclado). Tem experiência na área de Artes, com ênfase em Música, atuando principalmente nos seguintes temas: piano, teclado, canto coral e educação musical. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Lingüística, Letras e Artes" />
+          <attvalue for="7" value="Artes" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="1" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.6218789689862902" />
+          <attvalue for="18" value="-0.3410742876503528" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="7" label="Dayse Gonçalves Correia Bandeira">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4273211514705417" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="21/10/2025" />
+          <attvalue for="3" value="Atualmente, sócia da empresa de soluções ópticas Lumiere Tech e docente da área de Sistemas da Computação no IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará) - campus Paracuru. Doutora em Engenharia de Teleinformática pela Universidade Federal do Ceará (UFC) na linha de Sinais e Sistemas (Doutorado sanduíche CNAM (Conservatoire National des Arts et Metiers) - Paris, França. Mestra em Engenharia de Telecomunicações pelo IFCE - campus Fortaleza (Linha de pesquisa: MO - Microondas com Óptica integrada) com foco em simulações numéricas e/ou experimentos na aplicação de efeitos de pulsos em fibras ópticas convencionais e fibras de cristal fotônico no Laboratório de Fotônica do IFCE. Especialista em Gerenciamento de Projetos (MBA) pela Faculdade Ateneu. Formação Acadêmica: Engenheira de Telecomunicações (2012), Tecnóloga em Telemática (2007) e Técnica em Telecomunicações (2003) pelo IFCE. Experiência de mercado: Especialista Técnica em Serviços de Telecomunicações na Embratel gerenciando redes de backbone óptico SDH / DWDM / IP, como Técnica de Headend na empresa NET Fortaleza atuando principalmente nos ajustes do sinal da rede HFC (Hybrid Fiber-Coaxial) e como Técnica de Mantenção III na empresa TV Jangadeiro efetuando ajustes em links de microondas para as transmissões ao vivo da emissora, bem como equalizações nos sinais analógicos e digitais dos sistemas de rádio (FM 88,9 MHz) e TV (Canal 12). &quot;Aquele que não é capaz de governar a si mesmo, não será capaz de governar os outros. - Mahatma Gandhi (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="[sem-grandeArea]" />
+          <attvalue for="7" value="[sem-area]" />
+          <attvalue for="8" value="Instituto Federal do Ceará" />
+          <attvalue for="9" value="Instituto Federal do Ceará. Av. Treze de Mai, 2081 Benfica 60040531 - Fortaleza, CE - Brasil Telefone: (85) 33073666 Fax: (85) 33073711 URL da Homepage: www.ifce.edu.br" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="1" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.5439911994778079" />
+          <attvalue for="18" value="-0.4336449505532888" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="8" label="Diego Aguiar Sousa">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/8142078797807318" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18/11/2025" />
+          <attvalue for="3" value="Possui graduação em Engenharia da Computação pela Universidade Federal do Ceará (UFC), Especialização em Engenharia Industrial pelo Instituto Executivo de Formação/Faculdade Darcy Ribeiro, Mestrado e Doutorado em Engenharia de Teleinformática pela UFC. Desde 2013 é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente lotado no campus da cidade de Paracuru. Possui interesse em pesquisas na área de sistemas de comunicações sem fio, com foco em otimização numérica, redes 5G, alocação de recursos de rádio e aprendizado de máquinas. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="[sem-grandeArea]" />
+          <attvalue for="7" value="[sem-area]" />
+          <attvalue for="8" value="INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru" />
+          <attvalue for="9" value="INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru. CE-341, Km 2, S/N Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210" />
+          <attvalue for="10" value="8" />
+          <attvalue for="11" value="5" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.19475632480404523" />
+          <attvalue for="18" value="0.6606457766282328" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="9" label="Jorgeana de Almeida Jorge Benevides">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4807157101415226" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="21/11/2025" />
+          <attvalue for="3" value="Graduada em Ciências Biológicas pela Universidade Regional do Cariri (1999) Tem experiência na área de Educação junto ao ensino infantil, médio e superior. Possui pós-graduação nas áreas de Biologia e Química (URCA), TIC'S (PUC-RIO), Gestão e Avaliação da Educação Pública (UFJF-MG) e mestrado em Tecnologia e Gestão Ambiental (IFCE/Fortaleza). Coordenou o projeto de extensão de incentivo a literatura intitulado Café com Letras no IFCE campus Acaraú em Paracuru no último ano de execução (2015-2018). Atuou na coordenação de área do PIBID no campus Acaraú (2014-2017). É professora efetiva do Instituto Federal de Educação Ciência e Tecnologia do Ceará, campus Paracuru atuando em pesquisas nas áreas de Botânica, Ecologia e Gestão Ambiental. Atualmente coordena o Laboratório Didático do IFCE campus Paracuru e faz parte do grupo de escritores da literatura nacional com quatro títulos publicados. Faz parte do Núcleo Integrado de Tecnologia e Meio Ambiente do campus IFCE/Paracuru. Doutora pelo programa de Pós-graduação em Ciências Marinhas Tropicais pela Universidade Federal do Ceará (UFC). (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Educação" />
+          <attvalue for="8" value="Instituto Federal de Educação, Ciência e Tecnologia do Ceará" />
+          <attvalue for="9" value="Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Ce 341, Km 2 s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="1" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.07827093915833226" />
+          <attvalue for="18" value="-0.6928691892721424" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="10" label="Max William de Pinho Santana">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/6703484795867796" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="25/01/2023" />
+          <attvalue for="3" value="Professor efetivo do Instituto Federal do Ceará - IFCE, Campus Paracuru - Ceará. Doutorado em Ciências Marinhas Tropicais, no LABOMAR - UFC (31/08/2017). Possui Mestrado em Engenharia de Pesca pela Universidade Federal do Ceará (2003). Graduação em Engenharia de Pesca pela Universidade Federal do Ceará (1999), Graduação em Ciências Náuticas na Escola de Formação de Oficiais da Marinha Mercante no Centro de Instrução Almirante Braz de Aguiar (CIABA) em 1987, e Engenharia de Segurança do Trabalho (UNIATENEU) em 2022 e tem experiência na área de Recursos Pesqueiros e Engenharia de Pesca, com ênfase em Engenharia de Pesca, atuando principalmente nos seguintes temas: Aquicultura, Pesca, Lagosta, Algas, máquinas e motores marítimos, Engenharia de Pesca, Beneficiamento de Pescados e Saúde, Higiene e Segurança do Trabalho e Meio Ambiente. Participa como instrutor em parceria com a Marinha do Brasil nos cursos de PEP e POP, para formação de pescadores especializados. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Agrárias" />
+          <attvalue for="7" value="Recursos Pesqueiros e Engenharia de Pesca" />
+          <attvalue for="8" value="Instituto Federal do Ceará, IFCE- Campus Paracuru" />
+          <attvalue for="9" value="Instituto Federal do Ceará, IFCE- Campus Paracuru. CE 341, s/n , Km 02 ? Bairro: Parque Novo Paracuru Parque Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 Ramal: 100 URL da Homepage: http://www.ifce.edu.br" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.4410006616191821" />
+          <attvalue for="18" value="-0.5513321693038475" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="11" label="Renato Lenz Costa Lima">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7029026201626164" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="05/01/2026" />
+          <attvalue for="3" value="Possui graduação em Telemática pelo Centro Federal de Educação Tecnológica do Ceará (2006) e mestrado em Mestrado Acadêmico em Ciência da Computação pela Universidade Estadual do Ceará (2009). Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas Web, atuando principalmente nos seguintes temas: sistemas web, computação nas nuvens e agentes inteligentes. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="[sem-grandeArea]" />
+          <attvalue for="7" value="[sem-area]" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.6636181534470854" />
+          <attvalue for="18" value="-0.19131002161897545" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="12" label="Roberto de Almeida Façanha">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/9248438123151568" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="11/12/2024" />
+          <attvalue for="3" value="Bacharel em Ciências da Computação pela Universidade Estadual do Ceará (UECE - Dezembro / 1995) e Mestre em Ciência da Computação pela Universidade Estadual de Campinas (UNICAMP - Agosto / 1998). Sua dissertação de mestrado (Gerenciamento de Banda Passante em Servidores de Vídeo) foi premiada em terceiro lugar no Concurso de Teses e Dissertações de Mestrado, promovido pela Sociedade Brasileira de Computação (SBC) em 1999. No mesmo ano obteve igual premiação no concurso latinoamericano de &quot;Teses de Maestria&quot;, promovido pelo Centro Latinoamericano de Estudios en Informática (CLEI) / UNESCO. Possui 25 anos de experiência em docência em cursos de graduação de Sistemas de Informação, Ciência da Computação e Engenharias, com atuação predominante na área de Algoritmos e Desenvolvimento de Software. Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), tendo ingressado mediante concurso público N 10 / 2016 na área de Metodologia e Técnicas da Computação. Atualmente está lotado no campus Paracuru, onde exerce a coordenação do curso técnico subsequente em Informática para Internet, na modalidade EaD. Suas áreas de interesse incluem software livre / público, algoritmos, estruturas de dados e teoria dos grafos, desenvolvimento para dispositivos móveis, redes de computadores / telecomunicações, robótica educacional e gestão da inovação. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Ciência da Computação" />
+          <attvalue for="8" value="INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru" />
+          <attvalue for="9" value="INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru. Rodovia CE-341, Km 2, S/N Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 URL da Homepage: http://www.ifce.edu.br/paracuru" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.33276360649281417" />
+          <attvalue for="18" value="0.6137595432940526" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="13" label="Rodrigo Carvalho Souza Costa">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/0490481250317107" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="04/04/2025" />
+          <attvalue for="3" value="Graduado pela UFC em Engenharia Elétrica com ênfase em Informática Industrial (2005) e pelo IFCE em Tecnologia Mecatrônica.Concluiu o mestrado de Engenharia de Teleinformática na área de Eletromagnetismo Aplicado pela UFC e o doutorado em Engenharia de Teleinformática na área de Sinais e Sistemas desenvolvendo um novo algoritmo de visão artificial para interação humano-dispositivo portátil. No período de 2010 à 2013 foi professor da Faculdade Lourenço Filho na área de infra-estrutura e redes locais, realizando a coordenação de atividades de pesquisa e orientação científica nas áreas de Visão Computacional e Administração de Rede através da coordeção o Pilar de Infra-estrutura da Fábrica de Software no período de 2010 à 2013, sendo responsável pela coordenação da equipe de infra-estrutura da Fábrica, realizando configuração de servidores virtualizados através Cytrix Server e Hyper-V server, bem como foi coordenador curso de Redes de Computadores até o processo de reconhecimento do curso.Tem experiência na área de programação multiplataforma, atuando principalmente nos seguintes temas: processamento de imagens, detecção de movimentos, interfaces de interação e sistemas embarcados, bem como nas áreas de administração de servidores linux e windows virtualizados, segurança da informação e redes de computadores.Desde 2013 é professor efetivo do Instituto Federal do Ceará responsável pela sub-área de Sistemas e Redes de Telecomunicações, responsável pelas disciplinas na área de redes de computadores e segurança da informação. Atualmente está lotado no campus de Paracuru é coordenador do curso técnico em Redes de computadores do IFCE Campus Paracuru, instrutor das academias Cisco e Huawei. Com vasta experiência em pesquisa e desenvolvimento nas áreas de processamento de imagens, sinais, desenvolvimento web e mobile, segurança da informação e desenvolvimento de tecnologias assistivas.Em 2016, foi o campeão do Cryptorace, e em 2017 fui o lider do Time campeao do Hackaflag 2017 e em 2018 fui o campeão da etapa de Fortaleza do HACKAFLAG (6o na final nacional).Grande entusiasta no desenvolvimento de novos talentos, sou extensionista e ministro treinamentos de capacitação profissional nas áreas de redes, inteligência artificial, computação em nuvem e segurança da informação. Criador da plataforma conhecida como Maratona Hacker que disponibiliza desafios de segurança ofensiva para iniciantes da área de segurança da informação. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Ciência da Computação" />
+          <attvalue for="8" value="Instituto Federal do Ceará - Campus Canindé" />
+          <attvalue for="9" value="Instituto Federal do Ceará - Campus Canindé. Rodovia BR 020, km 303 Jubaia 62700000 - Canindé, CE - Brasil Telefone: (88) 33430572 URL da Homepage: http://caninde.ifce.edu.br" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="2" />
+          <attvalue for="12" value="2" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.6910293571793288" />
+          <attvalue for="18" value="0.07746129220086999" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="14" label="Sibele Maria Souza">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/2196942948029432" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="08/09/2022" />
+          <attvalue for="3" value="Formada como Pedagoga pela FACERES de São Jose do Rio Preto -SP, professora de LIBRAS licenciada em Letras/LIBRAS pela UFSC (Universidade Federal de Santa Catarina), PROLIBRAS proficiência uso e no ensino da Língua Brasileira de Sinais - LIBRAS no nível superior e proficiência na Tradução e Interpretação da Língua Brasileira de Sinais - LIBRAS no ensino médio, ambos reconhecidos pelo MEC, Mestre em Educação formada pela UNICAMP (Universidade Estadual de Campinas), ministrei aulas de LIBRAS para pós-graduação da POLICAMP e FAEC e ministra a disciplina LIBRAS (Língua Brasileira de Sinais) na escola Maria Peregrina, era ex proprietária da empresa CELIBRAS (Centro Educacional de Língua Brasileira de Sinais) atuava como diretora e docente. Atualmente concursada pelo IFCE campus Paracuru e atuo como docente (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Educação" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.19605235906305693" />
+          <attvalue for="18" value="-0.6809277111290692" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="15" label="Socorro Gardenia Carvalho de Paula">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/5633112574126394" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="09/09/2025" />
+          <attvalue for="3" value="Possui graduação em Letras com habilitação em Português e Literatura pela Universidade Federal do Ceará (2002), graduação em Letras - Português e Inglês pela Universidade Federal do Ceará (2009), mestrado em Estudos da Tradução pela Universidade Federal do Ceará (2020) e doutorado em Linguística pela Universidade Federal do Ceará (2025). Ex-bolsista Fulbright (2013), participando do programa de certificação de Língua Inglesa para professores de Inglês, na Universidade do Texas em Austin. Ex-bolsista Capes (2024), atuou como pesquisadora visitante na Northeastern University em Boston, onde trabalhou com a Doutora Susanne Jaegui em projetos envolvendo a capacidade de memória de trabalho e também dando continuidade à análise de dados da pesquisa de doutorado. Atualmente, atua como professora efetiva do Instituto Federal do Ceará - Campus Paracuru. Tem experiência na área de Linguística, com ênfase em Cognição, Processamento e Desenvolvimento da Linguagem, atuando principalmente com os seguintes temas: Memória de Trabalho e Desempenho em Tarefas Orais e de Leitura; Memória de Trabalho e Processamento de Leitura; Processamento de Leitura em Meios Digitais; Ensino e Aprendizagem da Língua Inglesa e Estudos da Tradução. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Lingüística, Letras e Artes" />
+          <attvalue for="7" value="Letras" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="5" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.6918828595239661" />
+          <attvalue for="18" value="-0.07541122671716874" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>
