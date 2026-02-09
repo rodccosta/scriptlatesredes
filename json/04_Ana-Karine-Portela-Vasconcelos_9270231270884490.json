@@ -752,25 +752,6 @@
           "papel": "Integrante"
         }
       ]
-    },
-    {
-      "nome": "O XAMPU SÓLIDO: UMA ESTRATÉGIA PARA A REDUÇÃO DE EMBALAGENS PLÁSTICAS DE HIGIENE PESSOAL",
-      "ano_inicio": "2020",
-      "ano_conclusao": "Atual",
-      "descricao": [
-        "Descrição: A crescente consciência ambiental da população é perceptivel nos últimos anos e um dos causadores da elevada quantidade de lixo é a geração de embalagens plásticas. Dentro desse universo as embalagens plásticas, as proveniente dos produtos de higiene pessoal é bem expressiva, em particular, as de xampus e afins. A composição do xampu líquido contém, no mínimo, 70% de água. Enquanto a do xampu sólido é próximo a zero. Diante desse cenário, essa pesquisa tem por objetivo propor uma alternativa para diminuir a utilização de embalagens plásticas de higiene pessoal aliando campanhas educativas à fabricação de xampu, em barra, pois é de baixo custo. O público alvo do projeto é a comunidade acadêmica do Campus X, bem como os alunos do 1º ano da Escola Estadual Y. Como resultado, espera-se ofertar a comunidade o conhecimento de fabricação de xampu sólido, associando o conhecimento científico (Química) a preservação ambiental; estabelecer um ponto de coleta de embalagens para esse tipo de produto; e realização de oficina de confecção de brinquedos. Com um maior envolvimento da comunidade acadêmica e consequente mudança de valores e comportamentos, individuais e coletivos, colabora-se para a formação de cidadãos críticos e conscientes ambientalmente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ana Karine Portela Vasconcelos - Coordenador / Antonia Yasmim Moreira Gomes da Silva - Integrante."
-      ],
-      "tipo": "Projeto de pesquisa",
-      "integrantes": [
-        {
-          "nome": "Ana Karine Portela Vasconcelos",
-          "papel": "Coordenador"
-        },
-        {
-          "nome": "Antonia Yasmim Moreira Gomes da Silva",
-          "papel": "Integrante"
-        }
-      ]
     }
   ],
   "projetos_extensao": [
@@ -1406,30 +1387,6 @@
         "issn": "2526-2149",
         "doi": "http://dx.doi.org/10.23926/rpd.2021.v6.n3.e096.id1190",
         "qualis": ""
-      },
-      {
-        "titulo": "Ensino de Ciências na educação básica: a aprendizagem dos alunos e a prática dos professores sob a ótica das avaliações",
-        "ano": 2020,
-        "autores": "PEREIRA ALENCAR OLIVEIRA, MARIA ELIZETE ; BARROSO, MARIA CLEIDE DA SILVA ; HOLANDA, FRANCISCA HELENA DE OLIVEIRA ; VASCONCELOS, ANA KARINE PORTELA",
-        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
-        "volume": "9",
-        "numero": "",
-        "paginas": "217973500",
-        "issn": "2525-3409",
-        "doi": "http://dx.doi.org/10.33448/rsd-v9i7.3500",
-        "qualis": ""
-      },
-      {
-        "titulo": "Uso do Software Avogadro no Ensino de Cromatografia Líquida de Alta Eficiência (CLAE)",
-        "ano": 2020,
-        "autores": "FIRMINO, EDUARDO DA SILVA ; SAMPAIO, CAROLINE DE GOES ; NOJOSA, ANTONIA CLARYCY BARROS ; GUERRA, MARCELO HENRIQUE FREITAS SARAIVA ; SALDANHA, GABRIELA CLEMENTE BRITO ; VASCONCELOS, ANA KARINE PORTELA ; BARROSO, MARIA CLEIDE DA SILVA",
-        "revista": "ENSINO DE CIÊNCIAS E TECNOLOGIA EM REVISTA",
-        "volume": "10",
-        "numero": "",
-        "paginas": "67",
-        "issn": "2237-4450",
-        "doi": "http://dx.doi.org/10.31512/encitec.v10i2.3026",
-        "qualis": ""
       }
     ],
     "livros_publicados": [
@@ -1609,33 +1566,6 @@
         "cidade": "",
         "paginas": "",
         "isbn": ""
-      },
-      {
-        "titulo": "APLICAÇÃO DE UMA OFICINA PARA A FABRICAÇÃO DE SABÃO UTILIZANDO ÓLEO REUTILIZADO COMO FORMA DE CONSCIENTIZAÇÃO AMBIENTAL NO PROGRAMA DE RESIDÊNCIA PEDAGÓGICA",
-        "ano": 2020,
-        "autores": "SANTOS, A. S. ; LIMA, L. Q. ; ARAUJO, A. M. S. ; BARROSO, M. C. S. ; VASCONCELOS, AKP ; SAMPAIO, C. G.",
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "cidade": "",
-        "paginas": "",
-        "isbn": ""
-      },
-      {
-        "titulo": "A APRENDIZAGEM SIGNIFICATIVA E O USO DE TECNICAS DE ENSINAGEM NO ENSINO QUÍMICA",
-        "ano": 2020,
-        "autores": "ANDRADE, A. E. A. ; SANTOS FILHO, A. P. A. ; NOGUEIRA, A. C. ; STEDILE, A. M. A. ; SOARES, C. R. S. ; BARROSO, M. C. S. ; SAMPAIO, C. G. ; VASCONCELOS, AKP",
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "cidade": "",
-        "paginas": "",
-        "isbn": ""
-      },
-      {
-        "titulo": "PROPOSTA DE USO DAS NARRAÇÕES MULTIMODAIS NA AUTORREFLEXÃO DA PRÁTICA DOCENTE NA FORMAÇÃO INICIAL DE PROFESSORES DE CIÊNCIA E TECNOLOGIA",
-        "ano": 2020,
-        "autores": "ARAÚJO, V. P. ; SOUSA FILHO, J. R. A. ; VASCONCELOS, AKP ; BARROSO, M. C. S. ; SAMPAIO, C. G. ; STEDILE, A. M. A.",
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "cidade": "",
-        "paginas": "",
-        "isbn": ""
       }
     ],
     "resumos_expandidos": [
@@ -1704,42 +1634,10 @@
         "paginas": ""
       },
       {
-        "titulo": "MANUAL DE ANÁLISES FÍSICO-QUÍMICAS DE ÁGUA: UMA FERRAMENTA DE CONTEXTUALIZAÇÃO NO ENSINO E APRENDIZAGEM DE QUÍMICA EM UM CURSO TÉCNICO",
-        "ano": 2020,
-        "autores": "VASCONCELOS, AKP; FILGUEIRAS, J. S. ; LUCAS, R.B. ; CARVALHO, L. M. G. ; GUERREIRO DE ALMEIDA, J. P. ; RIBEIRO, J. A. S.",
-        "evento": "A Voz dos Professores de C&T (VPCT), 2021, Vila Real. Relatos e investigação de práticas de ensino de Ciências e Tecnologia - Atas do Encontro internacional ?A Voz dos Professores de C&T? (VPCT 2020). Vila Real: VPCT",
-        "cidade": "",
-        "paginas": ""
-      },
-      {
         "titulo": "A PERCEPÇÃO AMBIENTAL DOS ESTUDANTES DE UM CURSO TÉCNICO INTEGRADO EM PETROQUÍMICA, NO LITORAL LESTE DO CEARÁ, BRASIL",
         "ano": 2021,
         "autores": "VASCONCELOS, AKP; FILGUEIRAS, J. S. ; LUCAS, R.B. ; CARVALHO, L. M. G. ; GUERREIRO DE ALMEIDA, J. P. ; RIBEIRO, J. A. S.",
         "evento": "A Voz dos Professores de C&T (VPCT), 2021, Vila Real. Relatos e investigação de práticas de ensino de Ciências e Tecnologia - Atas do Encontro internacional ?A Voz dos Professores de C&T? (VPCT 2020). Vila Real: VPCT",
-        "cidade": "",
-        "paginas": ""
-      },
-      {
-        "titulo": "HISTÓRIA DA QUÍMICA NO PERÍODO DE COLONIZAÇÃO DO BRASIL: À LUZ DE INVESTIGAÇÕES TEÓRICAS",
-        "ano": 2020,
-        "autores": "STEDILE, A. M. A. ; BARROSO, M. C. S. ; SAMPAIO, C. G. ; VASCONCELOS, AKP ; ARAÚJO, V. P.",
-        "evento": "A Voz dos Professores de C&T (VPCT), 2021, Vila Real. Relatos e investigação de práticas de ensino de Ciências e Tecnologia - Atas do Encontro internacional ?A Voz dos Professores de C&T? (VPCT 2020)",
-        "cidade": "",
-        "paginas": ""
-      },
-      {
-        "titulo": "A UTILIZAÇÃO DE NARRAÇÕES MULTIMODAIS NA IDENTIFICAÇÃO DE PRÁTICAS EPISTÊMICAS PARA UMA EDUCAÇÃO AMBIENTAL",
-        "ano": 2020,
-        "autores": "ARAÚJO, V. P. ; FEITOSA, V. A. O. ; VASCONCELOS, AKP",
-        "evento": "XXVII Colóquio da AFIRSE Portugal, 2020, Lisboa. Atas do XXVII Colóquio da AFIRSE Portugal",
-        "cidade": "",
-        "paginas": ""
-      },
-      {
-        "titulo": "MANUAL DE ANÁLISES FÍSICO-QUÍMICAS DE ÁGUA: UMA FERRAMENTA DE CONTEXTUALIZAÇÃO NO ENSINO E APRENDIZAGEM DE QUÍMICA EM UM CURSO TÉCNICO",
-        "ano": 2020,
-        "autores": "FILGUEIRAS, J. S. ; LUCAS, R.B. ; CARVALHO, L. M. G. ; GUERREIRO DE ALMEIDA, J. P. ; RIBEIRO, J. A. S. ; VASCONCELOS, AKP",
-        "evento": "A Voz dos Professores de C&T (VPCT), 2020, Vila Real. Relatos e investigação de práticas de ensino de Ciências e Tecnologia - Atas do Encontro internacional ?A Voz dos Professores de C&T? (VPCT 2020)",
         "cidade": "",
         "paginas": ""
       }
@@ -1797,44 +1695,7 @@
         "issn": ""
       }
     ],
-    "apresentacoes_trabalhos": [
-      {
-        "titulo": "MANUAL DE ANÁLISES FÍSICO-QUÍMICAS DE ÁGUA: UMA FERRAMENTA DE CONTEXTUALIZAÇÃO NO ENSINO E APRENDIZAGEM DE QUÍMICA EM UM CURSO TÉCNICO",
-        "ano": 2020,
-        "autores": "VASCONCELOS, ANA KARINE PORTELA; FILGUEIRAS, J. S. ; LUCAS, R.B. ; CARVALHO, L. M. G. ; GUERREIRO DE ALMEIDA, J. P. ; RIBEIRO, J. A. S.",
-        "evento": ""
-      },
-      {
-        "titulo": "A PERCEPÇÃO AMBIENTAL DOS ESTUDANTES DE UM CURSO TÉCNICO INTEGRADO EM PETROQUÍMICA, NO LITORAL LESTE DO CEARÁ, BRASIL",
-        "ano": 2020,
-        "autores": "VASCONCELOS, ANA KARINE PORTELA; FILGUEIRAS, J. S. ; LUCAS, R.B. ; CARVALHO, L. M. G. ; GUERREIRO DE ALMEIDA, J. P. ; RIBEIRO, J. A. S.",
-        "evento": ""
-      },
-      {
-        "titulo": "O USO DE NARRAÇÕES MULTIMODAIS NA AUTORREFLEXÃO DA PRÁTICA DOCENTE NA FORMAÇÃO INICIAL DE PROFESSORES DE CIÊNCIA E TECNOLOGIA",
-        "ano": 2020,
-        "autores": "ARAÚJO, V. P. ; SOUZA FILHO, JORGE RICARDO ALMEIDA DE ; VASCONCELOS, ANA KARINE PORTELA ; SAMPAIO, C. G. ; BARROSO, M. C. S.",
-        "evento": ""
-      },
-      {
-        "titulo": "HISTÓRIA DA QUÍMICA NO PERÍODO DE COLONIZAÇÃO DO BRASIL: À LUZ DE INVESTIGAÇÕES TEÓRICAS",
-        "ano": 2020,
-        "autores": "STEDILE, ANTONIO MARLEY DE ARAÚJO ; BARROSO, M. C. S. ; SAMPAIO, C. G. ; VASCONCELOS, ANA KARINE PORTELA ; ARIZA, L. A.",
-        "evento": ""
-      },
-      {
-        "titulo": "APLICAÇÃO DE UMA OFICINA PARA A FABRICAÇÃO DE SABÃO UTILIZANDO ÓLEO REUTILIZADO COMO FORMA DE CONSCIENTIZAÇÃO AMBIENTAL NO PROGRAMA DE RESIDÊNCIA PEDAGÓGICA",
-        "ano": 2020,
-        "autores": "SAMPAIO, C. G. ; BARROSO, M. C. S. ; VASCONCELOS, ANA KARINE PORTELA ; LIMA, L. Q. ; ARAUJO, A. M. S. ; SANTOS, A. S.",
-        "evento": ""
-      },
-      {
-        "titulo": "A APRENDIZAGEM SIGNIFICATIVA E O USO DE TECNICAS DE ENSINAGEM NO ENSINO QUÍMICA",
-        "ano": 2020,
-        "autores": "ANDRADE, A. E. A. ; SANTOS FILHO, A. P. A. ; NOGUEIRA, A. C. ; STEDILE, A. M. A. ; SOARES, C. R. S. ; BARROSO, M. C. S. ; SAMPAIO, C. G. ; VASCONCELOS, ANA KARINE PORTELA",
-        "evento": ""
-      }
-    ],
+    "apresentacoes_trabalhos": [],
     "textos_jornais": [],
     "outras_producoes": [
       {
@@ -1972,24 +1833,6 @@
           "ano_inicio": 2021,
           "ano_conclusao": 2021,
           "orientando": "Brenno Ramy Teodósio da Silva",
-          "tipo_trabalho": "",
-          "instituicao": "Dissertação (Mestrado em PROGRAMA DE ENSINO DE CIÊNCIAS E MATEMÁTICA (PGECM)) - Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
-          "curso": ""
-        },
-        {
-          "titulo": "A ABORDAGEM CIÊNCIA, TECNOLOGIA, SOCIEDADE E AMBIENTE (CTSA), NA FORMAÇÃO CONTINUADA: UMA ANÁLISE EM TORNO DAS CONCEPÇÕES CTSA DE PROFESSORES DE QUÍMICA DA REDE PÚBLICA ESTADUAL DE ENSINO DO CEARÁ LOTADOS EM ESCOLAS DA SEFOR 2a REGIÃO.",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Vicente de Tomé do Nascimento Filho",
-          "tipo_trabalho": "",
-          "instituicao": "Dissertação (Mestrado em PROGRAMA DE ENSINO DE CIÊNCIAS E MATEMÁTICA (PGECM)) - Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
-          "curso": ""
-        },
-        {
-          "titulo": "A UTILIZAÇÃO DOS AMBIENTES VIRTUAIS DE APRENDIZAGEM E A PANDEMIA DA COVID-19: UM ESTUDO DE CASO NO CURSO DE LICENCIATURA EM QUÍMICA (IFCE-CAMPUS MARACANAÚ)",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Nágila Menezes Rocha",
           "tipo_trabalho": "",
           "instituicao": "Dissertação (Mestrado em PROGRAMA DE ENSINO DE CIÊNCIAS E MATEMÁTICA (PGECM)) - Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
           "curso": ""
@@ -2380,55 +2223,6 @@
         "ano": 2022,
         "tipo_evento": "Congresso",
         "tipo": "Participação em evento"
-      },
-      {
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "apresentacao": "A PERCEPÇÃO AMBIENTAL DOS ESTUDANTES DE UM CURSO TÉCNICO INTEGRADO EM PETROQUÍMICA, NO LITORAL LESTE DO CEARÁ, BRASIL",
-        "ano": 2020,
-        "tipo_evento": "Encontro",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "apresentacao": "MANUAL DE ANÁLISES FÍSICO-QUÍMICAS DE ÁGUA: UMA FERRAMENTA DE CONTEXTUALIZAÇÃO NO ENSINO E APRENDIZAGEM DE QUÍMICA EM UM CURSO TÉCNICO",
-        "ano": 2020,
-        "tipo_evento": "Encontro",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "apresentacao": "A PERCEPÇÃO AMBIENTAL DOS ESTUDANTES DE UM CURSO TÉCNICO INTEGRADO EM PETROQUÍMICA, NO LITORAL LESTE DO CEARÁ, BRASIL",
-        "ano": 2020,
-        "tipo_evento": "Encontro",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "apresentacao": "USO DE APLICATIVOS MÓVEIS PARA O ENSINO DE QUÍMICA",
-        "ano": 2020,
-        "tipo_evento": "Encontro",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "A Voz dos Professores de C&T (VPCT)",
-        "apresentacao": "MANUAL DE ANÁLISES FÍSICO-QUÍMICAS DE ÁGUA: UMA FERRAMENTA DE CONTEXTUALIZAÇÃO NO ENSINO E APRENDIZAGEM DE QUÍMICA EM UM CURSO TÉCNICO",
-        "ano": 2020,
-        "tipo_evento": "Encontro",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "XXVII Colóquio da AFIRSE Portugal",
-        "apresentacao": "A UTILIZAÇÃO DE NARRAÇÕES MULTIMODAIS NA IDENTIFICAÇÃO DE PRÁTICAS EPISTÊMICAS PARA UMA EDUCAÇÃO AMBIENTAL",
-        "ano": 2020,
-        "tipo_evento": "Outra",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "XXVII Colóquio da AFIRSE Portugal",
-        "apresentacao": "A UTILIZAÇÃO DE NARRAÇÕES MULTIMODAIS NA IDENTIFICAÇÃO DE PRÁTICAS EPISTÊMICAS PARA UMA EDUCAÇÃO AMBIENTAL",
-        "ano": 2020,
-        "tipo_evento": "Outra",
-        "tipo": "Participação em evento"
       }
     ],
     "organizacoes": [
@@ -2683,34 +2477,6 @@
         "titulo_trabalho": "A ABORDAGEM CTS NA PERSPECTIVA DE DISCIPLINA E OS ESTUDOS DE NANOTECNOLOGIA PARA A FORMAÇÃO NA LICENCIATURA EM QUIMICA: METODOLOGIAS E EXPERIMENTOS",
         "curso": "Dissertação (Mestrado em Programa de Pós-graduação em Ensino de Ciências e Matemática ? PGECM/IFCE.)",
         "universidade": "Intituto Federal de Educação, Ciência e Tecnologia do Ceará"
-      },
-      {
-        "descricao": "VASCONCELOS, ANA; BARROSO, M. C. S.; SANTOS, J. C. S.. Participação em banca de Marcelo Henrique Freitas Saraiva Guerra. Uso de Objetos de Aprendizagem como instrumentos potencialmente significativos no estudo de ácidos-bases: uma aplicação da Aprendizagem Significativa no ensino de médio. 2020. Dissertação (Mestrado em Ensino de Ciências e Matemática) - Instituto Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Mestrado",
-        "aluno": "Marcelo Henrique Freitas Saraiva Guerra",
-        "membros_banca": [
-          "VASCONCELOS, ANA",
-          "BARROSO, M. C. S.",
-          "SANTOS, J. C. S."
-        ],
-        "titulo_trabalho": "Uso de Objetos de Aprendizagem como instrumentos potencialmente significativos no estudo de ácidos-bases: uma aplicação da Aprendizagem Significativa no ensino de médio",
-        "curso": "Dissertação (Mestrado em Ensino de Ciências e Matemática)",
-        "universidade": "Instituto Federal do Ceará"
-      },
-      {
-        "descricao": "VASCONCELOS, ANA; SAMPAIO, C. G.; ASSUNÇÂO, J. C. C.. Participação em banca de Gabriela Clemente Brito Saldanha. O livro \"Os botões de Napoleão: as 17 moléculas que mudaram a história\" no contexto da aprendizagem significativa na formação inicial de professores de Química. 2020. Dissertação (Mestrado em Ensino de Ciências e Matemática) - Instituto Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Mestrado",
-        "aluno": "Gabriela Clemente Brito Saldanha",
-        "membros_banca": [
-          "VASCONCELOS, ANA",
-          "SAMPAIO, C. G.",
-          "ASSUNÇÂO, J. C. C."
-        ],
-        "titulo_trabalho": "O livro \"Os botões de Napoleão: as 17 moléculas que mudaram a história\" no contexto da aprendizagem significativa na formação inicial de professores de Química",
-        "curso": "Dissertação (Mestrado em Ensino de Ciências e Matemática)",
-        "universidade": "Instituto Federal do Ceará"
       }
     ],
     "doutorado": [
@@ -2746,22 +2512,6 @@
         "titulo_trabalho": "ANÁLISE DO ENFOQUE CTS NOS COLÉGIOS DA POLÍCIA MILITAR DO CEARÁ: DAS PERCEPÇÕES ÀS PRÁTICAS DE ENSINO DOS PROFESSORES DE QUÍMICA",
         "curso": "Tese (Doutorado em Doutorado em Ensino de Ciências e Matemática)",
         "universidade": "Intituto Federal de Educação, Ciência e Tecnologia do Ceará"
-      },
-      {
-        "descricao": "RIBEIRO, L. P. D.; VASCONCELOS, AKP; ALMEIDA, C. A. S.; PEREIRA, A. S.; LEITE, R. C. M.. Participação em banca de LEONARDO FIGUEIREDO SOARES. \"Horizontes Compreensivos da Formação Continuada Transpandêmica (2020?2025): impactos da incorporação de Tecnologias Digitais e Metodologias Ativas no Ensino de Ciências no Maciço de Baturité (CE)\". 2025. Tese (Doutorado em Doutorado em Ensino (RENOEN-UFC)) - Universidade Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Tese de Doutorado",
-        "aluno": "LEONARDO FIGUEIREDO SOARES. \"Horizontes Compreensivos da Formação Continuada Transpandêmica (2020?2025): impactos da incorporação de Tecnologias Digitais e Metodologias Ativas no Ensino de Ciências no Maciço de Baturité (CE)\"",
-        "membros_banca": [
-          "RIBEIRO, L. P. D.",
-          "VASCONCELOS, AKP",
-          "ALMEIDA, C. A. S.",
-          "PEREIRA, A. S.",
-          "LEITE, R. C. M."
-        ],
-        "titulo_trabalho": "",
-        "curso": "",
-        "universidade": "Universidade Federal do Ceará"
       },
       {
         "descricao": "MOTA, E. F.; VASCONCELOS, AKP; LEITE, R. C. M.; BRANDAO, J. C.; CARDOSO, N. S.. Participação em banca de jairo ribeiro de lima. AS CONTRIBUIÇÕES DA BIOTECNOLOGIA NA FORMAÇÃO INICIAL DE PROFESSORES DE BIOLOGIA E QUÍMICA. 2025. Tese (Doutorado em Doutorado em Ensino (RENOEN-UFC)) - Universidade Federal do Ceará.",
@@ -3007,50 +2757,6 @@
         "universidade": ""
       },
       {
-        "descricao": "SAMPAIO, C. G.; VASCONCELOS, ANA; BARROSO, M. C. S.. Participação em banca de Caio Rômulo Freitas Silva. Ensino de Química Ambiental com Abordagem CTSA: em estudo contextualizo sobre metais tóxicos e sua remoção pela técnica de adsorção. 2020.",
-        "ano": 2020,
-        "tipo": "Participação em banca",
-        "aluno": "Caio Rômulo Freitas Silva",
-        "membros_banca": [
-          "SAMPAIO, C. G.",
-          "VASCONCELOS, ANA",
-          "BARROSO, M. C. S."
-        ],
-        "titulo_trabalho": "Ensino de Química Ambiental com Abordagem CTSA: em estudo contextualizo sobre metais tóxicos e sua remoção pela técnica de adsorção",
-        "curso": "",
-        "universidade": ""
-      },
-      {
-        "descricao": "BARROSO, M. C. S.; ARIZA ARIZA, LEIDY GABRIELA; SAMPAIO, C. G.; VASCONCELOS, ANA; ASSUNÇÂO, J. C. C.. Participação em banca de Antonio Marley de Araújo Stedile. A Química no período de colonização do Brasil: um estudo no ensino rural, à luz do materialismo histórico-dialético. 2020.",
-        "ano": 2020,
-        "tipo": "Participação em banca",
-        "aluno": "Antonio Marley de Araújo Stedile",
-        "membros_banca": [
-          "BARROSO, M. C. S.",
-          "ARIZA ARIZA, LEIDY GABRIELA",
-          "SAMPAIO, C. G.",
-          "VASCONCELOS, ANA",
-          "ASSUNÇÂO, J. C. C."
-        ],
-        "titulo_trabalho": "A Química no período de colonização do Brasil: um estudo no ensino rural, à luz do materialismo histórico-dialético",
-        "curso": "",
-        "universidade": ""
-      },
-      {
-        "descricao": "SAMPAIO, C. G.; VASCONCELOS, ANA; BARROSO, M. C. S.. Participação em banca de Inaiá Lopes Guerreiro. O ensino da tabela periódica com enfoque CTS: a relação entre elementos químicos, tecnologia e o livro \"A colher que desaparece: e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. 2020.",
-        "ano": 2020,
-        "tipo": "Participação em banca",
-        "aluno": "Inaiá Lopes Guerreiro",
-        "membros_banca": [
-          "SAMPAIO, C. G.",
-          "VASCONCELOS, ANA",
-          "BARROSO, M. C. S."
-        ],
-        "titulo_trabalho": "O ensino da tabela periódica com enfoque CTS: a relação entre elementos químicos, tecnologia e o livro \"A colher que desaparece: e outras histórias reais de loucura, amor e morte a partir dos elementos químicos",
-        "curso": "",
-        "universidade": ""
-      },
-      {
         "descricao": "VASCONCELOS, AKP; CHAVES, P. J. S.; COSTA, S. M. L.. Participação em banca de Ellen Larissa Matos Costa. O CURSO TÉCNICO EM GUIA DE TURISMO E A APRENDIZAGEM EM LIBRAS: ASPECTOS E PERSPECTIVAS. 2023. Monografia (Aperfeiçoamento/Especialização em Especialização em Docência para Educação Profissional e Tecnológica) - Instituto Federal do Ceará - Campus Paracuru.",
         "ano": 2023,
         "tipo": "Participação em banca",
@@ -3185,14 +2891,14 @@
     ]
   },
   "estatisticas": {
-    "total_artigos_periodicos": 38,
+    "total_artigos_periodicos": 36,
     "total_livros": 5,
     "total_capitulos": 11,
-    "total_trabalhos_congressos": 5,
-    "total_projetos_pesquisa": 3,
+    "total_trabalhos_congressos": 2,
+    "total_projetos_pesquisa": 2,
     "total_projetos_extensao": 6,
     "total_projetos_desenvolvimento": 0,
-    "total_orientacoes_concluidas": 20,
+    "total_orientacoes_concluidas": 18,
     "total_orientacoes_andamento": 4
   }
 }

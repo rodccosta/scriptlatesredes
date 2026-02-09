@@ -212,30 +212,6 @@
         "issn": "2644-125X",
         "doi": "http://dx.doi.org/10.1109/ojcoms.2022.3224576",
         "qualis": ""
-      },
-      {
-        "titulo": "User-assisted bearer split control for dual connectivity in multi-RAT 5G networks",
-        "ano": 2020,
-        "autores": "ANTONIOLI, ROBERTO P. ; GUERREIRO, IGOR M. ; SOUSA, DIEGO AGUIAR ; RODRIGUES, EMANUEL BEZERRA ; E SILVA, CARLOS F. M. ; MACIEL, TARCÍSIO FERREIRA ; CAVALCANTI, FRANCISCO RODRIGO PORTO",
-        "revista": "WIRELESS NETWORKS (ONLINE)",
-        "volume": "26",
-        "numero": "",
-        "paginas": "3675-3685",
-        "issn": "1572-8196",
-        "doi": "http://dx.doi.org/10.1007/s11276-020-02283-6",
-        "qualis": ""
-      },
-      {
-        "titulo": "Unified Scheduling Framework for Dual Connectivity in Multi-RAT NSA 5G Networks",
-        "ano": 2020,
-        "autores": "ANTONIOLI, ROBERTO ; SOUSA, DIEGO ; RODRIGUES, EMANUEL ; GUERREIRO, IGOR ; SILVA, CARLOS ; MACIEL, TARCISIO ; CAVALCANTI, FRANCISCO",
-        "revista": "Journal of Communication and Information Systems (JCIS),",
-        "volume": "35",
-        "numero": "",
-        "paginas": "203-207",
-        "issn": "1980-6604",
-        "doi": "http://dx.doi.org/10.14209/jcis.2020.22",
-        "qualis": ""
       }
     ],
     "livros_publicados": [],
@@ -275,15 +251,6 @@
         "evento": "XXXIX Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
         "cidade": "",
         "paginas": "",
-        "isbn": ""
-      },
-      {
-        "titulo": "QoS Predictability in V2X Communication with Machine Learning",
-        "ano": 2020,
-        "autores": "MOREIRA, DARLAN C. ; GUERREIRO, IGOR M. ; SUN, WANLU ; CAVALCANTE, CHARLES C. ; SOUSA, DIEGO A.",
-        "evento": "2020 IEEE 91st Vehicular Technology Conference (VTC2020Spring)",
-        "cidade": "",
-        "paginas": "1",
         "isbn": ""
       }
     ],
@@ -334,66 +301,18 @@
     "organizacoes": []
   },
   "bancas": {
-    "mestrado": [
-      {
-        "descricao": "FERNANDES, C. A. R.; LIMA, F. R. M.; SOUSA, D. A.. Participação em banca de Syllas Rangel Carneiro Magalhães. Sistema Cooperativo OFDMA Uplink Multiusuário com Amplificadores de Potência Não Lineares: Caracterização Teórica e Alocação de Recursos. 2020. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Mestrado",
-        "aluno": "Syllas Rangel Carneiro Magalhães",
-        "membros_banca": [
-          "FERNANDES, C. A. R.",
-          "LIMA, F. R. M.",
-          "SOUSA, D. A."
-        ],
-        "titulo_trabalho": "Sistema Cooperativo OFDMA Uplink Multiusuário com Amplificadores de Potência Não Lineares: Caracterização Teórica e Alocação de Recursos",
-        "curso": "Dissertação (Mestrado em Engenharia Elétrica e de Computação)",
-        "universidade": "Universidade Federal do Ceará"
-      }
-    ],
-    "doutorado": [
-      {
-        "descricao": "MACIEL, T. F.; SILVA, Y. C. B.; SOUSA, DIEGO; SANTOS FILHO, J. C. S.. Participação em banca de Yuri Victor Lima de Melo. Dynamic e-ICIC Strategies Based on Financial Techniques. 2020. Tese (Doutorado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Tese de Doutorado",
-        "aluno": "Yuri Victor Lima de Melo",
-        "membros_banca": [
-          "MACIEL, T. F.",
-          "SILVA, Y. C. B.",
-          "SOUSA, DIEGO",
-          "SANTOS FILHO, J. C. S."
-        ],
-        "titulo_trabalho": "Dynamic e-ICIC Strategies Based on Financial Techniques",
-        "curso": "Tese (Doutorado em Engenharia de Teleinformática)",
-        "universidade": "Universidade Federal do Ceará"
-      },
-      {
-        "descricao": "SILVA, Y. C. B.; MACIEL, T. F.; LIMA, F. R. M.; SOUSA, DIEGO; MARTINS, W. A.; KLEIN, A.. Participação em banca de Laszlon Rodrigues da Costa. Spatial compatibility metrics applied in 5G C-RAN networks. 2020. Tese (Doutorado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Tese de Doutorado",
-        "aluno": "Laszlon Rodrigues da Costa",
-        "membros_banca": [
-          "SILVA, Y. C. B.",
-          "MACIEL, T. F.",
-          "LIMA, F. R. M.",
-          "SOUSA, DIEGO",
-          "MARTINS, W. A.",
-          "KLEIN, A."
-        ],
-        "titulo_trabalho": "Spatial compatibility metrics applied in 5G C-RAN networks",
-        "curso": "Tese (Doutorado em Engenharia de Teleinformática)",
-        "universidade": "Universidade Federal do Ceará"
-      }
-    ],
+    "mestrado": [],
+    "doutorado": [],
     "qualificacao_doutorado": [],
     "qualificacao_mestrado": [],
     "graduacao": [],
     "outras": []
   },
   "estatisticas": {
-    "total_artigos_periodicos": 8,
+    "total_artigos_periodicos": 6,
     "total_livros": 0,
     "total_capitulos": 0,
-    "total_trabalhos_congressos": 5,
+    "total_trabalhos_congressos": 4,
     "total_projetos_pesquisa": 1,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,

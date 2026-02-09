@@ -656,50 +656,14 @@
       "pos_doutorado": [],
       "doutorado": [],
       "mestrado": [],
-      "especializacao": [
-        {
-          "titulo": "O uso excessivo da tecnologia e as principais doenças associadas",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Karen Luana Teixeira da Costa",
-          "tipo_trabalho": "Monografia",
-          "instituicao": "Centro Universitário 7 de setembro",
-          "curso": ""
-        },
-        {
-          "titulo": "Comparação de metodologias de desenvolvimento ágil: XP e FDD",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Flavius Filipe Benevides Almeida",
-          "tipo_trabalho": "Monografia",
-          "instituicao": "Centro Universitário 7 de setembro",
-          "curso": ""
-        },
-        {
-          "titulo": "Análise de problemas de qualidade em softwares desenvolvidos por equipes ágeis",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Irisvanda Vieira Cunha",
-          "tipo_trabalho": "Monografia",
-          "instituicao": "Centro Universitário 7 de setembro",
-          "curso": ""
-        }
-      ],
+      "especializacao": [],
       "tcc": [],
       "iniciacao_cientifica": [],
       "outros": []
     }
   },
   "eventos": {
-    "participacoes": [
-      {
-        "evento": "I Congresso Internacional Virtual de Pesquisa, Pós-Graduação e Inovação (CONINP)",
-        "apresentacao": "Análise dos softwares de tecnologia assistiva com foco em pessoas surdas",
-        "ano": 2020,
-        "tipo_evento": "Congresso",
-        "tipo": "Participação em evento"
-      }
-    ],
+    "participacoes": [],
     "organizacoes": []
   },
   "bancas": {
@@ -707,35 +671,7 @@
     "doutorado": [],
     "qualificacao_doutorado": [],
     "qualificacao_mestrado": [],
-    "graduacao": [
-      {
-        "descricao": "Costa, P. S. H.; Silva, A. R.. Participação em banca de Maria Aldenisa de Sousa da Silva.A visão dos jovens sobre alimentação saudável e a relação com seus hábitos alimentares. 2020. Trabalho de Conclusão de Curso (Graduação em Gastronomia) - Instituto Federal de Educação, Ciência e Tecnologia do Ceará.",
-        "ano": 2020,
-        "tipo": "Trabalho de Conclusão de Curso de Graduação",
-        "aluno": "Maria Aldenisa de Sousa da Silva",
-        "membros_banca": [
-          "Costa, P. S. H.",
-          "Silva, A. R."
-        ],
-        "titulo_trabalho": "A visão dos jovens sobre alimentação saudável e a relação com seus hábitos alimentares",
-        "curso": "Trabalho de Conclusão de Curso (Graduação em Gastronomia)",
-        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
-      },
-      {
-        "descricao": "Silva, A. R.; Zani, J. A.; Oliveira, A. P. R.. Participação em banca de Aline Raiane de Oliveira Silva.Alimentos funcionais e doenças crônicas: desenvolvimento de um software para auxílio da comunidade em geral. 2020. Trabalho de Conclusão de Curso (Graduação em Nutrição) - Instituto Federal de Educação Ciência e Tecnologia do Ceará.",
-        "ano": 2020,
-        "tipo": "Trabalho de Conclusão de Curso de Graduação",
-        "aluno": "Aline Raiane de Oliveira Silva",
-        "membros_banca": [
-          "Silva, A. R.",
-          "Zani, J. A.",
-          "Oliveira, A. P. R."
-        ],
-        "titulo_trabalho": "Alimentos funcionais e doenças crônicas: desenvolvimento de um software para auxílio da comunidade em geral",
-        "curso": "Trabalho de Conclusão de Curso (Graduação em Nutrição)",
-        "universidade": "Instituto Federal de Educação Ciência e Tecnologia do Ceará"
-      }
-    ],
+    "graduacao": [],
     "outras": []
   },
   "estatisticas": {

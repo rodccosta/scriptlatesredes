@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-01-30">
+  <meta lastmodifieddate="2026-02-09">
     <creator>NetworkX 3.5</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -65,9 +65,9 @@
           <attvalue for="7" value="Administração" />
           <attvalue for="8" value="Instituto Federal de Educação Ciência e Tecnologia do Ceará" />
           <attvalue for="9" value="Instituto Federal de Educação Ciência e Tecnologia do Ceará. RUA ANTONIO SALES Benfica 62680000 - Paracuru, CE - Brasil Telefone: (85) 33073702" />
-          <attvalue for="10" value="37" />
-          <attvalue for="11" value="2" />
-          <attvalue for="12" value="17" />
+          <attvalue for="10" value="33" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="13" />
           <attvalue for="13" value="0" />
           <attvalue for="14" value="#33a02c" />
           <attvalue for="15" value="#ffffff" />
@@ -115,10 +115,10 @@
           <attvalue for="7" value="Educação Física" />
           <attvalue for="8" value="" />
           <attvalue for="9" value="" />
-          <attvalue for="10" value="56" />
+          <attvalue for="10" value="49" />
           <attvalue for="11" value="4" />
-          <attvalue for="12" value="15" />
-          <attvalue for="13" value="8" />
+          <attvalue for="12" value="12" />
+          <attvalue for="13" value="5" />
           <attvalue for="14" value="#33a02c" />
           <attvalue for="15" value="#ffffff" />
           <attvalue for="16" value="0" />
@@ -140,8 +140,8 @@
           <attvalue for="7" value="Química" />
           <attvalue for="8" value="Instituto Federal do Ceará, Campus Paracuru" />
           <attvalue for="9" value="Instituto Federal do Ceará, Campus Paracuru. CE-341 km-2, s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210 URL da Homepage: www.ifce.edu.br" />
-          <attvalue for="10" value="38" />
-          <attvalue for="11" value="5" />
+          <attvalue for="10" value="36" />
+          <attvalue for="11" value="2" />
           <attvalue for="12" value="11" />
           <attvalue for="13" value="5" />
           <attvalue for="14" value="#33a02c" />
@@ -215,8 +215,8 @@
           <attvalue for="7" value="[sem-area]" />
           <attvalue for="8" value="Instituto Federal do Ceará" />
           <attvalue for="9" value="Instituto Federal do Ceará. Av. Treze de Mai, 2081 Benfica 60040531 - Fortaleza, CE - Brasil Telefone: (85) 33073666 Fax: (85) 33073711 URL da Homepage: www.ifce.edu.br" />
-          <attvalue for="10" value="1" />
-          <attvalue for="11" value="1" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
           <attvalue for="12" value="0" />
           <attvalue for="13" value="0" />
           <attvalue for="14" value="#33a02c" />
@@ -240,8 +240,8 @@
           <attvalue for="7" value="[sem-area]" />
           <attvalue for="8" value="INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru" />
           <attvalue for="9" value="INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA, Campus Paracuru. CE-341, Km 2, S/N Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210" />
-          <attvalue for="10" value="8" />
-          <attvalue for="11" value="5" />
+          <attvalue for="10" value="6" />
+          <attvalue for="11" value="4" />
           <attvalue for="12" value="0" />
           <attvalue for="13" value="0" />
           <attvalue for="14" value="#33a02c" />
@@ -267,7 +267,7 @@
           <attvalue for="9" value="Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Ce 341, Km 2 s/n Novo Paracuru 62680000 - Paracuru, CE - Brasil Telefone: (85) 34012210" />
           <attvalue for="10" value="3" />
           <attvalue for="11" value="0" />
-          <attvalue for="12" value="1" />
+          <attvalue for="12" value="0" />
           <attvalue for="13" value="0" />
           <attvalue for="14" value="#33a02c" />
           <attvalue for="15" value="#ffffff" />
@@ -415,7 +415,7 @@
           <attvalue for="7" value="Letras" />
           <attvalue for="8" value="" />
           <attvalue for="9" value="" />
-          <attvalue for="10" value="5" />
+          <attvalue for="10" value="2" />
           <attvalue for="11" value="0" />
           <attvalue for="12" value="0" />
           <attvalue for="13" value="0" />

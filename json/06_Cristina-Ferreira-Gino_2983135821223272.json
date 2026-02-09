@@ -389,25 +389,6 @@
           "papel": "Coordenador"
         }
       ]
-    },
-    {
-      "nome": "Lives Rotas Musicais",
-      "ano_inicio": "2020",
-      "ano_conclusao": "2026",
-      "descricao": [
-        "Descrição: O projeto foi pensado para ser desenvolvido no período de distanciamento social. O mesmo tem o caráter de promover discussões e debates a respeito de música, em sus diversas formas; educacional, artística, cultural e empreendedora. Possibilitando à sociedade momentos de esclarecimento, discussões e também entretenimento através das mídias sociais, em especifico a rede do Instagram e Facebook.. Situação: Em andamento; Natureza: Extensão. Integrantes: Cristina Ferreira Gino - Integrante / Lia Raquel Monteiro Santos Venturieri - Coordenador."
-      ],
-      "tipo": "Projeto de extensão",
-      "integrantes": [
-        {
-          "nome": "Cristina Ferreira Gino",
-          "papel": "Integrante"
-        },
-        {
-          "nome": "Lia Raquel Monteiro Santos Venturieri",
-          "papel": "Coordenador"
-        }
-      ]
     }
   ],
   "projetos_desenvolvimento": [],
@@ -489,37 +470,9 @@
     ],
     "trabalhos_completos_congressos": [],
     "resumos_expandidos": [],
-    "resumos_congressos": [
-      {
-        "titulo": "CURRÍCULO E SABERES DOCENTES: UMA PROPOSTA CURRICULAR PARA A ESCOLA DE MÚSICA DE PARACURU/CE",
-        "ano": 2020,
-        "autores": "GINO, C. F.; SOUZA, E. L. F.",
-        "evento": "I Encontro de Educação Musical do Piauí - Teresina - PI, 2020, Online. Anais do Evento: Encontro de Educação Musical do Piauí",
-        "cidade": ""
-      },
-      {
-        "titulo": "ENSINO DE MÚSICA EM TEMPOS DE PANDEMIA DA COVID-19: UM RELATO DE EXPERIÊNCIA NA ESCOLA DE MÚSICA DE PARACURU",
-        "ano": 2020,
-        "autores": "GINO, C. F.; SOUZA, E. L. F.",
-        "evento": "II BIENAL DE MÚSICA DO IFCE - PAULO ABEL DO NASCIMENTO, 2020, Evento Online. II BIENAL DE MÚSICA DO IFCE - PAULO ABEL DO NASCIMENTO",
-        "cidade": ""
-      }
-    ],
+    "resumos_congressos": [],
     "artigos_aceitos": [],
-    "apresentacoes_trabalhos": [
-      {
-        "titulo": "Currículo e saberes docentes: uma proposta curricular para a Escola de Música de Paracuru/CE",
-        "ano": 2020,
-        "autores": "GINO, C. F.; SOUZA, E. L. F.",
-        "evento": ""
-      },
-      {
-        "titulo": "Currículo e saberes docentes: uma proposta curricular para a Escola de Música de Paracuru/CE",
-        "ano": 2020,
-        "autores": "GINO, C. F.; SOUZA, E. L. F.",
-        "evento": ""
-      }
-    ],
+    "apresentacoes_trabalhos": [],
     "textos_jornais": [],
     "outras_producoes": []
   },
@@ -541,24 +494,6 @@
         "ano": 2021,
         "autores": "GINO, C. F",
         "tipo": "Demais tipos de produção técnica"
-      },
-      {
-        "titulo": "Oficina de Teclado Coletivo",
-        "ano": 2020,
-        "autores": "GINO, C. F",
-        "tipo": "Demais tipos de produção técnica"
-      },
-      {
-        "titulo": "Comissão local de heteroidentificação do IFCE campus Paracuru",
-        "ano": 2020,
-        "autores": "GINO, C. F.; PEREIRA, A. S. M. ; MARTINS, J. R. ; ROCHA, S. S. D. ; SANTOS, C. M. S. ; SILVA, A. C. ; LUCAS, A. B. ; SANTOS, T. G. ; LIMA, L. R.",
-        "tipo": "Demais tipos de produção técnica"
-      },
-      {
-        "titulo": "Comissão Permanente de Organização dos Fóruns de Educação Musical do IFCE",
-        "ano": 2020,
-        "autores": "ROCHA, M. S. ; GINO, C. F. ; PEROBA, F. M. E. ; MORAIS, M. F. C. ; PEREIRA, J. P. ; SILVA. M. A. M. ; ROSA. R. M. ; FILHO. R. E. S. T. ; GOMES. L. G.",
-        "tipo": "Demais tipos de produção técnica"
       }
     ],
     "entrevistas": [
@@ -579,13 +514,6 @@
     {
       "titulo": "Apresentação Musical no Encontro ANPAP Cearense de jovens pesquisadores",
       "ano": 2021,
-      "autores": "GINO, C. F",
-      "tipo": "Produção artística/cultural",
-      "evento": ""
-    },
-    {
-      "titulo": "Posse de Juízes no Tribunal de Justiça do Estado do Ceará",
-      "ano": 2020,
       "autores": "GINO, C. F",
       "tipo": "Produção artística/cultural",
       "evento": ""
@@ -643,27 +571,6 @@
         "ano": 2021,
         "tipo_evento": "Encontro",
         "tipo": "Participação em evento"
-      },
-      {
-        "evento": "Ciclo de Debates das Comissões de Heteroidentificação do IFCE",
-        "apresentacao": null,
-        "ano": 2020,
-        "tipo_evento": "Outra",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "II Semana Acadêmica de Música",
-        "apresentacao": null,
-        "ano": 2020,
-        "tipo_evento": "Seminário",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "Perspectivas sobre Artes: a utilização da Arte como discurso da alma",
-        "apresentacao": "Perspectivas sobre Artes: a utilização da Arte como discurso da alma (OFICINA)",
-        "ano": 2020,
-        "tipo_evento": "Oficina",
-        "tipo": "Participação em evento"
       }
     ],
     "organizacoes": [
@@ -699,13 +606,6 @@
         "autores": "PEREIRA, A. S. M. ; GINO, C. F.",
         "evento": "I Corrida de Aniversário do IFCE campus Paracuru",
         "ano": 2021,
-        "natureza": "Outro",
-        "tipo": "Organização de evento"
-      },
-      {
-        "autores": "VENTURIERI, L. R. M. S. ; GINO, C. F.",
-        "evento": "II Bienal de Música do IFCE - Paulo Abel do Nascimento",
-        "ano": 2020,
         "natureza": "Outro",
         "tipo": "Organização de evento"
       },
@@ -758,16 +658,6 @@
         "titulo_trabalho": "",
         "curso": "INSTITUTO FEDERAL DO CEARA",
         "universidade": "CAMPUS TIANGUA"
-      },
-      {
-        "descricao": "GINO, C. F.. AVALIAÇÃO DE PROJETOS EXTENSÃO - ARTE E CULTURA - IFSULDEMINAS. 2020. Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais.",
-        "ano": 2020,
-        "tipo": "Participação em banca",
-        "aluno": "",
-        "membros_banca": [],
-        "titulo_trabalho": "",
-        "curso": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais.",
-        "universidade": ""
       }
     ]
   },
@@ -777,7 +667,7 @@
     "total_capitulos": 1,
     "total_trabalhos_congressos": 0,
     "total_projetos_pesquisa": 1,
-    "total_projetos_extensao": 5,
+    "total_projetos_extensao": 4,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 0,
     "total_orientacoes_andamento": 0

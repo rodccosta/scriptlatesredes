@@ -1441,53 +1441,7 @@
       "doutorado": [],
       "mestrado": [],
       "especializacao": [],
-      "tcc": [
-        {
-          "titulo": "TEOREMA DE PITÁGORAS: INTERDISCIPLINARIDADE E SUAS APLICAÇÕES",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Antônio Wiliame Nogueira Dos Santos",
-          "tipo_trabalho": "Trabalho de Conclusão de Curso",
-          "instituicao": "Universidade Aberta do Brasil",
-          "curso": ""
-        },
-        {
-          "titulo": "A IMPORTÂNCIA DA EDUCAÇÃO FINANCEIRA E APLICAÇÕES DA MATEMÁTICA FINANCEIRA NO ENSINO FUNDAMENTAL",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Beatriz Rodrigues Uchôa",
-          "tipo_trabalho": "Trabalho de Conclusão de Curso",
-          "instituicao": "Universidade Aberta do Brasil",
-          "curso": ""
-        },
-        {
-          "titulo": "METODOLOGIAS ATIVAS NO ENSINO DA MATEMÁTICA: O USO DO KAHOOT NO ESTUDO DOS PRINCIPIOS DE GEOMÉTRICA PLANA PARA ALUNOS DA 6ª SÉRIE.",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Carlos Henrique Rodrigues dos Santos",
-          "tipo_trabalho": "Trabalho de Conclusão de Curso",
-          "instituicao": "Universidade Aberta do Brasil",
-          "curso": ""
-        },
-        {
-          "titulo": "METODOLOGIAS DIVERSAS PARA TRABALHAR COM POLINÔMIOS NO 8º ANO DO ENSINO FUNDAMENTAL.",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Devid Oliveira de Souza",
-          "tipo_trabalho": "Trabalho de Conclusão de Curso",
-          "instituicao": "Universidade Aberta do Brasil",
-          "curso": ""
-        },
-        {
-          "titulo": "APLICAÇÃO DA ESTATÍSTICA NA EPIDEMIOLOGIA",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Eder Dos Santos Zacarias",
-          "tipo_trabalho": "Trabalho de Conclusão de Curso",
-          "instituicao": "Universidade Aberta do Brasil",
-          "curso": ""
-        }
-      ],
+      "tcc": [],
       "iniciacao_cientifica": [],
       "outros": [
         {

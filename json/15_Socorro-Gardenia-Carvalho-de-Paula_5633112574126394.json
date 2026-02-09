@@ -360,42 +360,6 @@
         "issn": "0103-2178",
         "doi": "http://dx.doi.org/10.17851/2238-3824.26.2.107-123",
         "qualis": ""
-      },
-      {
-        "titulo": "Laviosa, Sara. Translation and Language Education: Pedagogical Approaches Explored, New York and London: Routledge, 2014. 174 p.",
-        "ano": 2020,
-        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE. Laviosa, Sara. Translation and Language Education: Pedagogical Approaches Explored, New York and London: Routledge, 2014. 174 p",
-        "revista": "CADERNOS DE TRADUÇÃO",
-        "volume": "40",
-        "numero": "",
-        "paginas": "327-333",
-        "issn": "2175-7968",
-        "doi": "http://dx.doi.org/10.5007/2175-7968.2020v40n2p327",
-        "qualis": ""
-      },
-      {
-        "titulo": "M. BYGATE Ed. Learning Language Through Task Repetition. Amsterdam: John Benjamins, 2018. https://revistas.unilab.edu.br/index.php/mandinga/article/view/426",
-        "ano": 2020,
-        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
-        "revista": "Mandinga",
-        "volume": "v.4 n.1",
-        "numero": "",
-        "paginas": "94-98",
-        "issn": "2526-3455",
-        "doi": "",
-        "qualis": ""
-      },
-      {
-        "titulo": "Repetição de Tarefas: Uma Revisão de Estudos Empíricos. https://revistas.unilab.edu.br/index.php/mandinga/article/view/476",
-        "ano": 2020,
-        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
-        "revista": "MANDINGA",
-        "volume": "v.4 n.2",
-        "numero": "",
-        "paginas": "14-26",
-        "issn": "2526-3455",
-        "doi": "",
-        "qualis": ""
       }
     ],
     "livros_publicados": [],
@@ -408,18 +372,6 @@
       {
         "titulo": "Working Memory Capacity and the Imprementation of New Information during Task Repetition",
         "ano": 2021,
-        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
-        "evento": ""
-      },
-      {
-        "titulo": "Memória de Trabalho, Repetição de Tarefa e Desempenho Oral em L2",
-        "ano": 2020,
-        "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
-        "evento": ""
-      },
-      {
-        "titulo": "Inglês Intermediário 2",
-        "ano": 2020,
         "autores": "PAULA, SOCORRO GARDENIA CARVALHO DE",
         "evento": ""
       }
@@ -480,34 +432,6 @@
         "ano": 2021,
         "tipo_evento": "Outra",
         "tipo": "Participação em evento"
-      },
-      {
-        "evento": "Online Seminars in Psycholinguistics",
-        "apresentacao": "Línguas Naturais e Psicosemântica",
-        "ano": 2020,
-        "tipo_evento": "Seminário",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "Online Seminars in Psycholinguistics",
-        "apresentacao": "Virtual Reality: A Promising Tool for the Study of Bilingual Language Production",
-        "ano": 2020,
-        "tipo_evento": "Seminário",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "Online Seminars in Psycholinguistics",
-        "apresentacao": "A busca por relevância através do olhar: no rastro da semelhança interpretativa em processos de tradução",
-        "ano": 2020,
-        "tipo_evento": "Seminário",
-        "tipo": "Participação em evento"
-      },
-      {
-        "evento": "X Fórum de Ensino do IFCE",
-        "apresentacao": "O Processo de Ensino e Aprendizagem de Forma Remota em Tempos de Isolamento Social: o olhar para a permanência e êxito discente.",
-        "ano": 2020,
-        "tipo_evento": "Outra",
-        "tipo": "Participação em evento"
       }
     ],
     "organizacoes": []
@@ -560,7 +484,7 @@
     ]
   },
   "estatisticas": {
-    "total_artigos_periodicos": 5,
+    "total_artigos_periodicos": 2,
     "total_livros": 0,
     "total_capitulos": 0,
     "total_trabalhos_congressos": 0,

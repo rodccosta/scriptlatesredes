@@ -266,18 +266,7 @@
       }
     ],
     "livros_publicados": [],
-    "capitulos_livros": [
-      {
-        "titulo": "Estudo da percepção do Ecossistema Manguezal com alunos de duas Escolas Municipais no Ceará. Estudo da percepção do Ecossistema Manguezal com alunos de duas Escolas Municipais no Ceará. 12ed.Belo Horizonte",
-        "ano": 2020,
-        "autores": "BENEVIDES, J. A. J.; COSTA, E. L. M. ; LIMA, A. S. ; MATOS, E. P. N. B.",
-        "titulo_livro": "",
-        "editora": "Editora Poisson",
-        "cidade": "",
-        "isbn": "",
-        "paginas": "13-17"
-      }
-    ],
+    "capitulos_livros": [],
     "trabalhos_completos_congressos": [],
     "resumos_expandidos": [],
     "resumos_congressos": [],
@@ -359,7 +348,7 @@
   "estatisticas": {
     "total_artigos_periodicos": 3,
     "total_livros": 0,
-    "total_capitulos": 1,
+    "total_capitulos": 0,
     "total_trabalhos_congressos": 0,
     "total_projetos_pesquisa": 1,
     "total_projetos_extensao": 1,

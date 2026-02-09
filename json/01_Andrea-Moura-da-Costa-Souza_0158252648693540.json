@@ -2212,54 +2212,6 @@
         "issn": "2525-3409",
         "doi": "http://dx.doi.org/10.33448/rsd-v10i16.23963",
         "qualis": ""
-      },
-      {
-        "titulo": "FUNÇÕES E APLICAÇÕES DAS ATIVIDADES DO PLANEJAMENTO E CONTROLE DA PRODUÇÃO EM UMA INDÚSTRIA DE INSUMOS PARA EMPRESAS DO SETOR TÊXTIL DO CEARÁ",
-        "ano": 2020,
-        "autores": "COSTA, ISAQUE SANTIAGO AMARO ; GURGEL, JORGE DOS SANTOS ; SOUZA, ANDRÉA MOURA DA COSTA",
-        "revista": "REVISTA GESTÃO EM ANÁLISE",
-        "volume": "9",
-        "numero": "",
-        "paginas": "159-168",
-        "issn": "1984-7297",
-        "doi": "http://dx.doi.org/10.12662/2359-618xregea.v9i2.p159-168.2020",
-        "qualis": ""
-      },
-      {
-        "titulo": "Produção do conhecimento no campo da educação profissional e tecnológica no contexto do Toyotismo",
-        "ano": 2020,
-        "autores": "ALMEIDA, EMANOEL RODRIGUES ; SILVA, SOLONILDO ALMEIDA DA ; MOREIRA, EUGENIO EDUARDO PIMENTEL ; SOUZA, ANDREA MOURA DA COSTA ; ROCHA, PAULO CÉSAR DA SILVA",
-        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
-        "volume": "9",
-        "numero": "",
-        "paginas": "e180993332-8",
-        "issn": "2525-3409",
-        "doi": "http://dx.doi.org/10.33448/rsd-v9i9.3332",
-        "qualis": ""
-      },
-      {
-        "titulo": "Cenário político e contribuições da mídia no processo de desvalorização da Ciência no Brasil",
-        "ano": 2020,
-        "autores": "ARAGAO, D. S. S. ; SOUZA, ANDRÉA MOURA DA COSTA ; SILVA, SOLONILDO ALMEIDA DA ; JUCA, S. C. S.",
-        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
-        "volume": "9",
-        "numero": "",
-        "paginas": "1-14",
-        "issn": "2525-3409",
-        "doi": "http://dx.doi.org/10.33448/rsd-v9i8.7138",
-        "qualis": ""
-      },
-      {
-        "titulo": "A aplicação do Project Model Canvas para o planejamento de um projeto educacional com aulas remotas no período de distanciamento social",
-        "ano": 2020,
-        "autores": "FERREIRA NETO, JOSÉ OLÍMPIO ; VASCONCELOS, ANA PAULA MARTINS FARIAS ; SOUZA, ANDRÉA MOURA DA COSTA ; PAIM, IGOR DE MORAES",
-        "revista": "RESEARCH, SOCIETY AND DEVELOPMENT",
-        "volume": "9",
-        "numero": "",
-        "paginas": "e16691210928-15",
-        "issn": "2525-3409",
-        "doi": "http://dx.doi.org/10.33448/rsd-v9i12.10928",
-        "qualis": ""
       }
     ],
     "livros_publicados": [],
@@ -2393,68 +2345,9 @@
         "cidade": "",
         "isbn": "",
         "paginas": "39-51"
-      },
-      {
-        "titulo": "CONCEPÇÕES DOCENTES SOBRE A LEITURA E O USO DAS TECNOLOGIAS EM SALA DE AULA",
-        "ano": 2020,
-        "autores": "SOUZA, N. E. C. ; BREVES FILHO, J. S. ; SOUZA, A. M.C",
-        "titulo_livro": "",
-        "editora": "IMPRECE",
-        "cidade": "",
-        "isbn": "",
-        "paginas": "106-123"
-      },
-      {
-        "titulo": "FORMAÇÃO AVALIATIVA DO PEDAGOGO: ELUCIDAÇÕES A PARTIR DOS DOCUMENTOS OFICIAIS",
-        "ano": 2020,
-        "autores": "FELIX, C. M. ; SOUZA, A. M.C",
-        "titulo_livro": "",
-        "editora": "IMPRECE",
-        "cidade": "",
-        "isbn": "",
-        "paginas": "147-159"
-      },
-      {
-        "titulo": "COMPETENCIAS DO PEDAGOGO NA EXPERIÊNCIA DA COMPONENTE CURRICULAR DE PEDAGOGIA ORGANIZACIONAL",
-        "ano": 2020,
-        "autores": "SOUZA, ANDRÉA MOURA DA COSTA; LIMA, MARCOS A. M.",
-        "titulo_livro": "",
-        "editora": "e-Publicar",
-        "cidade": "",
-        "isbn": "",
-        "paginas": "20"
-      },
-      {
-        "titulo": "AVALIAÇÃO DOCENTE EM ESTÁGIO PROBATÓRIO: ESTUDO DAS AÇÕES EDUCACIONAIS DO PROGRAMA CASA /UFC- COMUNIDADE DE COOPERAÇÃO E APRENDIZAGEM SIGNIFICATIVA",
-        "ano": 2020,
-        "autores": "SOUZA, A. M.C; LIMA, M. A. M.",
-        "titulo_livro": "",
-        "editora": "Realize",
-        "cidade": "",
-        "isbn": "",
-        "paginas": "949-968"
       }
     ],
-    "trabalhos_completos_congressos": [
-      {
-        "titulo": "DA C. How patensts become disruptive technologies at the higher educations institution points of convergence",
-        "ano": 2020,
-        "autores": "SOUZA, ANDRÉA M",
-        "evento": "INTERNATIONAL CONFERENCE O APLLIED MANAGEMENT",
-        "cidade": "",
-        "paginas": "",
-        "isbn": ""
-      },
-      {
-        "titulo": "A ROMANTIZAÇÃO DO TRABALHO DOCENTE E O DISCURSO DA POSITIVIDADE TÓXICA: UM OLHAR SOBRE A FORMAÇÃO DE PROFESSORES NO BRASIL",
-        "ano": 2020,
-        "autores": "FELIX, ; ALVES, P. T. A. ; MONTEIRO, B. S. ; VASCONCELOS, A. P. M. F. ; SOUZA, ANDRÉA M. DA C",
-        "evento": "Congresso Internacional de Ensino e Formação Docente",
-        "cidade": "",
-        "paginas": "",
-        "isbn": ""
-      }
-    ],
+    "trabalhos_completos_congressos": [],
     "resumos_expandidos": [],
     "resumos_congressos": [
       {
@@ -2487,14 +2380,7 @@
       }
     ],
     "artigos_aceitos": [],
-    "apresentacoes_trabalhos": [
-      {
-        "titulo": "M.C. How patensts become disruptive technologies at the higher educations institution points of convergence",
-        "ano": 2020,
-        "autores": "SOUZA, A",
-        "evento": ""
-      }
-    ],
+    "apresentacoes_trabalhos": [],
     "textos_jornais": [],
     "outras_producoes": []
   },
@@ -2503,22 +2389,8 @@
     "softwares_sem_patente": [],
     "produtos_tecnologicos": [],
     "processos_tecnicas": [],
-    "trabalhos_tecnicos": [
-      {
-        "titulo": "M.C. Chair the session teaching et learning in business",
-        "ano": 2020,
-        "autores": "SOUZA, A",
-        "tipo": "Trabalho técnico"
-      }
-    ],
-    "outras_producoes_tecnicas": [
-      {
-        "titulo": "relatório de pesquisa PAPEX 2020",
-        "ano": 2020,
-        "autores": "SOUZA, ANDRÉA MOURA DA COSTA",
-        "tipo": "Demais tipos de produção técnica"
-      }
-    ],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
     "entrevistas": [
       {
         "titulo": "MULHERES NA CIÊNCIA 07",
@@ -3037,22 +2909,6 @@
         "titulo_trabalho": "AS TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO: RECURSO POTENCIALIZADOR DA LEITURA NA PRATICA DO DOCENTE DE LINGUA PORTUGUESA",
         "curso": "Dissertação (Mestrado em Ensino e Formação Docente)",
         "universidade": "Instituto Federal do Ceará"
-      },
-      {
-        "descricao": "SILVA, SOLONILDO ALMEIDA DA; JUCA, S. C. S.; COSTA, A. M.; SOUZA, R. S.; BARREIRO, C. B.. Participação em banca de LUCELIA FERNANDES DE ALMEIDA LIMA. GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ. 2020. Dissertação (Mestrado em Ensino e Formação) - Instituto Federal do Ceará.",
-        "ano": 2020,
-        "tipo": "Mestrado",
-        "aluno": "LUCELIA FERNANDES DE ALMEIDA LIMA",
-        "membros_banca": [
-          "SILVA, SOLONILDO ALMEIDA DA",
-          "JUCA, S. C. S.",
-          "COSTA, A. M.",
-          "SOUZA, R. S.",
-          "BARREIRO, C. B."
-        ],
-        "titulo_trabalho": "GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ",
-        "curso": "Dissertação (Mestrado em Ensino e Formação)",
-        "universidade": "Instituto Federal do Ceará"
       }
     ],
     "doutorado": [],
@@ -3247,22 +3103,6 @@
         "titulo_trabalho": "Professores em formação em contexto no município de Fortaleza: limites e possibilidades",
         "curso": "Exame de qualificação (Mestrando em Programa Associado de Pós-Graduação em Ensino e Formação Docente (PPGEF UNI)",
         "universidade": ""
-      },
-      {
-        "descricao": "SILVA, SOLONILDO ALMEIDA DA; JUCA, S. C. S.; COSTA, A. M.; SOUZA, R. S.; BARREIRO, C. B.. Participação em banca de LUCELIA FERNANDES DE ALMEIDA LIMA. GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ. 2020. Exame de qualificação (Mestrando em PROGRAM DE PÓS-GRADUAÇÃO EM EDUCAÇÃO PROFISSIONAL E TECNOLOGICA) - INSTITUTO FEDERAL DO CEARA - CAMPUS TIANGUA.",
-        "ano": 2020,
-        "tipo": "Trabalho de Conclusão de Curso de Graduação",
-        "aluno": "LUCELIA FERNANDES DE ALMEIDA LIMA",
-        "membros_banca": [
-          "SILVA, SOLONILDO ALMEIDA DA",
-          "JUCA, S. C. S.",
-          "COSTA, A. M.",
-          "SOUZA, R. S.",
-          "BARREIRO, C. B."
-        ],
-        "titulo_trabalho": "GUIA DE TRANSTORNOS DA ANSIEDADE DIRECIONADO AS EQUIPES DE ENFERMAGEM DA REDE FEDERAL DE ENSINO TECNOLOGICO DO CEARÁ",
-        "curso": "Exame de qualificação (Mestrando em PROGRAM DE PÓS-GRADUAÇÃO EM EDUCAÇÃO PROFISSIONAL E TECNOLOGICA)",
-        "universidade": "CAMPUS TIANGUA"
       },
       {
         "descricao": "BEZERRA, M. A.; CARDOSO, P. H. G.; SOUZA, A. M.C. Participação em banca de ANTONIO EDMAR DOS SANTOS SILVA FILHO.AVALIAÇÃO DOS AGRICULTORES FAMILIARES PARTICIPANTES DOS PROGRAMAS PAA E PNAE QUE COMERCIALIZAM HORTALIÇAS NO MUNICÍPIO DE PARACURU-CE. 2022. Trabalho de Conclusão de Curso (Graduação em Gestão Ambiental) - Instituto Federal do Ceará.",
@@ -3519,10 +3359,10 @@
     ]
   },
   "estatisticas": {
-    "total_artigos_periodicos": 37,
+    "total_artigos_periodicos": 33,
     "total_livros": 0,
-    "total_capitulos": 17,
-    "total_trabalhos_congressos": 2,
+    "total_capitulos": 13,
+    "total_trabalhos_congressos": 0,
     "total_projetos_pesquisa": 5,
     "total_projetos_extensao": 2,
     "total_projetos_desenvolvimento": 2,

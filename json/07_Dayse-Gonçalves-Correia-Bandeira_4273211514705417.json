@@ -300,33 +300,10 @@
   "premios_titulos": [],
   "linhas_de_pesquisa": [],
   "producao_bibliografica": {
-    "artigos_periodicos": [
-      {
-        "titulo": "Performance Evaluation of Low-Complexity Algorithms for Orthogonal Time-Frequency Space Modulation",
-        "ano": 2020,
-        "autores": "BANDEIRA, DAYSE; LE RUYET, DIDIER ; PISCHELLA, MYLENE ; MOTA, JOÃO",
-        "revista": "Journal of Communication and Information Systems (JCIS),",
-        "volume": "35",
-        "numero": "",
-        "paginas": "138-149",
-        "issn": "1980-6604",
-        "doi": "http://dx.doi.org/10.14209/jcis.2020.15",
-        "qualis": ""
-      }
-    ],
+    "artigos_periodicos": [],
     "livros_publicados": [],
     "capitulos_livros": [],
-    "trabalhos_completos_congressos": [
-      {
-        "titulo": "Estudo de Detectores de Baixa Complexidade para Sistemas MIMO-OTFS",
-        "ano": 2020,
-        "autores": "BANDEIRA, DAYSE; RUYET, DIDIER ; PISCHELLA, MYLENE ; MOTA, JOAO",
-        "evento": "XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
-        "cidade": "",
-        "paginas": "",
-        "isbn": ""
-      }
-    ],
+    "trabalhos_completos_congressos": [],
     "resumos_expandidos": [],
     "resumos_congressos": [],
     "artigos_aceitos": [],
@@ -390,10 +367,10 @@
     "outras": []
   },
   "estatisticas": {
-    "total_artigos_periodicos": 1,
+    "total_artigos_periodicos": 0,
     "total_livros": 0,
     "total_capitulos": 0,
-    "total_trabalhos_congressos": 1,
+    "total_trabalhos_congressos": 0,
     "total_projetos_pesquisa": 0,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,

@@ -334,17 +334,7 @@
       "mestrado": [],
       "especializacao": [],
       "tcc": [],
-      "iniciacao_cientifica": [
-        {
-          "titulo": "O uso de agentes inteligentes para superar o ciclo ?editar-salvar-compilar-atualizar? no desenvolvimento de software",
-          "ano_inicio": 2020,
-          "ano_conclusao": 2020,
-          "orientando": "Iury Magalhães da Rocha",
-          "tipo_trabalho": "",
-          "instituicao": "Iniciação Científica - Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE",
-          "curso": ""
-        }
-      ],
+      "iniciacao_cientifica": [],
       "outros": []
     }
   },
@@ -368,7 +358,7 @@
     "total_projetos_pesquisa": 1,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
-    "total_orientacoes_concluidas": 1,
+    "total_orientacoes_concluidas": 0,
     "total_orientacoes_andamento": 0
   }
 }

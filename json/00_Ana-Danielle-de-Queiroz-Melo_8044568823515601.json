@@ -221,15 +221,7 @@
     }
   },
   "eventos": {
-    "participacoes": [
-      {
-        "evento": "II Congresso Nacional de química (CONDEQUI)",
-        "apresentacao": null,
-        "ano": 2020,
-        "tipo_evento": "Congresso",
-        "tipo": "Participação em evento"
-      }
-    ],
+    "participacoes": [],
     "organizacoes": [
       {
         "autores": "MELO, A. D. Q.. I Semana da Tecnologia de Alimentos. 2014. (Outro).",
